@@ -1,0 +1,22 @@
+diff a/Library/CurrentLayout.dwlt b/Library/CurrentLayout.dwlt	(rejected hunks)
+@@ -69,9 +69,20 @@
+     serializedVersion: 2
+     x: 0
+     y: 0
++<<<<<<< HEAD
+     width: 1536
+     height: 781
+   m_MinSize: {x: 950, y: 524}
++=======
++<<<<<<< HEAD
++    width: 1536
++    height: 781
++=======
++    width: 1350
++    height: 669
++>>>>>>> 7e93972156d4c8a2cf596aed0fffbae91b913403
++  m_MinSize: {x: 950, y: 300}
++>>>>>>> 10f25e42ae027e7cd45ac5d2c1236dabfc404cd2
+   m_MaxSize: {x: 10000, y: 10000}
+ --- !u!114 &4
+ MonoBehaviour:
