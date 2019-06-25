@@ -13,26 +13,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-06-24T09:49:51.614+07:00
-  initializedAtString: 2019-06-24T09:49:51.614+07:00
+  lastUpdatedAtString: 2019-06-25T10:54:12.886+07:00
+  initializedAtString: 2019-06-25T10:54:12.886+07:00
   currentGitRemote:
     name: origin
-    url: https://Kwarevo@bitbucket.org/beben9229/gummy-run.git
+    url: https://github.com/PharosTeam/GUMMYRUN.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   currentGitBranch:
-    name: BentoBranch
-    tracking: origin/BentoBranch
+    name: master
+    tracking: origin/master
   currentConfigBranch:
-    name: BentoBranch
+    name: master
     remote:
       name: origin
-      url: https://Kwarevo@bitbucket.org/beben9229/gummy-run.git
-    trackingBranch: 
+      url: https://github.com/PharosTeam/GUMMYRUN.git
+    trackingBranch: master
   currentConfigRemote:
     name: origin
-    url: https://Kwarevo@bitbucket.org/beben9229/gummy-run.git
+    url: https://github.com/PharosTeam/GUMMYRUN.git
   currentHead: 

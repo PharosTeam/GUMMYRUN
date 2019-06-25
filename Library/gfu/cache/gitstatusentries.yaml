@@ -13,1086 +13,1519 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-06-21T13:51:26.710+07:00
-  initializedAtString: 2019-06-21T13:50:10.482+07:00
+  lastUpdatedAtString: 2019-06-25T11:20:08.444+07:00
+  initializedAtString: 2019-06-25T10:54:14.113+07:00
   entries:
-  - path: Assembly-CSharp-Editor-firstpass.csproj
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assembly-CSharp-Editor-firstpass.csproj
-    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+  - path: Assets\Asset.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset.meta
+    projectPath: Assets\Asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub.meta
-    projectPath: Assets\Plugins\GitHub.meta
+  - path: Assets\Asset\Background.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Background.meta
+    projectPath: Assets\Asset\Background.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor.meta
-    projectPath: Assets\Plugins\GitHub\Editor.meta
+  - path: Assets\Asset\Background\Desert.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Background\Desert.png
+    projectPath: Assets\Asset\Background\Desert.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
-    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+  - path: Assets\Asset\Background\Desert.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Background\Desert.png.meta
+    projectPath: Assets\Asset\Background\Desert.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+  - path: Assets\Asset\Background\Forest.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Background\Forest.png
+    projectPath: Assets\Asset\Background\Forest.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\big-logo@2x.png
-    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+  - path: Assets\Asset\Background\Forest.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Background\Forest.png.meta
+    projectPath: Assets\Asset\Background\Forest.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
-    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+  - path: Assets\Asset\Background\Ice_Mountain_.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Background\Ice_Mountain_.png
+    projectPath: Assets\Asset\Background\Ice_Mountain_.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\credits.txt
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\credits.txt
-    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+  - path: Assets\Asset\Background\Ice_Mountain_.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Background\Ice_Mountain_.png.meta
+    projectPath: Assets\Asset\Background\Ice_Mountain_.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\credits.txt.meta
-    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+  - path: Assets\Asset\Background\Main Menu BG.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Background\Main
+      Menu BG.png
+    projectPath: Assets\Asset\Background\Main Menu BG.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\eula.txt
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\eula.txt
-    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+  - path: Assets\Asset\Background\Main Menu BG.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Background\Main
+      Menu BG.png.meta
+    projectPath: Assets\Asset\Background\Main Menu BG.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\eula.txt.meta
-    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+  - path: Assets\Asset\Background\Main Menu BG_Characters.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Background\Main
+      Menu BG_Characters.png
+    projectPath: Assets\Asset\Background\Main Menu BG_Characters.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
-    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+  - path: Assets\Asset\Background\Main Menu BG_Characters.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Background\Main
+      Menu BG_Characters.png.meta
+    projectPath: Assets\Asset\Background\Main Menu BG_Characters.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
-    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+  - path: Assets\Asset\Button.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Button.meta
+    projectPath: Assets\Asset\Button.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+  - path: Assets\Asset\Button\button 1-01.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Button\button
+      1-01.png
+    projectPath: Assets\Asset\Button\button 1-01.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+  - path: Assets\Asset\Button\button 1-01.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Button\button
+      1-01.png.meta
+    projectPath: Assets\Asset\Button\button 1-01.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+  - path: Assets\Asset\Button\button 2-01.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Button\button
+      2-01.png
+    projectPath: Assets\Asset\Button\button 2-01.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+  - path: Assets\Asset\Button\button 2-01.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Button\button
+      2-01.png.meta
+    projectPath: Assets\Asset\Button\button 2-01.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+  - path: Assets\Asset\Button\button 3-01.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Button\button
+      3-01.png
+    projectPath: Assets\Asset\Button\button 3-01.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+  - path: Assets\Asset\Button\button 3-01.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Button\button
+      3-01.png.meta
+    projectPath: Assets\Asset\Button\button 3-01.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+  - path: Assets\Asset\Button\button 4-01.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Button\button
+      4-01.png
+    projectPath: Assets\Asset\Button\button 4-01.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+  - path: Assets\Asset\Button\button 4-01.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Button\button
+      4-01.png.meta
+    projectPath: Assets\Asset\Button\button 4-01.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+  - path: Assets\Asset\Button\play button blue.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Button\play
+      button blue.png
+    projectPath: Assets\Asset\Button\play button blue.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+  - path: Assets\Asset\Button\play button blue.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Button\play
+      button blue.png.meta
+    projectPath: Assets\Asset\Button\play button blue.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+  - path: Assets\Asset\Button\play button orange.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Button\play
+      button orange.png
+    projectPath: Assets\Asset\Button\play button orange.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+  - path: Assets\Asset\Button\play button orange.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Button\play
+      button orange.png.meta
+    projectPath: Assets\Asset\Button\play button orange.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+  - path: Assets\Asset\Button\play button pink.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Button\play
+      button pink.png
+    projectPath: Assets\Asset\Button\play button pink.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+  - path: Assets\Asset\Button\play button pink.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Button\play
+      button pink.png.meta
+    projectPath: Assets\Asset\Button\play button pink.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+  - path: Assets\Asset\Button\play button red.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Button\play
+      button red.png
+    projectPath: Assets\Asset\Button\play button red.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+  - path: Assets\Asset\Button\play button red.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Button\play
+      button red.png.meta
+    projectPath: Assets\Asset\Button\play button red.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+  - path: Assets\Asset\Button\slide 1.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Button\slide
+      1.png
+    projectPath: Assets\Asset\Button\slide 1.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+  - path: Assets\Asset\Button\slide 1.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Button\slide
+      1.png.meta
+    projectPath: Assets\Asset\Button\slide 1.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+  - path: Assets\Asset\Button\slide 2.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Button\slide
+      2.png
+    projectPath: Assets\Asset\Button\slide 2.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+  - path: Assets\Asset\Button\slide 2.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Button\slide
+      2.png.meta
+    projectPath: Assets\Asset\Button\slide 2.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+  - path: Assets\Asset\Icon.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon.meta
+    projectPath: Assets\Asset\Icon.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+  - path: Assets\Asset\Icon\achievement.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\achievement.png
+    projectPath: Assets\Asset\Icon\achievement.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+  - path: Assets\Asset\Icon\achievement.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\achievement.png.meta
+    projectPath: Assets\Asset\Icon\achievement.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+  - path: Assets\Asset\Icon\back-01.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\back-01.png
+    projectPath: Assets\Asset\Icon\back-01.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\libsfw.bundle
-    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+  - path: Assets\Asset\Icon\back-01.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\back-01.png.meta
+    projectPath: Assets\Asset\Icon\back-01.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
-    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+  - path: Assets\Asset\Icon\cancel.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\cancel.png
+    projectPath: Assets\Asset\Icon\cancel.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\libsfw.so
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\libsfw.so
-    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+  - path: Assets\Asset\Icon\cancel.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\cancel.png.meta
+    projectPath: Assets\Asset\Icon\cancel.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\libsfw.so.meta
-    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+  - path: Assets\Asset\Icon\confirm.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\confirm.png
+    projectPath: Assets\Asset\Icon\confirm.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
-    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+  - path: Assets\Asset\Icon\confirm.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\confirm.png.meta
+    projectPath: Assets\Asset\Icon\confirm.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+  - path: Assets\Asset\Icon\lock 2.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\lock
+      2.png
+    projectPath: Assets\Asset\Icon\lock 2.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
-    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+  - path: Assets\Asset\Icon\lock 2.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\lock
+      2.png.meta
+    projectPath: Assets\Asset\Icon\lock 2.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
-    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+  - path: Assets\Asset\Icon\lock.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\lock.png
+    projectPath: Assets\Asset\Icon\lock.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
-    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+  - path: Assets\Asset\Icon\lock.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\lock.png.meta
+    projectPath: Assets\Asset\Icon\lock.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+  - path: Assets\Asset\Icon\music off-01.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\music
+      off-01.png
+    projectPath: Assets\Asset\Icon\music off-01.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\sfw.net.dll
-    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+  - path: Assets\Asset\Icon\music off-01.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\music
+      off-01.png.meta
+    projectPath: Assets\Asset\Icon\music off-01.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+  - path: Assets\Asset\Icon\music on-01.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\music
+      on-01.png
+    projectPath: Assets\Asset\Icon\music on-01.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\System.Threading.dll
-    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+  - path: Assets\Asset\Icon\music on-01.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\music
+      on-01.png.meta
+    projectPath: Assets\Asset\Icon\music on-01.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+  - path: Assets\Asset\Icon\play.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\play.png
+    projectPath: Assets\Asset\Icon\play.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
-    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+  - path: Assets\Asset\Icon\play.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\play.png.meta
+    projectPath: Assets\Asset\Icon\play.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
-    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+  - path: Assets\Asset\Icon\sfx off 2.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\sfx
+      off 2.png
+    projectPath: Assets\Asset\Icon\sfx off 2.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x64.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\x64.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+  - path: Assets\Asset\Icon\sfx off 2.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\sfx
+      off 2.png.meta
+    projectPath: Assets\Asset\Icon\sfx off 2.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
-    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+  - path: Assets\Asset\Icon\sfx off.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\sfx
+      off.png
+    projectPath: Assets\Asset\Icon\sfx off.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+  - path: Assets\Asset\Icon\sfx off.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\sfx
+      off.png.meta
+    projectPath: Assets\Asset\Icon\sfx off.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
-    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+  - path: Assets\Asset\Icon\sfx on 2-01.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\sfx
+      on 2-01.png
+    projectPath: Assets\Asset\Icon\sfx on 2-01.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+  - path: Assets\Asset\Icon\sfx on 2-01.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\sfx
+      on 2-01.png.meta
+    projectPath: Assets\Asset\Icon\sfx on 2-01.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x86.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\x86.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+  - path: Assets\Asset\Icon\sfx on.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\sfx
+      on.png
+    projectPath: Assets\Asset\Icon\sfx on.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
-    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+  - path: Assets\Asset\Icon\sfx on.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\sfx
+      on.png.meta
+    projectPath: Assets\Asset\Icon\sfx on.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+  - path: Assets\Asset\Icon\share.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\share.png
+    projectPath: Assets\Asset\Icon\share.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
-    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+  - path: Assets\Asset\Icon\share.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\share.png.meta
+    projectPath: Assets\Asset\Icon\share.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+  - path: Assets\Asset\Icon\unlock 2.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\unlock
+      2.png
+    projectPath: Assets\Asset\Icon\unlock 2.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Gummy-Run.sln
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Gummy-Run.sln
-    projectPath: Gummy-Run.sln
+  - path: Assets\Asset\Icon\unlock 2.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\unlock
+      2.png.meta
+    projectPath: Assets\Asset\Icon\unlock 2.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\Icon\unlock.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\unlock.png
+    projectPath: Assets\Asset\Icon\unlock.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\Icon\unlock.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\unlock.png.meta
+    projectPath: Assets\Asset\Icon\unlock.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\Icon\Untitled-3-01.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\Untitled-3-01.png
+    projectPath: Assets\Asset\Icon\Untitled-3-01.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\Icon\Untitled-3-01.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Icon\Untitled-3-01.png.meta
+    projectPath: Assets\Asset\Icon\Untitled-3-01.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\Karakter.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Karakter.meta
+    projectPath: Assets\Asset\Karakter.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\Karakter\Characters_ No BG.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Karakter\Characters_
+      No BG.png
+    projectPath: Assets\Asset\Karakter\Characters_ No BG.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\Karakter\Characters_ No BG.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Karakter\Characters_
+      No BG.png.meta
+    projectPath: Assets\Asset\Karakter\Characters_ No BG.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\Karakter\orange.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Karakter\orange.png
+    projectPath: Assets\Asset\Karakter\orange.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\Karakter\orange.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Karakter\orange.png.meta
+    projectPath: Assets\Asset\Karakter\orange.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\Karakter\pineapple.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Karakter\pineapple.png
+    projectPath: Assets\Asset\Karakter\pineapple.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\Karakter\pineapple.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Karakter\pineapple.png.meta
+    projectPath: Assets\Asset\Karakter\pineapple.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\Karakter\strawberry.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Karakter\strawberry.png
+    projectPath: Assets\Asset\Karakter\strawberry.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\Karakter\strawberry.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Karakter\strawberry.png.meta
+    projectPath: Assets\Asset\Karakter\strawberry.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\Logo.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Logo.meta
+    projectPath: Assets\Asset\Logo.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\Logo\dopamine logo.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Logo\dopamine
+      logo.png
+    projectPath: Assets\Asset\Logo\dopamine logo.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\Logo\dopamine logo.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Logo\dopamine
+      logo.png.meta
+    projectPath: Assets\Asset\Logo\dopamine logo.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\Logo\icon apk.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Logo\icon
+      apk.png
+    projectPath: Assets\Asset\Logo\icon apk.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\Logo\icon apk.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Logo\icon
+      apk.png.meta
+    projectPath: Assets\Asset\Logo\icon apk.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\Logo\title Gummy Run.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Logo\title
+      Gummy Run.png
+    projectPath: Assets\Asset\Logo\title Gummy Run.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\Logo\title Gummy Run.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Logo\title
+      Gummy Run.png.meta
+    projectPath: Assets\Asset\Logo\title Gummy Run.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\text.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\text.meta
+    projectPath: Assets\Asset\text.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\text\jump.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\text\jump.png
+    projectPath: Assets\Asset\text\jump.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\text\jump.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\text\jump.png.meta
+    projectPath: Assets\Asset\text\jump.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\text\play.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\text\play.png
+    projectPath: Assets\Asset\text\play.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\text\play.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\text\play.png.meta
+    projectPath: Assets\Asset\text\play.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\text\slide.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\text\slide.png
+    projectPath: Assets\Asset\text\slide.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\text\slide.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\text\slide.png.meta
+    projectPath: Assets\Asset\text\slide.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Main Menu.unity
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Scenes\Main
+      Menu.unity
+    projectPath: Assets\Scenes\Main Menu.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\StreamingAssets\google-services-desktop.json.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\StreamingAssets\google-services-desktop.json.meta
+    projectPath: Assets\StreamingAssets\google-services-desktop.json.meta
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\assetDatabase3
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\assetDatabase3
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\assetDatabase3
     projectPath: Library\assetDatabase3
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\CrashedAssetImports.txt
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\CrashedAssetImports.txt
+    projectPath: Library\CrashedAssetImports.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\EditorInstance.json
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\EditorInstance.json
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
+  - path: Library\EditorUserBuildSettings.asset
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\gfu\cache\gitlog.yaml
     projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\gfu\cache\gituser.yaml
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\gfu\cache\gituser.yaml
-    projectPath: Library\gfu\cache\gituser.yaml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\06\06ab663dc45fbda4a9c97769b924a4cb
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\06\06ab663dc45fbda4a9c97769b924a4cb
+    projectPath: Library\metadata\06\06ab663dc45fbda4a9c97769b924a4cb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\06\06ab663dc45fbda4a9c97769b924a4cb.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\06\06ab663dc45fbda4a9c97769b924a4cb.info
+    projectPath: Library\metadata\06\06ab663dc45fbda4a9c97769b924a4cb.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\0f\0f84686966161a64bb451ba79c8ba4c7
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\0f\0f84686966161a64bb451ba79c8ba4c7
+    projectPath: Library\metadata\0f\0f84686966161a64bb451ba79c8ba4c7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\0f\0f84686966161a64bb451ba79c8ba4c7.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\0f\0f84686966161a64bb451ba79c8ba4c7.info
+    projectPath: Library\metadata\0f\0f84686966161a64bb451ba79c8ba4c7.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\15\150c388fe7082634580e99d5e5dbdcd0
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\15\150c388fe7082634580e99d5e5dbdcd0
+    projectPath: Library\metadata\15\150c388fe7082634580e99d5e5dbdcd0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\15\150c388fe7082634580e99d5e5dbdcd0.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\15\150c388fe7082634580e99d5e5dbdcd0.info
+    projectPath: Library\metadata\15\150c388fe7082634580e99d5e5dbdcd0.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\1a\1a151680c4f379d46bc4547d4a0456b4
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1a\1a151680c4f379d46bc4547d4a0456b4
+    projectPath: Library\metadata\1a\1a151680c4f379d46bc4547d4a0456b4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\1a\1a151680c4f379d46bc4547d4a0456b4.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1a\1a151680c4f379d46bc4547d4a0456b4.info
+    projectPath: Library\metadata\1a\1a151680c4f379d46bc4547d4a0456b4.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\1c\1c509b0ffe3b3a34a89849f50ae05265
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1c\1c509b0ffe3b3a34a89849f50ae05265
+    projectPath: Library\metadata\1c\1c509b0ffe3b3a34a89849f50ae05265
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\1c\1c509b0ffe3b3a34a89849f50ae05265.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1c\1c509b0ffe3b3a34a89849f50ae05265.info
+    projectPath: Library\metadata\1c\1c509b0ffe3b3a34a89849f50ae05265.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\1d\1daf02dfc0a5cba42a7b747da1a475f1
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1d\1daf02dfc0a5cba42a7b747da1a475f1
+    projectPath: Library\metadata\1d\1daf02dfc0a5cba42a7b747da1a475f1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\1d\1daf02dfc0a5cba42a7b747da1a475f1.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1d\1daf02dfc0a5cba42a7b747da1a475f1.info
+    projectPath: Library\metadata\1d\1daf02dfc0a5cba42a7b747da1a475f1.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\1e\1ebe0b9635d271b419e0d7bb3cc8edb5
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1e\1ebe0b9635d271b419e0d7bb3cc8edb5
+    projectPath: Library\metadata\1e\1ebe0b9635d271b419e0d7bb3cc8edb5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\1e\1ebe0b9635d271b419e0d7bb3cc8edb5.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1e\1ebe0b9635d271b419e0d7bb3cc8edb5.info
+    projectPath: Library\metadata\1e\1ebe0b9635d271b419e0d7bb3cc8edb5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\1f\1f9cc7c5bff14d142813e36fd5b7bb6b
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1f\1f9cc7c5bff14d142813e36fd5b7bb6b
+    projectPath: Library\metadata\1f\1f9cc7c5bff14d142813e36fd5b7bb6b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\1f\1f9cc7c5bff14d142813e36fd5b7bb6b.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1f\1f9cc7c5bff14d142813e36fd5b7bb6b.info
+    projectPath: Library\metadata\1f\1f9cc7c5bff14d142813e36fd5b7bb6b.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\21\212a2395c3497744ba1bbf1dd6c27336
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\21\212a2395c3497744ba1bbf1dd6c27336
+    projectPath: Library\metadata\21\212a2395c3497744ba1bbf1dd6c27336
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\21\212a2395c3497744ba1bbf1dd6c27336.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\21\212a2395c3497744ba1bbf1dd6c27336.info
+    projectPath: Library\metadata\21\212a2395c3497744ba1bbf1dd6c27336.info
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
-    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+  - path: Library\metadata\26\260c6982f1f8e37499268b1a21167a71
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\26\260c6982f1f8e37499268b1a21167a71
+    projectPath: Library\metadata\26\260c6982f1f8e37499268b1a21167a71
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
-    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+  - path: Library\metadata\26\260c6982f1f8e37499268b1a21167a71.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\26\260c6982f1f8e37499268b1a21167a71.info
+    projectPath: Library\metadata\26\260c6982f1f8e37499268b1a21167a71.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
-    projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+  - path: Library\metadata\2b\2bea9df11f4c4844fb1ffbd239a37642
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\2b\2bea9df11f4c4844fb1ffbd239a37642
+    projectPath: Library\metadata\2b\2bea9df11f4c4844fb1ffbd239a37642
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
-    projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+  - path: Library\metadata\2b\2bea9df11f4c4844fb1ffbd239a37642.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\2b\2bea9df11f4c4844fb1ffbd239a37642.info
+    projectPath: Library\metadata\2b\2bea9df11f4c4844fb1ffbd239a37642.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\12\12a32f9a805255c4f8fb10857c5bf6a7
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\12\12a32f9a805255c4f8fb10857c5bf6a7
-    projectPath: Library\metadata\12\12a32f9a805255c4f8fb10857c5bf6a7
+  - path: Library\metadata\2e\2e0c4801714302d428a276b14005bcb8
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\2e\2e0c4801714302d428a276b14005bcb8
+    projectPath: Library\metadata\2e\2e0c4801714302d428a276b14005bcb8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\12\12a32f9a805255c4f8fb10857c5bf6a7.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\12\12a32f9a805255c4f8fb10857c5bf6a7.info
-    projectPath: Library\metadata\12\12a32f9a805255c4f8fb10857c5bf6a7.info
+  - path: Library\metadata\2e\2e0c4801714302d428a276b14005bcb8.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\2e\2e0c4801714302d428a276b14005bcb8.info
+    projectPath: Library\metadata\2e\2e0c4801714302d428a276b14005bcb8.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\13\136dc24f151211d438acee17aff4e934
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\13\136dc24f151211d438acee17aff4e934
-    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+  - path: Library\metadata\37\37fa037489979ba48bd8324b55375511
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\37\37fa037489979ba48bd8324b55375511
+    projectPath: Library\metadata\37\37fa037489979ba48bd8324b55375511
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
-    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+  - path: Library\metadata\37\37fa037489979ba48bd8324b55375511.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\37\37fa037489979ba48bd8324b55375511.info
+    projectPath: Library\metadata\37\37fa037489979ba48bd8324b55375511.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\15\151a1d946b98deb4b98445400983ba92
-    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+  - path: Library\metadata\3a\3affcdd78ff5fe446a0e78a4166240aa
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\3a\3affcdd78ff5fe446a0e78a4166240aa
+    projectPath: Library\metadata\3a\3affcdd78ff5fe446a0e78a4166240aa
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
-    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+  - path: Library\metadata\3a\3affcdd78ff5fe446a0e78a4166240aa.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\3a\3affcdd78ff5fe446a0e78a4166240aa.info
+    projectPath: Library\metadata\3a\3affcdd78ff5fe446a0e78a4166240aa.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
-    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+  - path: Library\metadata\3b\3b97f7bc544b6044cb715d12c0e1f0c9
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\3b\3b97f7bc544b6044cb715d12c0e1f0c9
+    projectPath: Library\metadata\3b\3b97f7bc544b6044cb715d12c0e1f0c9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
-    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+  - path: Library\metadata\3b\3b97f7bc544b6044cb715d12c0e1f0c9.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\3b\3b97f7bc544b6044cb715d12c0e1f0c9.info
+    projectPath: Library\metadata\3b\3b97f7bc544b6044cb715d12c0e1f0c9.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
-    projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+  - path: Library\metadata\3c\3c5c2c733c412b24d84e6e399e4b029c
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\3c\3c5c2c733c412b24d84e6e399e4b029c
+    projectPath: Library\metadata\3c\3c5c2c733c412b24d84e6e399e4b029c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
-    projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+  - path: Library\metadata\3c\3c5c2c733c412b24d84e6e399e4b029c.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\3c\3c5c2c733c412b24d84e6e399e4b029c.info
+    projectPath: Library\metadata\3c\3c5c2c733c412b24d84e6e399e4b029c.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
-    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+  - path: Library\metadata\3f\3f95c6911d1890a45a6eb50541074cbe
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\3f\3f95c6911d1890a45a6eb50541074cbe
+    projectPath: Library\metadata\3f\3f95c6911d1890a45a6eb50541074cbe
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
-    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+  - path: Library\metadata\3f\3f95c6911d1890a45a6eb50541074cbe.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\3f\3f95c6911d1890a45a6eb50541074cbe.info
+    projectPath: Library\metadata\3f\3f95c6911d1890a45a6eb50541074cbe.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\23\23c8bee69b591054094d32918f98facd
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\23\23c8bee69b591054094d32918f98facd
-    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd
+  - path: Library\metadata\46\4684af8341ef3dd42aa23897174336cc
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\46\4684af8341ef3dd42aa23897174336cc
+    projectPath: Library\metadata\46\4684af8341ef3dd42aa23897174336cc
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
-    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+  - path: Library\metadata\46\4684af8341ef3dd42aa23897174336cc.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\46\4684af8341ef3dd42aa23897174336cc.info
+    projectPath: Library\metadata\46\4684af8341ef3dd42aa23897174336cc.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
-    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+  - path: Library\metadata\47\47cfd0227dc8b8b47a6ee951bd90b538
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\47\47cfd0227dc8b8b47a6ee951bd90b538
+    projectPath: Library\metadata\47\47cfd0227dc8b8b47a6ee951bd90b538
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
-    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+  - path: Library\metadata\47\47cfd0227dc8b8b47a6ee951bd90b538.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\47\47cfd0227dc8b8b47a6ee951bd90b538.info
+    projectPath: Library\metadata\47\47cfd0227dc8b8b47a6ee951bd90b538.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
-    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+  - path: Library\metadata\4b\4bec55c828d980d46afed57cbdeebead
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\4b\4bec55c828d980d46afed57cbdeebead
+    projectPath: Library\metadata\4b\4bec55c828d980d46afed57cbdeebead
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
-    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+  - path: Library\metadata\4b\4bec55c828d980d46afed57cbdeebead.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\4b\4bec55c828d980d46afed57cbdeebead.info
+    projectPath: Library\metadata\4b\4bec55c828d980d46afed57cbdeebead.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
-    projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+  - path: Library\metadata\52\523b95b11c51cb24481cfc8c657fcb38
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\52\523b95b11c51cb24481cfc8c657fcb38
+    projectPath: Library\metadata\52\523b95b11c51cb24481cfc8c657fcb38
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
-    projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+  - path: Library\metadata\52\523b95b11c51cb24481cfc8c657fcb38.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\52\523b95b11c51cb24481cfc8c657fcb38.info
+    projectPath: Library\metadata\52\523b95b11c51cb24481cfc8c657fcb38.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\63\636d33ae594884e7d80b569f429d245d
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\63\636d33ae594884e7d80b569f429d245d
-    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+  - path: Library\metadata\5c\5cff1ffb9a606f84d911d1cb3397ce46
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\5c\5cff1ffb9a606f84d911d1cb3397ce46
+    projectPath: Library\metadata\5c\5cff1ffb9a606f84d911d1cb3397ce46
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
-    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+  - path: Library\metadata\5c\5cff1ffb9a606f84d911d1cb3397ce46.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\5c\5cff1ffb9a606f84d911d1cb3397ce46.info
+    projectPath: Library\metadata\5c\5cff1ffb9a606f84d911d1cb3397ce46.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
-    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+  - path: Library\metadata\5e\5ef6b96e909d7d240bc77acce2009dc5
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\5e\5ef6b96e909d7d240bc77acce2009dc5
+    projectPath: Library\metadata\5e\5ef6b96e909d7d240bc77acce2009dc5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
-    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+  - path: Library\metadata\5e\5ef6b96e909d7d240bc77acce2009dc5.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\5e\5ef6b96e909d7d240bc77acce2009dc5.info
+    projectPath: Library\metadata\5e\5ef6b96e909d7d240bc77acce2009dc5.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
-    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+  - path: Library\metadata\61\6146485e6ce4af842a052300e567e933
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\61\6146485e6ce4af842a052300e567e933
+    projectPath: Library\metadata\61\6146485e6ce4af842a052300e567e933
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
-    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+  - path: Library\metadata\61\6146485e6ce4af842a052300e567e933.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\61\6146485e6ce4af842a052300e567e933.info
+    projectPath: Library\metadata\61\6146485e6ce4af842a052300e567e933.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
-    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+  - path: Library\metadata\6a\6a9ca98e61c2499478b4bdc30159fdd6
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\6a\6a9ca98e61c2499478b4bdc30159fdd6
+    projectPath: Library\metadata\6a\6a9ca98e61c2499478b4bdc30159fdd6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
-    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+  - path: Library\metadata\6a\6a9ca98e61c2499478b4bdc30159fdd6.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\6a\6a9ca98e61c2499478b4bdc30159fdd6.info
+    projectPath: Library\metadata\6a\6a9ca98e61c2499478b4bdc30159fdd6.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
-    projectPath: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+  - path: Library\metadata\6e\6e4b6579dbdf4744cb0c59d67e167110
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\6e\6e4b6579dbdf4744cb0c59d67e167110
+    projectPath: Library\metadata\6e\6e4b6579dbdf4744cb0c59d67e167110
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
-    projectPath: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+  - path: Library\metadata\6e\6e4b6579dbdf4744cb0c59d67e167110.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\6e\6e4b6579dbdf4744cb0c59d67e167110.info
+    projectPath: Library\metadata\6e\6e4b6579dbdf4744cb0c59d67e167110.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
-    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+  - path: Library\metadata\6f\6f3ba54e103594446894d0ec7c4d6c89
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\6f\6f3ba54e103594446894d0ec7c4d6c89
+    projectPath: Library\metadata\6f\6f3ba54e103594446894d0ec7c4d6c89
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
-    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+  - path: Library\metadata\6f\6f3ba54e103594446894d0ec7c4d6c89.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\6f\6f3ba54e103594446894d0ec7c4d6c89.info
+    projectPath: Library\metadata\6f\6f3ba54e103594446894d0ec7c4d6c89.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\87\877ef3585573ce44eab899298be23158
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\87\877ef3585573ce44eab899298be23158
-    projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158
+  - path: Library\metadata\72\72c28ab547fefc14382fb1a032522070
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\72\72c28ab547fefc14382fb1a032522070
+    projectPath: Library\metadata\72\72c28ab547fefc14382fb1a032522070
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\87\877ef3585573ce44eab899298be23158.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\87\877ef3585573ce44eab899298be23158.info
-    projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+  - path: Library\metadata\72\72c28ab547fefc14382fb1a032522070.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\72\72c28ab547fefc14382fb1a032522070.info
+    projectPath: Library\metadata\72\72c28ab547fefc14382fb1a032522070.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
-    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+  - path: Library\metadata\75\75a3317466d97324696404ad0b2609cd
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\75\75a3317466d97324696404ad0b2609cd
+    projectPath: Library\metadata\75\75a3317466d97324696404ad0b2609cd
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
-    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+  - path: Library\metadata\75\75a3317466d97324696404ad0b2609cd.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\75\75a3317466d97324696404ad0b2609cd.info
+    projectPath: Library\metadata\75\75a3317466d97324696404ad0b2609cd.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
-    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+  - path: Library\metadata\76\76bb4a030b542c54c895257a022f0b03
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\76\76bb4a030b542c54c895257a022f0b03
+    projectPath: Library\metadata\76\76bb4a030b542c54c895257a022f0b03
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\7c\7c0dc49ee4797a74f8d1695448ee3243
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\7c\7c0dc49ee4797a74f8d1695448ee3243
+    projectPath: Library\metadata\7c\7c0dc49ee4797a74f8d1695448ee3243
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\7c\7c0dc49ee4797a74f8d1695448ee3243.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\7c\7c0dc49ee4797a74f8d1695448ee3243.info
+    projectPath: Library\metadata\7c\7c0dc49ee4797a74f8d1695448ee3243.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\83\83029e3aeb8608545942f373f83da800
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\83\83029e3aeb8608545942f373f83da800
+    projectPath: Library\metadata\83\83029e3aeb8608545942f373f83da800
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\83\83029e3aeb8608545942f373f83da800.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\83\83029e3aeb8608545942f373f83da800.info
+    projectPath: Library\metadata\83\83029e3aeb8608545942f373f83da800.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\85\8539101e1c8d2084fa1d78c92dc323f6
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\85\8539101e1c8d2084fa1d78c92dc323f6
+    projectPath: Library\metadata\85\8539101e1c8d2084fa1d78c92dc323f6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\85\8539101e1c8d2084fa1d78c92dc323f6.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\85\8539101e1c8d2084fa1d78c92dc323f6.info
+    projectPath: Library\metadata\85\8539101e1c8d2084fa1d78c92dc323f6.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\85\85b26993acf5d8d47970144c82360134
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\85\85b26993acf5d8d47970144c82360134
+    projectPath: Library\metadata\85\85b26993acf5d8d47970144c82360134
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\85\85b26993acf5d8d47970144c82360134.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\85\85b26993acf5d8d47970144c82360134.info
+    projectPath: Library\metadata\85\85b26993acf5d8d47970144c82360134.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\86\8660500d5c192fa4b9e86164396f3cb1
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\86\8660500d5c192fa4b9e86164396f3cb1
+    projectPath: Library\metadata\86\8660500d5c192fa4b9e86164396f3cb1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\86\8660500d5c192fa4b9e86164396f3cb1.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\86\8660500d5c192fa4b9e86164396f3cb1.info
+    projectPath: Library\metadata\86\8660500d5c192fa4b9e86164396f3cb1.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\89\89649d8b29292b34dab3f189e126996e
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\89\89649d8b29292b34dab3f189e126996e
+    projectPath: Library\metadata\89\89649d8b29292b34dab3f189e126996e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\89\89649d8b29292b34dab3f189e126996e.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\89\89649d8b29292b34dab3f189e126996e.info
+    projectPath: Library\metadata\89\89649d8b29292b34dab3f189e126996e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\8b\8bc7a9c3c6ac36c47aad22e97b7bbe62
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\8b\8bc7a9c3c6ac36c47aad22e97b7bbe62
+    projectPath: Library\metadata\8b\8bc7a9c3c6ac36c47aad22e97b7bbe62
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\8b\8bc7a9c3c6ac36c47aad22e97b7bbe62.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\8b\8bc7a9c3c6ac36c47aad22e97b7bbe62.info
+    projectPath: Library\metadata\8b\8bc7a9c3c6ac36c47aad22e97b7bbe62.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\93\93add15588aa4e44b81a1e517993a393
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\93\93add15588aa4e44b81a1e517993a393
+    projectPath: Library\metadata\93\93add15588aa4e44b81a1e517993a393
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
-    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+  - path: Library\metadata\93\93add15588aa4e44b81a1e517993a393.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\93\93add15588aa4e44b81a1e517993a393.info
+    projectPath: Library\metadata\93\93add15588aa4e44b81a1e517993a393.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
-    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+  - path: Library\metadata\96\96470fb42cd348242a35de4c9dd9d480
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\96\96470fb42cd348242a35de4c9dd9d480
+    projectPath: Library\metadata\96\96470fb42cd348242a35de4c9dd9d480
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
-    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+  - path: Library\metadata\96\96470fb42cd348242a35de4c9dd9d480.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\96\96470fb42cd348242a35de4c9dd9d480.info
+    projectPath: Library\metadata\96\96470fb42cd348242a35de4c9dd9d480.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
-    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+  - path: Library\metadata\9c\9cd6fb95a1970ca46b36c7b5fc457562
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\9c\9cd6fb95a1970ca46b36c7b5fc457562
+    projectPath: Library\metadata\9c\9cd6fb95a1970ca46b36c7b5fc457562
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
-    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+  - path: Library\metadata\9c\9cd6fb95a1970ca46b36c7b5fc457562.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\9c\9cd6fb95a1970ca46b36c7b5fc457562.info
+    projectPath: Library\metadata\9c\9cd6fb95a1970ca46b36c7b5fc457562.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
-    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+  - path: Library\metadata\9d\9d292bccb57820545820735939e9d7b6
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\9d\9d292bccb57820545820735939e9d7b6
+    projectPath: Library\metadata\9d\9d292bccb57820545820735939e9d7b6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
-    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+  - path: Library\metadata\9d\9d292bccb57820545820735939e9d7b6.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\9d\9d292bccb57820545820735939e9d7b6.info
+    projectPath: Library\metadata\9d\9d292bccb57820545820735939e9d7b6.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
-    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+  - path: Library\metadata\a7\a70ad27a48ecac745b8d1fee53a29958
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\a7\a70ad27a48ecac745b8d1fee53a29958
+    projectPath: Library\metadata\a7\a70ad27a48ecac745b8d1fee53a29958
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
-    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+  - path: Library\metadata\a7\a70ad27a48ecac745b8d1fee53a29958.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\a7\a70ad27a48ecac745b8d1fee53a29958.info
+    projectPath: Library\metadata\a7\a70ad27a48ecac745b8d1fee53a29958.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
-    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+  - path: Library\metadata\ae\ae739032c8940454ba2737a3c3ce276a
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\ae\ae739032c8940454ba2737a3c3ce276a
+    projectPath: Library\metadata\ae\ae739032c8940454ba2737a3c3ce276a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
-    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+  - path: Library\metadata\ae\ae739032c8940454ba2737a3c3ce276a.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\ae\ae739032c8940454ba2737a3c3ce276a.info
+    projectPath: Library\metadata\ae\ae739032c8940454ba2737a3c3ce276a.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
-    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+  - path: Library\metadata\b7\b7f25b48ed948634095cab7b235a53cd
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\b7\b7f25b48ed948634095cab7b235a53cd
+    projectPath: Library\metadata\b7\b7f25b48ed948634095cab7b235a53cd
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
-    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+  - path: Library\metadata\b7\b7f25b48ed948634095cab7b235a53cd.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\b7\b7f25b48ed948634095cab7b235a53cd.info
+    projectPath: Library\metadata\b7\b7f25b48ed948634095cab7b235a53cd.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
-    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+  - path: Library\metadata\bd\bdcd5f1aca78a3f48b3721096177fb6c
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\bd\bdcd5f1aca78a3f48b3721096177fb6c
+    projectPath: Library\metadata\bd\bdcd5f1aca78a3f48b3721096177fb6c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
-    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+  - path: Library\metadata\bd\bdcd5f1aca78a3f48b3721096177fb6c.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\bd\bdcd5f1aca78a3f48b3721096177fb6c.info
+    projectPath: Library\metadata\bd\bdcd5f1aca78a3f48b3721096177fb6c.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
-    projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+  - path: Library\metadata\c6\c65a343c00b178042953c14405c311e9
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\c6\c65a343c00b178042953c14405c311e9
+    projectPath: Library\metadata\c6\c65a343c00b178042953c14405c311e9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
-    projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+  - path: Library\metadata\c6\c65a343c00b178042953c14405c311e9.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\c6\c65a343c00b178042953c14405c311e9.info
+    projectPath: Library\metadata\c6\c65a343c00b178042953c14405c311e9.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
-    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+  - path: Library\metadata\d4\d49ff9df95943d74fad0c4aae889ce7f
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\d4\d49ff9df95943d74fad0c4aae889ce7f
+    projectPath: Library\metadata\d4\d49ff9df95943d74fad0c4aae889ce7f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
-    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+  - path: Library\metadata\d4\d49ff9df95943d74fad0c4aae889ce7f.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\d4\d49ff9df95943d74fad0c4aae889ce7f.info
+    projectPath: Library\metadata\d4\d49ff9df95943d74fad0c4aae889ce7f.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
-    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+  - path: Library\metadata\eb\eb511e1ab0ad8064cbe430191a25133d
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\eb\eb511e1ab0ad8064cbe430191a25133d
+    projectPath: Library\metadata\eb\eb511e1ab0ad8064cbe430191a25133d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
-    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+  - path: Library\metadata\eb\eb511e1ab0ad8064cbe430191a25133d.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\eb\eb511e1ab0ad8064cbe430191a25133d.info
+    projectPath: Library\metadata\eb\eb511e1ab0ad8064cbe430191a25133d.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
-    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+  - path: Library\metadata\eb\eb631cb7061e5f6499c6d2f324d8bfb5
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\eb\eb631cb7061e5f6499c6d2f324d8bfb5
+    projectPath: Library\metadata\eb\eb631cb7061e5f6499c6d2f324d8bfb5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
-    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+  - path: Library\metadata\eb\eb631cb7061e5f6499c6d2f324d8bfb5.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\eb\eb631cb7061e5f6499c6d2f324d8bfb5.info
+    projectPath: Library\metadata\eb\eb631cb7061e5f6499c6d2f324d8bfb5.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
-    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+  - path: Library\metadata\f5\f55c5670e246f9b42a07cd711aba4a80
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\f5\f55c5670e246f9b42a07cd711aba4a80
+    projectPath: Library\metadata\f5\f55c5670e246f9b42a07cd711aba4a80
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\f5\f55c5670e246f9b42a07cd711aba4a80.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\f5\f55c5670e246f9b42a07cd711aba4a80.info
+    projectPath: Library\metadata\f5\f55c5670e246f9b42a07cd711aba4a80.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\f6\f6cb7dbe4dd62794c982ce2e9100f021
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\f6\f6cb7dbe4dd62794c982ce2e9100f021
+    projectPath: Library\metadata\f6\f6cb7dbe4dd62794c982ce2e9100f021
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\f6\f6cb7dbe4dd62794c982ce2e9100f021.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\f6\f6cb7dbe4dd62794c982ce2e9100f021.info
+    projectPath: Library\metadata\f6\f6cb7dbe4dd62794c982ce2e9100f021.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\f9\f9aa3b1266dedd84780eaeb0346ba199
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\f9\f9aa3b1266dedd84780eaeb0346ba199
+    projectPath: Library\metadata\f9\f9aa3b1266dedd84780eaeb0346ba199
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\metadata\f9\f9aa3b1266dedd84780eaeb0346ba199.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\f9\f9aa3b1266dedd84780eaeb0346ba199.info
+    projectPath: Library\metadata\f9\f9aa3b1266dedd84780eaeb0346ba199.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\metadata\fd\fd3abb801f52ffe498c1f3d1ffa3dd0f
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\fd\fd3abb801f52ffe498c1f3d1ffa3dd0f
+    projectPath: Library\metadata\fd\fd3abb801f52ffe498c1f3d1ffa3dd0f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
-    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+  - path: Library\metadata\fd\fd3abb801f52ffe498c1f3d1ffa3dd0f.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\fd\fd3abb801f52ffe498c1f3d1ffa3dd0f.info
+    projectPath: Library\metadata\fd\fd3abb801f52ffe498c1f3d1ffa3dd0f.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
     projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.pdb
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\ScriptAssemblies\Unity.TextMeshPro.dll
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\SplashScreenCache\07\0724c8b2fd361006850f5755b934e00a
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\SplashScreenCache\07\0724c8b2fd361006850f5755b934e00a
+    projectPath: Library\SplashScreenCache\07\0724c8b2fd361006850f5755b934e00a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\SplashScreenCache\64\64f026d8bc5dcab926dfc9c7f51d2811
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\SplashScreenCache\64\64f026d8bc5dcab926dfc9c7f51d2811
+    projectPath: Library\SplashScreenCache\64\64f026d8bc5dcab926dfc9c7f51d2811
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\SplashScreenCache\a7\a7f840003af46a5e6f344d05aa4ac3a6
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\SplashScreenCache\a7\a7f840003af46a5e6f344d05aa4ac3a6
+    projectPath: Library\SplashScreenCache\a7\a7f840003af46a5e6f344d05aa4ac3a6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\SpriteAtlasDatabase.asset
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\SpriteAtlasDatabase.asset
+    projectPath: Library\SpriteAtlasDatabase.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\StateCache\Hierarchy\bb1422-mainStage.json
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Library\StateCache\Hierarchy\bb1422-mainStage.json
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\StateCache\Hierarchy\bb1422-mainStage.json
     projectPath: Library\StateCache\Hierarchy\bb1422-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\StateCache\SceneView\e3b140-mainStage.json
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\StateCache\SceneView\e3b140-mainStage.json
+    projectPath: Library\StateCache\SceneView\e3b140-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\TimeManager.asset
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\ProjectSettings\TimeManager.asset
+    projectPath: ProjectSettings\TimeManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\UnityConnectSettings.asset
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp\GoogleAarExplodeCache.xml
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Temp\GoogleAarExplodeCache.xml
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\GoogleAarExplodeCache.xml
     projectPath: Temp\GoogleAarExplodeCache.xml
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Temp\ProcessJobs\8cc077fdc9594f34fddefc0b5b6e34ec.bakert
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Temp\ProcessJobs\8cc077fdc9594f34fddefc0b5b6e34ec.bakert
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\ProcessJobs\8cc077fdc9594f34fddefc0b5b6e34ec.bakert
     projectPath: Temp\ProcessJobs\8cc077fdc9594f34fddefc0b5b6e34ec.bakert
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp\UnityLockfile
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Temp\UnityLockfile
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-02c0fcb7d3d79cb4aa6b48f3bd6c0c54
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Temp\UnityTempFile-02c0fcb7d3d79cb4aa6b48f3bd6c0c54
-    projectPath: Temp\UnityTempFile-02c0fcb7d3d79cb4aa6b48f3bd6c0c54
+  - path: Temp\UnityTempFile-034768e99fb9d5e4880c33e7fc88b4eb
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-034768e99fb9d5e4880c33e7fc88b4eb
+    projectPath: Temp\UnityTempFile-034768e99fb9d5e4880c33e7fc88b4eb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-090ce6f143eb90a4cb904bff181406da
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Temp\UnityTempFile-090ce6f143eb90a4cb904bff181406da
-    projectPath: Temp\UnityTempFile-090ce6f143eb90a4cb904bff181406da
+  - path: Temp\UnityTempFile-5343eb52853b2f74c9c978afd3bfb99d
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-5343eb52853b2f74c9c978afd3bfb99d
+    projectPath: Temp\UnityTempFile-5343eb52853b2f74c9c978afd3bfb99d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-12712f38e3a43a84d9d86421823106a6
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Temp\UnityTempFile-12712f38e3a43a84d9d86421823106a6
-    projectPath: Temp\UnityTempFile-12712f38e3a43a84d9d86421823106a6
+  - path: Temp\UnityTempFile-58d2877f11343df4e82e40f03217b954
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-58d2877f11343df4e82e40f03217b954
+    projectPath: Temp\UnityTempFile-58d2877f11343df4e82e40f03217b954
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-1a8ad1c7017668941b831b0563758eb1
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Temp\UnityTempFile-1a8ad1c7017668941b831b0563758eb1
-    projectPath: Temp\UnityTempFile-1a8ad1c7017668941b831b0563758eb1
+  - path: Temp\UnityTempFile-985186e1ecd93a74aa85b7636cb4ec04
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-985186e1ecd93a74aa85b7636cb4ec04
+    projectPath: Temp\UnityTempFile-985186e1ecd93a74aa85b7636cb4ec04
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-1ba6ee97eb475f842979fa47774c3653
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Temp\UnityTempFile-1ba6ee97eb475f842979fa47774c3653
-    projectPath: Temp\UnityTempFile-1ba6ee97eb475f842979fa47774c3653
+  - path: Temp\UnityTempFile-a5cd5a66d52d595428e030b8b63f5376
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-a5cd5a66d52d595428e030b8b63f5376
+    projectPath: Temp\UnityTempFile-a5cd5a66d52d595428e030b8b63f5376
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-20175cd2cf15dfc45b62bc4f5a853285
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Temp\UnityTempFile-20175cd2cf15dfc45b62bc4f5a853285
-    projectPath: Temp\UnityTempFile-20175cd2cf15dfc45b62bc4f5a853285
+  - path: Temp\UnityTempFile-b9487fad875429b4483efea7f8ed0eba
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-b9487fad875429b4483efea7f8ed0eba
+    projectPath: Temp\UnityTempFile-b9487fad875429b4483efea7f8ed0eba
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-23170c78fd694f14fb5a56ec063be3fe
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Temp\UnityTempFile-23170c78fd694f14fb5a56ec063be3fe
-    projectPath: Temp\UnityTempFile-23170c78fd694f14fb5a56ec063be3fe
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-398e27d7833f3f74caf8ea0720764329
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Temp\UnityTempFile-398e27d7833f3f74caf8ea0720764329
-    projectPath: Temp\UnityTempFile-398e27d7833f3f74caf8ea0720764329
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-417fba2a2d1d9e448adc1bccd7c745e6
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Temp\UnityTempFile-417fba2a2d1d9e448adc1bccd7c745e6
-    projectPath: Temp\UnityTempFile-417fba2a2d1d9e448adc1bccd7c745e6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-429868ddb0b29f043ab6d886c01302a0
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Temp\UnityTempFile-429868ddb0b29f043ab6d886c01302a0
-    projectPath: Temp\UnityTempFile-429868ddb0b29f043ab6d886c01302a0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-667a287ef7b533b4e855c4ba1b1d3bda
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Temp\UnityTempFile-667a287ef7b533b4e855c4ba1b1d3bda
-    projectPath: Temp\UnityTempFile-667a287ef7b533b4e855c4ba1b1d3bda
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-727ab042332a94246b2e74022d90c055
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Temp\UnityTempFile-727ab042332a94246b2e74022d90c055
-    projectPath: Temp\UnityTempFile-727ab042332a94246b2e74022d90c055
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-730409c9732ba6e4686d2ccc8f882b2b
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Temp\UnityTempFile-730409c9732ba6e4686d2ccc8f882b2b
-    projectPath: Temp\UnityTempFile-730409c9732ba6e4686d2ccc8f882b2b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-87f1f4d42a933364ebdbb3fb896a2b39
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Temp\UnityTempFile-87f1f4d42a933364ebdbb3fb896a2b39
-    projectPath: Temp\UnityTempFile-87f1f4d42a933364ebdbb3fb896a2b39
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-9091d5030a0fda648b6cfc5b1be9f567
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Temp\UnityTempFile-9091d5030a0fda648b6cfc5b1be9f567
-    projectPath: Temp\UnityTempFile-9091d5030a0fda648b6cfc5b1be9f567
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-9cd6c5d5b539c90459a2002d26692419
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Temp\UnityTempFile-9cd6c5d5b539c90459a2002d26692419
-    projectPath: Temp\UnityTempFile-9cd6c5d5b539c90459a2002d26692419
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-b53a566c009c7f742ae21b69b13289c5
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Temp\UnityTempFile-b53a566c009c7f742ae21b69b13289c5
-    projectPath: Temp\UnityTempFile-b53a566c009c7f742ae21b69b13289c5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-b94cb6477becea84bbf2ed6050247e1b
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Temp\UnityTempFile-b94cb6477becea84bbf2ed6050247e1b
-    projectPath: Temp\UnityTempFile-b94cb6477becea84bbf2ed6050247e1b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-c4c8199af0080d64b8c7c90791858296
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Temp\UnityTempFile-c4c8199af0080d64b8c7c90791858296
-    projectPath: Temp\UnityTempFile-c4c8199af0080d64b8c7c90791858296
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-c4d1cbf883d9b5449823bbe7ae0a90fd
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Temp\UnityTempFile-c4d1cbf883d9b5449823bbe7ae0a90fd
-    projectPath: Temp\UnityTempFile-c4d1cbf883d9b5449823bbe7ae0a90fd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-cbe516e86075dad48b6aae4313f95c03
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Temp\UnityTempFile-cbe516e86075dad48b6aae4313f95c03
-    projectPath: Temp\UnityTempFile-cbe516e86075dad48b6aae4313f95c03
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-d1362c813f0108845a543308d360b9be
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Temp\UnityTempFile-d1362c813f0108845a543308d360b9be
-    projectPath: Temp\UnityTempFile-d1362c813f0108845a543308d360b9be
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-d704f30a4c004e14e81e3a204c6cb767
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Temp\UnityTempFile-d704f30a4c004e14e81e3a204c6cb767
-    projectPath: Temp\UnityTempFile-d704f30a4c004e14e81e3a204c6cb767
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-d810f4a24632d0d4b98dd7df85716279
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Temp\UnityTempFile-d810f4a24632d0d4b98dd7df85716279
-    projectPath: Temp\UnityTempFile-d810f4a24632d0d4b98dd7df85716279
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-db542581fe03e204c9742735300f7fbc
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Temp\UnityTempFile-db542581fe03e204c9742735300f7fbc
-    projectPath: Temp\UnityTempFile-db542581fe03e204c9742735300f7fbc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-de087d2a4e2bda3458510d6768941507
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Temp\UnityTempFile-de087d2a4e2bda3458510d6768941507
-    projectPath: Temp\UnityTempFile-de087d2a4e2bda3458510d6768941507
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-e708477db3049204080ba0625fd27ef1
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Temp\UnityTempFile-e708477db3049204080ba0625fd27ef1
-    projectPath: Temp\UnityTempFile-e708477db3049204080ba0625fd27ef1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-f92fa91e463e1ba4bb61467e5d4114d8
-    fullPath: C:\Users\ASUS\Documents\Source Tree\gummy-run\Temp\UnityTempFile-f92fa91e463e1ba4bb61467e5d4114d8
-    projectPath: Temp\UnityTempFile-f92fa91e463e1ba4bb61467e5d4114d8
+  - path: Temp\UnityTempFile-c1851a86eb9d9c74c96668fa5f404425
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-c1851a86eb9d9c74c96668fa5f404425
+    projectPath: Temp\UnityTempFile-c1851a86eb9d9c74c96668fa5f404425
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
