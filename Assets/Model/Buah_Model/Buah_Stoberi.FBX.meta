@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 30a0f7bf535e53f49a6790fc41d23889
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cylinder001
+    100004: Cylinder002
+    100006: Strawberry 1
+    100008: Strawberry_Leaf
+    100010: Strawberry_Leaf012
+    100012: Strawberry_Leaf013
+    100014: Strawberry_Leaf014
+    100016: Strawberry_Leaf015
+    100018: Strawberry_Leaf016
+    100020: Strawberry_Leaf017
+    100022: Strawberry_Leaf018
+    100024: Strawberry_Leaf06
+    400000: //RootNode
+    400002: Cylinder001
+    400004: Cylinder002
+    400006: Strawberry 1
+    400008: Strawberry_Leaf
+    400010: Strawberry_Leaf012
+    400012: Strawberry_Leaf013
+    400014: Strawberry_Leaf014
+    400016: Strawberry_Leaf015
+    400018: Strawberry_Leaf016
+    400020: Strawberry_Leaf017
+    400022: Strawberry_Leaf018
+    400024: Strawberry_Leaf06
+    2100000: Branch
+    2100002: Ring
+    2100004: Strawberry
+    2100006: Leaf
+    2300000: Cylinder001
+    2300002: Cylinder002
+    2300004: Strawberry 1
+    2300006: Strawberry_Leaf012
+    2300008: Strawberry_Leaf013
+    2300010: Strawberry_Leaf014
+    2300012: Strawberry_Leaf015
+    2300014: Strawberry_Leaf016
+    2300016: Strawberry_Leaf017
+    2300018: Strawberry_Leaf018
+    2300020: Strawberry_Leaf06
+    3300000: Cylinder001
+    3300002: Cylinder002
+    3300004: Strawberry 1
+    3300006: Strawberry_Leaf012
+    3300008: Strawberry_Leaf013
+    3300010: Strawberry_Leaf014
+    3300012: Strawberry_Leaf015
+    3300014: Strawberry_Leaf016
+    3300016: Strawberry_Leaf017
+    3300018: Strawberry_Leaf018
+    3300020: Strawberry_Leaf06
+    4300000: Cylinder001
+    4300002: Cylinder002
+    4300004: Strawberry
+    4300006: Strawberry_Leaf06
+    4300008: Strawberry_Leaf012
+    4300010: Strawberry_Leaf013
+    4300012: Strawberry_Leaf014
+    4300014: Strawberry_Leaf015
+    4300016: Strawberry_Leaf016
+    4300018: Strawberry_Leaf017
+    4300020: Strawberry_Leaf018
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Strawberry_Albedo
+    second: {fileID: 2800000, guid: a7ae70447bb413c4fbb4d330fff9d500, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Strawberry_bump
+    second: {fileID: 2800000, guid: f7a66f1bbcdff254dbfdb51140bd19b8, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

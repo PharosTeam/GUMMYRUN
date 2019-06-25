@@ -1,0 +1,854 @@
+fileFormatVersion: 2
+guid: b35d2e6cff0efd540ab9c398ccfd13f9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BONE_GUMMYFIT_ORANGE_Bone010
+    100002: BONE_GUMMYFIT_ORANGE_Bone010(mirrored)
+    100004: BONE_GUMMYFIT_ORANGE_Bone017
+    100006: BONE_GUMMYFIT_ORANGE_Bone017(mirrored)
+    100008: BONE_GUMMYFIT_ORANGE_Bone021
+    100010: BONE_GUMMYFIT_ORANGE_Bone021(mirrored)
+    100012: BONE_GUMMYFIT_ORANGE_Bone025
+    100014: BONE_GUMMYFIT_ORANGE_Bone025(mirrored)
+    100016: BONE_GUMMYFIT_ORANGE_Bone029
+    100018: BONE_GUMMYFIT_ORANGE_Bone029(mirrored)
+    100020: BONE_GUMMYFIT_ORANGE_Bone032
+    100022: BONE_GUMMYFIT_ORANGE_Bone032(mirrored)
+    100024: BONE_GUMMYFIT_ORANGE_Chest
+    100026: BONE_GUMMYFIT_ORANGE_Foot_L
+    100028: BONE_GUMMYFIT_ORANGE_Foot_R
+    100030: BONE_GUMMYFIT_ORANGE_Hand_L
+    100032: BONE_GUMMYFIT_ORANGE_Hand_R
+    100034: BONE_GUMMYFIT_ORANGE_Head
+    100036: BONE_GUMMYFIT_ORANGE_HeadPoint
+    100038: BONE_GUMMYFIT_ORANGE_Hip
+    100040: BONE_GUMMYFIT_ORANGE_Lwr_Arm_L
+    100042: BONE_GUMMYFIT_ORANGE_Lwr_Arm_R
+    100044: BONE_GUMMYFIT_ORANGE_Lwr_Body
+    100046: BONE_GUMMYFIT_ORANGE_Lwr_IndexFgr_L
+    100048: BONE_GUMMYFIT_ORANGE_Lwr_IndexFgr_R
+    100050: BONE_GUMMYFIT_ORANGE_Lwr_Leg_L
+    100052: BONE_GUMMYFIT_ORANGE_Lwr_Leg_R
+    100054: BONE_GUMMYFIT_ORANGE_Lwr_MdlFgr_L
+    100056: BONE_GUMMYFIT_ORANGE_Lwr_MdlFgr_R
+    100058: BONE_GUMMYFIT_ORANGE_Lwr_Pinkie_L
+    100060: BONE_GUMMYFIT_ORANGE_Lwr_Pinkie_R
+    100062: BONE_GUMMYFIT_ORANGE_Lwr_RingFgr_L
+    100064: BONE_GUMMYFIT_ORANGE_Lwr_RingFgr_R
+    100066: BONE_GUMMYFIT_ORANGE_Lwr_Thumb_L
+    100068: BONE_GUMMYFIT_ORANGE_Lwr_Thumb_R
+    100070: BONE_GUMMYFIT_ORANGE_Mdl_IndexFgr_L
+    100072: BONE_GUMMYFIT_ORANGE_Mdl_IndexFgr_R
+    100074: BONE_GUMMYFIT_ORANGE_MDL_Pinkie_L
+    100076: BONE_GUMMYFIT_ORANGE_MDL_Pinkie_R
+    100078: BONE_GUMMYFIT_ORANGE_Mdl_RingFgr_L
+    100080: BONE_GUMMYFIT_ORANGE_Mdl_RingFgr_L 1
+    100082: BONE_GUMMYFIT_ORANGE_Mdl_RingFgr_R
+    100084: BONE_GUMMYFIT_ORANGE_Mdl_RingFgr_R 1
+    100086: BONE_GUMMYFIT_ORANGE_Neck
+    100088: BONE_GUMMYFIT_ORANGE_Upr_Arm_L
+    100090: BONE_GUMMYFIT_ORANGE_Upr_Arm_R
+    100092: BONE_GUMMYFIT_ORANGE_Upr_IndexFgr_L
+    100094: BONE_GUMMYFIT_ORANGE_Upr_IndexFgr_R
+    100096: BONE_GUMMYFIT_ORANGE_Upr_Leg_L
+    100098: BONE_GUMMYFIT_ORANGE_Upr_Leg_R
+    100100: BONE_GUMMYFIT_ORANGE_Upr_Pinkie_L
+    100102: BONE_GUMMYFIT_ORANGE_Upr_Pinkie_R
+    100104: BONE_GUMMYFIT_ORANGE_Upr_RingFgr_L
+    100106: BONE_GUMMYFIT_ORANGE_Upr_RingFgr_L 1
+    100108: BONE_GUMMYFIT_ORANGE_Upr_RingFgr_R
+    100110: BONE_GUMMYFIT_ORANGE_Upr_RingFgr_R 1
+    100112: BONE_GUMMYFIT_ORANGE_Upr_Thumb_L
+    100114: BONE_GUMMYFIT_ORANGE_Upr_Thumb_R
+    100116: Box001
+    100118: CONTROL_ORANGE_BACK
+    100120: CONTROL_ORANGE_BUTT
+    100122: CONTROL_ORANGE_GLOBAL
+    100124: CONTROL_ORANGE_GLOBALEYES
+    100126: CONTROL_ORANGE_HAND
+    100128: CONTROL_ORANGE_HEAD
+    100130: CONTROL_ORANGE_LEFTARM
+    100132: CONTROL_ORANGE_LEFTELBOW
+    100134: CONTROL_ORANGE_LEFTEYE
+    100136: CONTROL_ORANGE_LEFTFINGER_INDEX1
+    100138: CONTROL_ORANGE_LEFTFINGER_INDEX2
+    100140: CONTROL_ORANGE_LEFTFINGER_INDEX3
+    100142: CONTROL_ORANGE_LEFTFINGER_LITTLE1
+    100144: CONTROL_ORANGE_LEFTFINGER_LITTLE2
+    100146: CONTROL_ORANGE_LEFTFINGER_LITTLE3
+    100148: CONTROL_ORANGE_LEFTFINGER_MIDDLE1
+    100150: CONTROL_ORANGE_LEFTFINGER_MIDDLE2
+    100152: CONTROL_ORANGE_LEFTFINGER_MIDDLE3
+    100154: CONTROL_ORANGE_LEFTFINGER_RING1
+    100156: CONTROL_ORANGE_LEFTFINGER_RING2
+    100158: CONTROL_ORANGE_LEFTFINGER_RING3
+    100160: CONTROL_ORANGE_LEFTFINGER_THUMB1
+    100162: CONTROL_ORANGE_LEFTFINGER_THUMB2
+    100164: CONTROL_ORANGE_LEFTFOOT
+    100166: CONTROL_ORANGE_LEFTHAND
+    100168: CONTROL_ORANGE_LEFTKNEE
+    100170: CONTROL_ORANGE_NECK
+    100172: CONTROL_ORANGE_RIGHTARM
+    100174: CONTROL_ORANGE_RIGHTELBOW
+    100176: CONTROL_ORANGE_RIGHTEYE
+    100178: CONTROL_ORANGE_RIGHTFINGER_INDEX1
+    100180: CONTROL_ORANGE_RIGHTFINGER_INDEX2
+    100182: CONTROL_ORANGE_RIGHTFINGER_INDEX3
+    100184: CONTROL_ORANGE_RIGHTFINGER_LITTLE1
+    100186: CONTROL_ORANGE_RIGHTFINGER_LITTLE2
+    100188: CONTROL_ORANGE_RIGHTFINGER_LITTLE3
+    100190: CONTROL_ORANGE_RIGHTFINGER_MIDDLE1
+    100192: CONTROL_ORANGE_RIGHTFINGER_MIDDLE2
+    100194: CONTROL_ORANGE_RIGHTFINGER_MIDDLE3
+    100196: CONTROL_ORANGE_RIGHTFINGER_RING1
+    100198: CONTROL_ORANGE_RIGHTFINGER_RING2
+    100200: CONTROL_ORANGE_RIGHTFINGER_RING3
+    100202: CONTROL_ORANGE_RIGHTFINGER_THUMB1
+    100204: CONTROL_ORANGE_RIGHTFINGER_THUMB2
+    100206: CONTROL_ORANGE_RIGHTFOOT
+    100208: CONTROL_ORANGE_RIGHTKNEE
+    100210: CONTROL_ORANGE_STOMACH
+    100212: GUMMYFIT_ORANGE_BODY
+    100214: GUMMYFIT_ORANGE_HAIR
+    100216: GUMMYFIT_ORANGE_HAT
+    100218: GUMMYFIT_ORANGE_HAT_BRANCH_1
+    100220: GUMMYFIT_ORANGE_HAT_BRANCH_2
+    100222: GUMMYFIT_ORANGE_HAT_LEAF_L
+    100224: GUMMYFIT_ORANGE_HAT_LEAF_R
+    100226: GUMMYFIT_ORANGE_HEAD
+    100228: GUMMYFIT_ORANGE_LEFTARM
+    100230: GUMMYFIT_ORANGE_LEFTEYE
+    100232: GUMMYFIT_ORANGE_LEFTHAND
+    100234: GUMMYFIT_ORANGE_MOUTH
+    100236: GUMMYFIT_ORANGE_POINT1
+    100238: GUMMYFIT_ORANGE_POINT2
+    100240: GUMMYFIT_ORANGE_POINT3
+    100242: GUMMYFIT_ORANGE_RIGHTARM
+    100244: GUMMYFIT_ORANGE_RIGHTEYE
+    100246: GUMMYFIT_ORANGE_RIGHTHAND
+    100248: GUMMYFIT_ORANGE_SCRAFT
+    100250: IKCHAIN_GUMMYFIT_ORANGE_LEFTFOOT
+    100252: IKCHAIN_GUMMYFIT_ORANGE_LEFTHAND
+    100254: IKCHAIN_GUMMYFIT_ORANGE_RIGHTFOOT
+    100256: IKCHAIN_GUMMYFIT_ORANGE_RIGHTHAND
+    100258: //RootNode
+    100260: MORPHER_GUMMYFIT_ORANGE_MOUTH
+    100262: MORPHER_GUMMYFIT_ORANGE_MOUTH_A
+    100264: MORPHER_GUMMYFIT_ORANGE_MOUTH_O
+    100266: MORPHER_GUMMYFIT_ORANGE_MOUTH_SAD
+    100268: MORPHER_GUMMYFIT_ORANGE_MOUTH_SMILE
+    100270: MORPHER_GUMMYFIT_ORANGE_SCRAFTBASIC
+    100272: MORPHER_GUMMYFIT_ORANGE_SCRAFTUP_B1
+    100274: MORPHER_GUMMYFIT_ORANGE_SCRAFTUP_F1
+    100276: MORPHER_GUMMYFIT_ORANGE_SCRAFTUP_L1
+    100278: MORPHER_GUMMYFIT_ORANGE_SCRAFTUP_R1
+    100280: Plane001
+    400000: BONE_GUMMYFIT_ORANGE_Bone010
+    400002: BONE_GUMMYFIT_ORANGE_Bone010(mirrored)
+    400004: BONE_GUMMYFIT_ORANGE_Bone017
+    400006: BONE_GUMMYFIT_ORANGE_Bone017(mirrored)
+    400008: BONE_GUMMYFIT_ORANGE_Bone021
+    400010: BONE_GUMMYFIT_ORANGE_Bone021(mirrored)
+    400012: BONE_GUMMYFIT_ORANGE_Bone025
+    400014: BONE_GUMMYFIT_ORANGE_Bone025(mirrored)
+    400016: BONE_GUMMYFIT_ORANGE_Bone029
+    400018: BONE_GUMMYFIT_ORANGE_Bone029(mirrored)
+    400020: BONE_GUMMYFIT_ORANGE_Bone032
+    400022: BONE_GUMMYFIT_ORANGE_Bone032(mirrored)
+    400024: BONE_GUMMYFIT_ORANGE_Chest
+    400026: BONE_GUMMYFIT_ORANGE_Foot_L
+    400028: BONE_GUMMYFIT_ORANGE_Foot_R
+    400030: BONE_GUMMYFIT_ORANGE_Hand_L
+    400032: BONE_GUMMYFIT_ORANGE_Hand_R
+    400034: BONE_GUMMYFIT_ORANGE_Head
+    400036: BONE_GUMMYFIT_ORANGE_HeadPoint
+    400038: BONE_GUMMYFIT_ORANGE_Hip
+    400040: BONE_GUMMYFIT_ORANGE_Lwr_Arm_L
+    400042: BONE_GUMMYFIT_ORANGE_Lwr_Arm_R
+    400044: BONE_GUMMYFIT_ORANGE_Lwr_Body
+    400046: BONE_GUMMYFIT_ORANGE_Lwr_IndexFgr_L
+    400048: BONE_GUMMYFIT_ORANGE_Lwr_IndexFgr_R
+    400050: BONE_GUMMYFIT_ORANGE_Lwr_Leg_L
+    400052: BONE_GUMMYFIT_ORANGE_Lwr_Leg_R
+    400054: BONE_GUMMYFIT_ORANGE_Lwr_MdlFgr_L
+    400056: BONE_GUMMYFIT_ORANGE_Lwr_MdlFgr_R
+    400058: BONE_GUMMYFIT_ORANGE_Lwr_Pinkie_L
+    400060: BONE_GUMMYFIT_ORANGE_Lwr_Pinkie_R
+    400062: BONE_GUMMYFIT_ORANGE_Lwr_RingFgr_L
+    400064: BONE_GUMMYFIT_ORANGE_Lwr_RingFgr_R
+    400066: BONE_GUMMYFIT_ORANGE_Lwr_Thumb_L
+    400068: BONE_GUMMYFIT_ORANGE_Lwr_Thumb_R
+    400070: BONE_GUMMYFIT_ORANGE_Mdl_IndexFgr_L
+    400072: BONE_GUMMYFIT_ORANGE_Mdl_IndexFgr_R
+    400074: BONE_GUMMYFIT_ORANGE_MDL_Pinkie_L
+    400076: BONE_GUMMYFIT_ORANGE_MDL_Pinkie_R
+    400078: BONE_GUMMYFIT_ORANGE_Mdl_RingFgr_L
+    400080: BONE_GUMMYFIT_ORANGE_Mdl_RingFgr_L 1
+    400082: BONE_GUMMYFIT_ORANGE_Mdl_RingFgr_R
+    400084: BONE_GUMMYFIT_ORANGE_Mdl_RingFgr_R 1
+    400086: BONE_GUMMYFIT_ORANGE_Neck
+    400088: BONE_GUMMYFIT_ORANGE_Upr_Arm_L
+    400090: BONE_GUMMYFIT_ORANGE_Upr_Arm_R
+    400092: BONE_GUMMYFIT_ORANGE_Upr_IndexFgr_L
+    400094: BONE_GUMMYFIT_ORANGE_Upr_IndexFgr_R
+    400096: BONE_GUMMYFIT_ORANGE_Upr_Leg_L
+    400098: BONE_GUMMYFIT_ORANGE_Upr_Leg_R
+    400100: BONE_GUMMYFIT_ORANGE_Upr_Pinkie_L
+    400102: BONE_GUMMYFIT_ORANGE_Upr_Pinkie_R
+    400104: BONE_GUMMYFIT_ORANGE_Upr_RingFgr_L
+    400106: BONE_GUMMYFIT_ORANGE_Upr_RingFgr_L 1
+    400108: BONE_GUMMYFIT_ORANGE_Upr_RingFgr_R
+    400110: BONE_GUMMYFIT_ORANGE_Upr_RingFgr_R 1
+    400112: BONE_GUMMYFIT_ORANGE_Upr_Thumb_L
+    400114: BONE_GUMMYFIT_ORANGE_Upr_Thumb_R
+    400116: Box001
+    400118: CONTROL_ORANGE_BACK
+    400120: CONTROL_ORANGE_BUTT
+    400122: CONTROL_ORANGE_GLOBAL
+    400124: CONTROL_ORANGE_GLOBALEYES
+    400126: CONTROL_ORANGE_HAND
+    400128: CONTROL_ORANGE_HEAD
+    400130: CONTROL_ORANGE_LEFTARM
+    400132: CONTROL_ORANGE_LEFTELBOW
+    400134: CONTROL_ORANGE_LEFTEYE
+    400136: CONTROL_ORANGE_LEFTFINGER_INDEX1
+    400138: CONTROL_ORANGE_LEFTFINGER_INDEX2
+    400140: CONTROL_ORANGE_LEFTFINGER_INDEX3
+    400142: CONTROL_ORANGE_LEFTFINGER_LITTLE1
+    400144: CONTROL_ORANGE_LEFTFINGER_LITTLE2
+    400146: CONTROL_ORANGE_LEFTFINGER_LITTLE3
+    400148: CONTROL_ORANGE_LEFTFINGER_MIDDLE1
+    400150: CONTROL_ORANGE_LEFTFINGER_MIDDLE2
+    400152: CONTROL_ORANGE_LEFTFINGER_MIDDLE3
+    400154: CONTROL_ORANGE_LEFTFINGER_RING1
+    400156: CONTROL_ORANGE_LEFTFINGER_RING2
+    400158: CONTROL_ORANGE_LEFTFINGER_RING3
+    400160: CONTROL_ORANGE_LEFTFINGER_THUMB1
+    400162: CONTROL_ORANGE_LEFTFINGER_THUMB2
+    400164: CONTROL_ORANGE_LEFTFOOT
+    400166: CONTROL_ORANGE_LEFTHAND
+    400168: CONTROL_ORANGE_LEFTKNEE
+    400170: CONTROL_ORANGE_NECK
+    400172: CONTROL_ORANGE_RIGHTARM
+    400174: CONTROL_ORANGE_RIGHTELBOW
+    400176: CONTROL_ORANGE_RIGHTEYE
+    400178: CONTROL_ORANGE_RIGHTFINGER_INDEX1
+    400180: CONTROL_ORANGE_RIGHTFINGER_INDEX2
+    400182: CONTROL_ORANGE_RIGHTFINGER_INDEX3
+    400184: CONTROL_ORANGE_RIGHTFINGER_LITTLE1
+    400186: CONTROL_ORANGE_RIGHTFINGER_LITTLE2
+    400188: CONTROL_ORANGE_RIGHTFINGER_LITTLE3
+    400190: CONTROL_ORANGE_RIGHTFINGER_MIDDLE1
+    400192: CONTROL_ORANGE_RIGHTFINGER_MIDDLE2
+    400194: CONTROL_ORANGE_RIGHTFINGER_MIDDLE3
+    400196: CONTROL_ORANGE_RIGHTFINGER_RING1
+    400198: CONTROL_ORANGE_RIGHTFINGER_RING2
+    400200: CONTROL_ORANGE_RIGHTFINGER_RING3
+    400202: CONTROL_ORANGE_RIGHTFINGER_THUMB1
+    400204: CONTROL_ORANGE_RIGHTFINGER_THUMB2
+    400206: CONTROL_ORANGE_RIGHTFOOT
+    400208: CONTROL_ORANGE_RIGHTKNEE
+    400210: CONTROL_ORANGE_STOMACH
+    400212: GUMMYFIT_ORANGE_BODY
+    400214: GUMMYFIT_ORANGE_HAIR
+    400216: GUMMYFIT_ORANGE_HAT
+    400218: GUMMYFIT_ORANGE_HAT_BRANCH_1
+    400220: GUMMYFIT_ORANGE_HAT_BRANCH_2
+    400222: GUMMYFIT_ORANGE_HAT_LEAF_L
+    400224: GUMMYFIT_ORANGE_HAT_LEAF_R
+    400226: GUMMYFIT_ORANGE_HEAD
+    400228: GUMMYFIT_ORANGE_LEFTARM
+    400230: GUMMYFIT_ORANGE_LEFTEYE
+    400232: GUMMYFIT_ORANGE_LEFTHAND
+    400234: GUMMYFIT_ORANGE_MOUTH
+    400236: GUMMYFIT_ORANGE_POINT1
+    400238: GUMMYFIT_ORANGE_POINT2
+    400240: GUMMYFIT_ORANGE_POINT3
+    400242: GUMMYFIT_ORANGE_RIGHTARM
+    400244: GUMMYFIT_ORANGE_RIGHTEYE
+    400246: GUMMYFIT_ORANGE_RIGHTHAND
+    400248: GUMMYFIT_ORANGE_SCRAFT
+    400250: IKCHAIN_GUMMYFIT_ORANGE_LEFTFOOT
+    400252: IKCHAIN_GUMMYFIT_ORANGE_LEFTHAND
+    400254: IKCHAIN_GUMMYFIT_ORANGE_RIGHTFOOT
+    400256: IKCHAIN_GUMMYFIT_ORANGE_RIGHTHAND
+    400258: //RootNode
+    400260: MORPHER_GUMMYFIT_ORANGE_MOUTH
+    400262: MORPHER_GUMMYFIT_ORANGE_MOUTH_A
+    400264: MORPHER_GUMMYFIT_ORANGE_MOUTH_O
+    400266: MORPHER_GUMMYFIT_ORANGE_MOUTH_SAD
+    400268: MORPHER_GUMMYFIT_ORANGE_MOUTH_SMILE
+    400270: MORPHER_GUMMYFIT_ORANGE_SCRAFTBASIC
+    400272: MORPHER_GUMMYFIT_ORANGE_SCRAFTUP_B1
+    400274: MORPHER_GUMMYFIT_ORANGE_SCRAFTUP_F1
+    400276: MORPHER_GUMMYFIT_ORANGE_SCRAFTUP_L1
+    400278: MORPHER_GUMMYFIT_ORANGE_SCRAFTUP_R1
+    400280: Plane001
+    2100000: Orange_Head
+    2100002: Orange_Body
+    2100004: Orange_Arm
+    2100006: No Name
+    2100008: Orange_Hat
+    2100010: Orange_eye
+    2100012: 'Material #75'
+    2100014: Orange_Leaf
+    2100016: 'Material #92'
+    2100018: 'Material #40'
+    2100020: 'Material #41'
+    2100022: Skin
+    2100024: 'Material #97'
+    2300000: Box001
+    2300002: CONTROL_ORANGE_BACK
+    2300004: CONTROL_ORANGE_BUTT
+    2300006: CONTROL_ORANGE_GLOBAL
+    2300008: CONTROL_ORANGE_HEAD
+    2300010: CONTROL_ORANGE_LEFTFINGER_INDEX3
+    2300012: CONTROL_ORANGE_LEFTFINGER_LITTLE3
+    2300014: CONTROL_ORANGE_LEFTFINGER_MIDDLE3
+    2300016: CONTROL_ORANGE_LEFTFINGER_RING3
+    2300018: CONTROL_ORANGE_LEFTFINGER_THUMB2
+    2300020: CONTROL_ORANGE_NECK
+    2300022: CONTROL_ORANGE_RIGHTFINGER_INDEX3
+    2300024: CONTROL_ORANGE_RIGHTFINGER_LITTLE3
+    2300026: CONTROL_ORANGE_RIGHTFINGER_MIDDLE3
+    2300028: CONTROL_ORANGE_RIGHTFINGER_RING3
+    2300030: CONTROL_ORANGE_RIGHTFINGER_THUMB2
+    2300032: CONTROL_ORANGE_STOMACH
+    2300034: GUMMYFIT_ORANGE_HAIR
+    2300036: GUMMYFIT_ORANGE_HAT
+    2300038: GUMMYFIT_ORANGE_HAT_BRANCH_1
+    2300040: GUMMYFIT_ORANGE_HAT_BRANCH_2
+    2300042: GUMMYFIT_ORANGE_HAT_LEAF_L
+    2300044: GUMMYFIT_ORANGE_HAT_LEAF_R
+    2300046: GUMMYFIT_ORANGE_LEFTEYE
+    2300048: GUMMYFIT_ORANGE_POINT1
+    2300050: GUMMYFIT_ORANGE_POINT2
+    2300052: GUMMYFIT_ORANGE_POINT3
+    2300054: GUMMYFIT_ORANGE_RIGHTEYE
+    2300056: MORPHER_GUMMYFIT_ORANGE_MOUTH_A
+    2300058: MORPHER_GUMMYFIT_ORANGE_MOUTH_O
+    2300060: MORPHER_GUMMYFIT_ORANGE_MOUTH_SAD
+    2300062: MORPHER_GUMMYFIT_ORANGE_MOUTH_SMILE
+    2300064: MORPHER_GUMMYFIT_ORANGE_SCRAFTBASIC
+    2300066: MORPHER_GUMMYFIT_ORANGE_SCRAFTUP_B1
+    2300068: MORPHER_GUMMYFIT_ORANGE_SCRAFTUP_F1
+    2300070: MORPHER_GUMMYFIT_ORANGE_SCRAFTUP_L1
+    2300072: MORPHER_GUMMYFIT_ORANGE_SCRAFTUP_R1
+    2300074: Plane001
+    3300000: Box001
+    3300002: CONTROL_ORANGE_BACK
+    3300004: CONTROL_ORANGE_BUTT
+    3300006: CONTROL_ORANGE_GLOBAL
+    3300008: CONTROL_ORANGE_HEAD
+    3300010: CONTROL_ORANGE_LEFTFINGER_INDEX3
+    3300012: CONTROL_ORANGE_LEFTFINGER_LITTLE3
+    3300014: CONTROL_ORANGE_LEFTFINGER_MIDDLE3
+    3300016: CONTROL_ORANGE_LEFTFINGER_RING3
+    3300018: CONTROL_ORANGE_LEFTFINGER_THUMB2
+    3300020: CONTROL_ORANGE_NECK
+    3300022: CONTROL_ORANGE_RIGHTFINGER_INDEX3
+    3300024: CONTROL_ORANGE_RIGHTFINGER_LITTLE3
+    3300026: CONTROL_ORANGE_RIGHTFINGER_MIDDLE3
+    3300028: CONTROL_ORANGE_RIGHTFINGER_RING3
+    3300030: CONTROL_ORANGE_RIGHTFINGER_THUMB2
+    3300032: CONTROL_ORANGE_STOMACH
+    3300034: GUMMYFIT_ORANGE_HAIR
+    3300036: GUMMYFIT_ORANGE_HAT
+    3300038: GUMMYFIT_ORANGE_HAT_BRANCH_1
+    3300040: GUMMYFIT_ORANGE_HAT_BRANCH_2
+    3300042: GUMMYFIT_ORANGE_HAT_LEAF_L
+    3300044: GUMMYFIT_ORANGE_HAT_LEAF_R
+    3300046: GUMMYFIT_ORANGE_LEFTEYE
+    3300048: GUMMYFIT_ORANGE_POINT1
+    3300050: GUMMYFIT_ORANGE_POINT2
+    3300052: GUMMYFIT_ORANGE_POINT3
+    3300054: GUMMYFIT_ORANGE_RIGHTEYE
+    3300056: MORPHER_GUMMYFIT_ORANGE_MOUTH_A
+    3300058: MORPHER_GUMMYFIT_ORANGE_MOUTH_O
+    3300060: MORPHER_GUMMYFIT_ORANGE_MOUTH_SAD
+    3300062: MORPHER_GUMMYFIT_ORANGE_MOUTH_SMILE
+    3300064: MORPHER_GUMMYFIT_ORANGE_SCRAFTBASIC
+    3300066: MORPHER_GUMMYFIT_ORANGE_SCRAFTUP_B1
+    3300068: MORPHER_GUMMYFIT_ORANGE_SCRAFTUP_F1
+    3300070: MORPHER_GUMMYFIT_ORANGE_SCRAFTUP_L1
+    3300072: MORPHER_GUMMYFIT_ORANGE_SCRAFTUP_R1
+    3300074: Plane001
+    4300000: GUMMYFIT_ORANGE_HEAD
+    4300002: GUMMYFIT_ORANGE_BODY
+    4300004: GUMMYFIT_ORANGE_LEFTARM
+    4300006: CONTROL_ORANGE_GLOBAL
+    4300008: CONTROL_ORANGE_BUTT
+    4300010: GUMMYFIT_ORANGE_HAT
+    4300012: GUMMYFIT_ORANGE_RIGHTEYE
+    4300014: GUMMYFIT_ORANGE_LEFTEYE
+    4300016: GUMMYFIT_ORANGE_HAT_BRANCH_1
+    4300018: GUMMYFIT_ORANGE_HAT_BRANCH_2
+    4300020: GUMMYFIT_ORANGE_HAT_LEAF_R
+    4300022: GUMMYFIT_ORANGE_HAT_LEAF_L
+    4300024: GUMMYFIT_ORANGE_HAIR
+    4300026: GUMMYFIT_ORANGE_MOUTH
+    4300028: CONTROL_ORANGE_STOMACH
+    4300030: CONTROL_ORANGE_BACK
+    4300032: CONTROL_ORANGE_NECK
+    4300034: CONTROL_ORANGE_HEAD
+    4300036: CONTROL_ORANGE_RIGHTFINGER_THUMB2
+    4300038: CONTROL_ORANGE_RIGHTFINGER_INDEX3
+    4300040: CONTROL_ORANGE_RIGHTFINGER_MIDDLE3
+    4300042: CONTROL_ORANGE_RIGHTFINGER_RING3
+    4300044: CONTROL_ORANGE_RIGHTFINGER_LITTLE3
+    4300046: CONTROL_ORANGE_LEFTFINGER_THUMB2
+    4300048: CONTROL_ORANGE_LEFTFINGER_INDEX3
+    4300050: CONTROL_ORANGE_LEFTFINGER_MIDDLE3
+    4300052: CONTROL_ORANGE_LEFTFINGER_RING3
+    4300054: CONTROL_ORANGE_LEFTFINGER_LITTLE3
+    4300056: GUMMYFIT_ORANGE_SCRAFT
+    4300058: GUMMYFIT_ORANGE_POINT1
+    4300060: GUMMYFIT_ORANGE_POINT2
+    4300062: GUMMYFIT_ORANGE_POINT3
+    4300064: GUMMYFIT_ORANGE_RIGHTARM
+    4300066: GUMMYFIT_ORANGE_LEFTHAND
+    4300068: GUMMYFIT_ORANGE_RIGHTHAND
+    4300070: MORPHER_GUMMYFIT_ORANGE_SCRAFTUP_L1
+    4300072: MORPHER_GUMMYFIT_ORANGE_SCRAFTUP_R1
+    4300074: MORPHER_GUMMYFIT_ORANGE_SCRAFTUP_F1
+    4300076: MORPHER_GUMMYFIT_ORANGE_SCRAFTUP_B1
+    4300078: MORPHER_GUMMYFIT_ORANGE_MOUTH_SMILE
+    4300080: MORPHER_GUMMYFIT_ORANGE_MOUTH_A
+    4300082: MORPHER_GUMMYFIT_ORANGE_MOUTH_O
+    4300084: MORPHER_GUMMYFIT_ORANGE_MOUTH_SAD
+    4300086: MORPHER_GUMMYFIT_ORANGE_SCRAFTBASIC
+    4300088: Plane001
+    4300090: Box001
+    7400000: Dance
+    7400002: Idle
+    7400004: Run
+    7400006: Slide
+    7400008: Jump
+    7400010: Double Jump
+    7400012: Dead 1
+    7400014: Dead 2
+    9500000: //RootNode
+    13700000: GUMMYFIT_ORANGE_BODY
+    13700002: GUMMYFIT_ORANGE_HEAD
+    13700004: GUMMYFIT_ORANGE_LEFTARM
+    13700006: GUMMYFIT_ORANGE_LEFTHAND
+    13700008: GUMMYFIT_ORANGE_MOUTH
+    13700010: GUMMYFIT_ORANGE_RIGHTARM
+    13700012: GUMMYFIT_ORANGE_RIGHTHAND
+    13700014: GUMMYFIT_ORANGE_SCRAFT
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #40'
+    second: {fileID: 2100000, guid: 70887e9aba46d5f44b85ccda298190ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #41'
+    second: {fileID: 2100000, guid: 9f57bca016655fa4fac3e94a96d2ffd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #75'
+    second: {fileID: 2100000, guid: 69df21b4b8ffa0a43a23e9c230125136, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #92'
+    second: {fileID: 2100000, guid: e2536eeed52c1d041b48d709325a2cf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #97'
+    second: {fileID: 2100000, guid: 3c897db6afdfad249b9cd8019834a87e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 44e852dcaf7a8874f9b7985defe197cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange_Arm
+    second: {fileID: 2100000, guid: 6080db0456b37a14cad4ef2905961f6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange_Body
+    second: {fileID: 2100000, guid: b6349963d6eeb814d9bbe30160a2cd28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange_Hat
+    second: {fileID: 2100000, guid: 6993e403adf6681499dc718615ebc220, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange_Head
+    second: {fileID: 2100000, guid: e8e1c08361645714594a3d931db796ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange_Leaf
+    second: {fileID: 2100000, guid: 746e86bdf7815af4c93e6e78987adf72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange_eye
+    second: {fileID: 2100000, guid: 8a5a744ed0f2bfc4385d1055fdfc375e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skin
+    second: {fileID: 2100000, guid: 7f0cfdd63e799274492a454df6ebe40a, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Daun
+    second: {fileID: 2800000, guid: 88903e569af863d4d8eb0e1700eea5cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Daun_Alpha
+    second: {fileID: 2800000, guid: 1895b8dba3b717c468e04467695d9ea7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GummyFit_Eyes_Texture
+    second: {fileID: 2800000, guid: dc9e3f67e6b067c408f9d915c8d2a65e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GummyFit_Orange_Arm_Texture
+    second: {fileID: 2800000, guid: b3659958fc4f74d4ba7ce2f7610bc80f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GummyFit_Orange_Body_Texture
+    second: {fileID: 2800000, guid: f5709a5e43cf6e643bfd83ed67c4328c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GummyFit_Orange_Hat_Texture
+    second: {fileID: 2800000, guid: b10ac7f13c12e494c8fee9b0cab96119, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GummyFit_Orange_Head_Texture
+    second: {fileID: 2800000, guid: d20eac871a6b62d429e81a8b2f839ac3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GummyFit_Skin_Texture
+    second: {fileID: 2800000, guid: b9bd7c976ea7f144e9a4bd7ec5936a5b, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Dance
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 118
+      lastFrame: 137
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 145
+      lastFrame: 165
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Slide
+      takeName: Take 001
+      firstFrame: 173
+      lastFrame: 203
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump
+      takeName: Take 001
+      firstFrame: 216
+      lastFrame: 223
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Double Jump
+      takeName: Take 001
+      firstFrame: 249
+      lastFrame: 260
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dead 1
+      takeName: Take 001
+      firstFrame: 291
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dead 2
+      takeName: Take 001
+      firstFrame: 331
+      lastFrame: 360
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
