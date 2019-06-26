@@ -9,7 +9,7 @@ public class Movement : MonoBehaviour
     public float jump1 = 6, jump2 = 4;
     public bool doubleJump = false, grounded = false, tapped = false, stop = false, jumping = false, gameOver = false, finish = false, wait = true, start = false, tutor = false, done = false, sliding = false;
     public Button jump, slide, pause;
-    public AudioClip up, doubleUp, down, plus, minus, clear, dead; 
+    public AudioClip up, doubleUp, down, plus, minus, clear, dead, click; 
     public Animator animator;
     public CapsuleCollider colChar;
     public GameManager manager;
@@ -471,6 +471,7 @@ public class Movement : MonoBehaviour
 
     public IEnumerator jumper()
     {
+        jumping = true;
         animator.SetInteger("Animation", 3);
         rb.velocity = new Vector3((speed - 3f) * Time.fixedDeltaTime, jump1, rb.velocity.z);
         yield return new WaitForSeconds(0f);

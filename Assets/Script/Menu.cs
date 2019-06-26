@@ -7,6 +7,8 @@ public class Menu : MonoBehaviour
     public GameObject PauseMenu;
     public Button jump, slide;
     public bool pause, tap;
+    public AudioSource audios;
+    public Movement karakter;
 
     private void Update()
     {
@@ -34,6 +36,7 @@ public class Menu : MonoBehaviour
 
     public void Next(int index)
     {
+        audios.PlayOneShot(karakter.click);
         pause = false;
         SceneManager.LoadScene(index);
         Time.timeScale = 1f;
@@ -48,6 +51,7 @@ public class Menu : MonoBehaviour
 
     public void Resume()
     {
+        audios.PlayOneShot(karakter.click);
         pause = false;
         Time.timeScale = 1f;
         PauseMenu.SetActive(false);
@@ -55,6 +59,7 @@ public class Menu : MonoBehaviour
 
     public void Pause()
     {
+        audios.PlayOneShot(karakter.click);
         pause = true;
         PauseMenu.SetActive(true);
         Time.timeScale = 0f;

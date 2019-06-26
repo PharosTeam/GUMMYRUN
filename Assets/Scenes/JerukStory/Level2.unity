@@ -8204,6 +8204,8 @@ MonoBehaviour:
   slide: {fileID: 869598106}
   pause: 0
   tap: 0
+  audios: {fileID: 1564975131}
+  karakter: {fileID: 1564975130}
 --- !u!114 &1466615697
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8666,6 +8668,10 @@ PrefabInstance:
       propertyPath: menu
       value: 
       objectReference: {fileID: 1466615696}
+    - target: {fileID: 804936921, guid: 12590987347a4cd4b9dd81554e5e8823, type: 3}
+      propertyPath: click
+      value: 
+      objectReference: {fileID: 8300000, guid: a8ea8fe2018b1274f90dca732e79f4c8, type: 3}
     - target: {fileID: 1227283610950289665, guid: 12590987347a4cd4b9dd81554e5e8823,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -11304,6 +11310,8 @@ MonoBehaviour:
   slide: {fileID: 0}
   pause: 0
   tap: 0
+  audios: {fileID: 0}
+  karakter: {fileID: 0}
 --- !u!114 &2092177561
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -7231,6 +7231,10 @@ PrefabInstance:
       propertyPath: menu
       value: 
       objectReference: {fileID: 2144236127}
+    - target: {fileID: 804936921, guid: 12590987347a4cd4b9dd81554e5e8823, type: 3}
+      propertyPath: click
+      value: 
+      objectReference: {fileID: 8300000, guid: a8ea8fe2018b1274f90dca732e79f4c8, type: 3}
     - target: {fileID: 1227283610950289665, guid: 12590987347a4cd4b9dd81554e5e8823,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -8708,7 +8712,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.425, y: 0.089}
   m_AnchorMax: {x: 0.593333, y: 0.42100003}
-  m_AnchoredPosition: {x: 200.00002, y: 0}
+  m_AnchoredPosition: {x: 200.00003, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1905114551
@@ -8780,6 +8784,9 @@ MonoBehaviour:
   jump: {fileID: 0}
   slide: {fileID: 0}
   pause: 0
+  tap: 0
+  audios: {fileID: 0}
+  karakter: {fileID: 0}
 --- !u!114 &1905114553
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10420,6 +10427,9 @@ MonoBehaviour:
   jump: {fileID: 1317092360}
   slide: {fileID: 2031470623}
   pause: 0
+  tap: 0
+  audios: {fileID: 1495924985}
+  karakter: {fileID: 1291559672}
 --- !u!114 &2144236128
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -517,6 +517,9 @@ MonoBehaviour:
   jump: {fileID: 0}
   slide: {fileID: 0}
   pause: 0
+  tap: 0
+  audios: {fileID: 0}
+  karakter: {fileID: 0}
 --- !u!1001 &103391886
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2798,14 +2801,15 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 4294967295
   m_fontColor: {r: 1, g: 1, b: 1, a: 1}
-  m_enableVertexGradient: 0
+  m_enableVertexGradient: 1
   m_colorMode: 3
   m_fontColorGradient:
     topLeft: {r: 1, g: 1, b: 1, a: 1}
     topRight: {r: 1, g: 1, b: 1, a: 1}
     bottomLeft: {r: 1, g: 1, b: 1, a: 1}
     bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 0}
+  m_fontColorGradientPreset: {fileID: 11400000, guid: f6a9aa25e9cada242909ebbf9a2f0e5f,
+    type: 2}
   m_spriteAsset: {fileID: 0}
   m_tintAllSprites: 0
   m_overrideHtmlColors: 0
@@ -2864,13 +2868,13 @@ MonoBehaviour:
     lineCount: 1
     pageCount: 1
     materialCount: 1
-  m_havePropertiesChanged: 1
+  m_havePropertiesChanged: 0
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_spriteAnimator: {fileID: 0}
   m_isInputParsingRequired: 0
   m_inputSource: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_renderer: {fileID: 767929268}
   m_subTextObjects:
   - {fileID: 0}
@@ -3428,6 +3432,9 @@ MonoBehaviour:
   jump: {fileID: 2100085827}
   slide: {fileID: 333600568}
   pause: 0
+  tap: 0
+  audios: {fileID: 0}
+  karakter: {fileID: 804936921}
 --- !u!114 &1105001693
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9110,6 +9117,10 @@ PrefabInstance:
       propertyPath: menu
       value: 
       objectReference: {fileID: 1105001692}
+    - target: {fileID: 804936921, guid: 12590987347a4cd4b9dd81554e5e8823, type: 3}
+      propertyPath: click
+      value: 
+      objectReference: {fileID: 8300000, guid: a8ea8fe2018b1274f90dca732e79f4c8, type: 3}
     - target: {fileID: 1227283610950289665, guid: 12590987347a4cd4b9dd81554e5e8823,
         type: 3}
       propertyPath: m_LocalPosition.x

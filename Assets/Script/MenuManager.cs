@@ -131,7 +131,7 @@ public class MenuManager : MonoBehaviour
             menu.SetInteger("Flow", 1);
         }
 
-        if(chapter.GetInteger("Flow") == 0)
+        if (chapter.GetInteger("Flow") == 0)
         {
             chapter.SetInteger("Flow", -1);
         }
