@@ -13,9 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-06-26T14:32:43.573+07:00
-  initializedAtString: 2019-06-26T14:31:22.590+07:00
+  lastUpdatedAtString: 2019-06-27T10:01:51.378+07:00
+  initializedAtString: 2019-06-27T10:01:51.342+07:00
   localBranches:
+  - name: BentoBranch
+    tracking: origin/BentoBranch
   - name: master
     tracking: origin/master
   remoteBranches:
@@ -35,8 +37,14 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
+    - BentoBranch
     - master
     values:
+    - name: BentoBranch
+      remote:
+        name: origin
+        url: https://github.com/PharosTeam/GUMMYRUN.git
+      trackingBranch: BentoBranch
     - name: master
       remote:
         name: origin
