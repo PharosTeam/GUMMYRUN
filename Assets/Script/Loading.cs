@@ -6,7 +6,9 @@ using UnityEngine.SceneManagement;
 public class Loading : MonoBehaviour
 {
     public GameObject loadingScreen;
+    public Button[] buton;
     public GameObject[] locked;
+    public GameObject[] number;
     public Slider bar;
     public Text percen;
     public Data data;
@@ -22,11 +24,16 @@ public class Loading : MonoBehaviour
         {
             if(data.stage[i] == false)
             {
+                buton[i].interactable = false;
                 locked[i].SetActive(true);
+                number[i].SetActive(false);
+                
             }
             else if (data.stage[i] == true)
             {
+                buton[i].interactable = true;
                 locked[i].SetActive(false);
+                number[i].SetActive(true);
             }
         }
     }

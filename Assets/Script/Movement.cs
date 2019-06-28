@@ -9,6 +9,7 @@ public class Movement : MonoBehaviour
     public float jump1 = 6, jump2 = 4;
     public bool doubleJump = false, grounded = false, tapped = false, stop = false, jumping = false, gameOver = false, finish = false, wait = true, start = false, tutor = false, done = false, sliding = false;
     public Button jump, slide, pause;
+    public Image jumps, slides;
     public AudioClip up, doubleUp, down, plus, minus, clear, dead, click; 
     public Animator animator;
     public CapsuleCollider colChar;
@@ -21,6 +22,8 @@ public class Movement : MonoBehaviour
         kamera.stop = true;
         jump.gameObject.SetActive(false);
         slide.gameObject.SetActive(false);
+        jumps.gameObject.SetActive(false);
+        slides.gameObject.SetActive(false);
     }
 
     void Update()
@@ -50,8 +53,8 @@ public class Movement : MonoBehaviour
                     manager.gray.gameObject.SetActive(true);
                     manager.tutorial.gameObject.SetActive(true);
                     manager.tutorial.text = "Sentuh disini untuk memulai Permainan!";
-                    jump.GetComponent<Image>().color = new Color(jump.GetComponent<Image>().color.r, jump.GetComponent<Image>().color.g, jump.GetComponent<Image>().color.b, 1f);
-                    slide.GetComponent<Image>().color = new Color(jump.GetComponent<Image>().color.r, jump.GetComponent<Image>().color.g, jump.GetComponent<Image>().color.b, 1f);
+                    jumps.gameObject.SetActive(true);
+                    slides.gameObject.SetActive(true);
                 }
             }
             else if (!wait)
@@ -62,8 +65,8 @@ public class Movement : MonoBehaviour
                 {
                     manager.gray.gameObject.SetActive(false);
                     manager.tutorial.gameObject.SetActive(false);
-                    jump.GetComponent<Image>().color = new Color(jump.GetComponent<Image>().color.r, jump.GetComponent<Image>().color.g, jump.GetComponent<Image>().color.b, 0f);
-                    slide.GetComponent<Image>().color = new Color(jump.GetComponent<Image>().color.r, jump.GetComponent<Image>().color.g, jump.GetComponent<Image>().color.b, 0f);
+                    jumps.gameObject.SetActive(false);
+                    slides.gameObject.SetActive(false);
                     jump.gameObject.SetActive(false);
                     slide.gameObject.SetActive(false);
                     tapped = false;
@@ -166,7 +169,7 @@ public class Movement : MonoBehaviour
                         manager.tutorial.text = "Sentuh disini untuk lompat!";
                         manager.gray.gameObject.SetActive(true);
                         manager.tutorial.gameObject.SetActive(true);
-                        jump.GetComponent<Image>().color = new Color(jump.GetComponent<Image>().color.r, jump.GetComponent<Image>().color.g, jump.GetComponent<Image>().color.b, 1f);
+                        jumps.gameObject.SetActive(true);
                         jump.gameObject.SetActive(true);
                     }
                     else if (tapped)
@@ -175,7 +178,7 @@ public class Movement : MonoBehaviour
                         kamera.stop = false;
                         manager.gray.gameObject.SetActive(false);
                         manager.tutorial.gameObject.SetActive(false);
-                        jump.GetComponent<Image>().color = new Color(jump.GetComponent<Image>().color.r, jump.GetComponent<Image>().color.g, jump.GetComponent<Image>().color.b, 0f);
+                        jumps.gameObject.SetActive(false);
                         tapped = false;
                         manager.tutor1 = true;
                         AudioSource audio = GetComponent<AudioSource>();
@@ -274,7 +277,7 @@ public class Movement : MonoBehaviour
                         manager.tutorial.text = "Sentuh layar ini untuk berseluncur, jangan menabrak tembok yang ada. Ingat! Ketika berseluncur kamu tidak bisa melompat!";
                         manager.gray.gameObject.SetActive(true);
                         manager.tutorial.gameObject.SetActive(true);
-                        slide.GetComponent<Image>().color = new Color(slide.GetComponent<Image>().color.r, slide.GetComponent<Image>().color.g, slide.GetComponent<Image>().color.b, 1f);
+                        slides.gameObject.SetActive(true);
                         slide.gameObject.SetActive(true);
                     }
                     else if (tapped)
@@ -283,7 +286,7 @@ public class Movement : MonoBehaviour
                         kamera.stop = false;
                         manager.gray.gameObject.SetActive(false);
                         manager.tutorial.gameObject.SetActive(false);
-                        slide.GetComponent<Image>().color = new Color(slide.GetComponent<Image>().color.r, slide.GetComponent<Image>().color.g, slide.GetComponent<Image>().color.b, 0f);
+                        slides.gameObject.SetActive(false);
                         tapped = false;
                         manager.tutor5 = true;
                         AudioSource audio = GetComponent<AudioSource>();
