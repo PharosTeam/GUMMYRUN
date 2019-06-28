@@ -1,7 +1,8 @@
 fileFormatVersion: 2
 guid: 6f3ba54e103594446894d0ec7c4d6c89
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: play button pink_0
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -93,7 +94,27 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: play button pink_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 343
+        width: 867
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019488208f4a9e94c9ea064eba8979c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
