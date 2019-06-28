@@ -67,11 +67,13 @@ public class MenuManager : MonoBehaviour
 
             if (data.control)
             {
-                seting.control.GetComponent<Image>().color = new Color(0, 255, 0);
+                seting.controlJS.SetActive(false);
+                seting.controlSJ.SetActive(true);
             }
             else if (!data.control)
             {
-                seting.control.GetComponent<Image>().color = new Color(255, 0, 0);
+                seting.controlJS.SetActive(true);
+                seting.controlSJ.SetActive(false);
             }
         }
         else
