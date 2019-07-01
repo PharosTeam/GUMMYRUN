@@ -13,14 +13,14 @@ EditorBuildSettings:
     guid: 1d6c85e3021c63543b816e333af4fdf2
   - enabled: 1
     path: Assets/Scenes/JerukStory/Level2.unity
-    guid: 9c70c4ab01870f1408cb47c474f3e67b
+    guid: 762c0c9893096424ea59d29d401f4acc
   - enabled: 1
     path: Assets/Scenes/JerukStory/Level3.unity
-    guid: 4d4f517ba98f7944fa1b74e874d5ce07
+    guid: 334c7953283f02749bb47017591781b0
   - enabled: 1
     path: Assets/Scenes/JerukStory/Level4.unity
-    guid: 1f2aaf6fa1dbddf419a2df864bc9b7b0
+    guid: 53347244766b5344c9e2432587adb849
   - enabled: 1
     path: Assets/Scenes/JerukStory/Level5.unity
-    guid: b6ce89fc55364e1478340cf9cffcf137
+    guid: 0437a48bf40733b42b5197eb321fdf34
   m_configObjects: {}

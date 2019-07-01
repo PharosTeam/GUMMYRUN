@@ -1,0 +1,5 @@
+﻿C:\Users\Wrlan\Desktop\pharos\desert\t$m$p$$$\desert.max
+C:\Users\Wrlan\Desktop\pharos\desert\t$m$p$$$\MAXFILES.TXT
+C:\Users\Wrlan\Desktop\pharos\desert\textures\desert_lambert1_AlbedoTransparency.png
+C:\Users\Wrlan\Desktop\pharos\desert\textures\desert_lambert1_MetallicSmoothness.png
+C:\Users\Wrlan\Desktop\pharos\desert\textures\desert_lambert1_Normal.png

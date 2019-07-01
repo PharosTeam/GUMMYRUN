@@ -1,0 +1,5 @@
+﻿C:\Users\Wrlan\Desktop\pharos\t$m$p$$$\ice.max
+C:\Users\Wrlan\Desktop\pharos\t$m$p$$$\MAXFILES.TXT
+C:\Users\Wrlan\Desktop\pharos\iceberg\iceberg_1001_BaseColor.png
+C:\Users\Wrlan\Desktop\pharos\iceberg\iceberg_1001_Normal.png
+C:\Users\Wrlan\Desktop\pharos\iceberg\iceberg_1001_Roughness.png
