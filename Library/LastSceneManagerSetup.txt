@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/JerukStory/Level5.unity
+- path: Assets/Scenes/JerukStory/Level4.unity
   isLoaded: 1
   isActive: 1

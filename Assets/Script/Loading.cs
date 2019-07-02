@@ -9,6 +9,7 @@ public class Loading : MonoBehaviour
     public Button[] buton;
     public GameObject[] locked;
     public GameObject[] number;
+    public GameObject[] star;
     public Slider bar;
     public Text percen;
     public Data data;
@@ -27,13 +28,27 @@ public class Loading : MonoBehaviour
                 buton[i].interactable = false;
                 locked[i].SetActive(true);
                 number[i].SetActive(false);
-                
             }
             else if (data.stage[i] == true)
             {
                 buton[i].interactable = true;
                 locked[i].SetActive(false);
                 number[i].SetActive(true);
+                if (data.star[i] == 1)
+                {
+                    star[i + (2 * i)].SetActive(true);
+                }
+                else if (data.star[i] == 2)
+                {
+                    star[i + (2 * i)].SetActive(true);
+                    star[i + (2 * i) + 1].SetActive(true);
+                }
+                else if (data.star[i] == 3)
+                {
+                    star[i + (2 * i)].SetActive(true);
+                    star[i + (2 * i) + 1].SetActive(true);
+                    star[i + (2 * i) + 2].SetActive(true);
+                }
             }
         }
     }
@@ -47,7 +62,7 @@ public class Loading : MonoBehaviour
         {
             float progress = Mathf.Clamp01(operation.progress / 0.9f);
             bar.value = progress;
-            percen.text = progress * 100 + "%";
+            percen.text = (progress * 100f).ToString("F0") + "%";
             yield return null;
         }
     }

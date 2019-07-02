@@ -16,6 +16,7 @@ public class MenuManager : MonoBehaviour
     public Setting seting;
     public bool pop;
     public GameObject exit;
+    public Button a, b, c;
 
     private void Awake()
     {
@@ -45,23 +46,23 @@ public class MenuManager : MonoBehaviour
 
             if (data.music)
             {
-                seting.music.GetComponent<Image>().color = new Color(0, 255, 0);
+                seting.music.GetComponent<Image>().sprite = seting.musicOn;
                 seting.listMusic.volume = 1f;
             }
             else if (!data.music)
             {
-                seting.music.GetComponent<Image>().color = new Color(255, 0, 0);
+                seting.music.GetComponent<Image>().sprite = seting.musicOff;
                 seting.listMusic.volume = 0f;
             }
 
             if (data.sfx)
             {
-                seting.sfx.GetComponent<Image>().color = new Color(0, 255, 0);
+                seting.sfx.GetComponent<Image>().sprite = seting.sfxOn;
                 seting.listSfx.volume = 1f;
             }
             else if (!data.sfx)
             {
-                seting.sfx.GetComponent<Image>().color = new Color(255, 0, 0);
+                seting.sfx.GetComponent<Image>().sprite = seting.sfxOff;
                 seting.listSfx.volume = 0f;
             }
 
@@ -264,6 +265,9 @@ public class MenuManager : MonoBehaviour
         scene = -1;
         seting.listSfx.PlayOneShot(seting.click);
         setting.SetInteger("Flow", 1);
+        a.interactable = false;
+        b.interactable = false;
+        c.interactable = false;
     }
 
     public void SettingIn()
@@ -271,6 +275,9 @@ public class MenuManager : MonoBehaviour
         scene = 0;
         seting.listSfx.PlayOneShot(seting.click);
         setting.SetInteger("Flow", 2);
+        a.interactable = true;
+        b.interactable = true;
+        c.interactable = true;
     }
 
     public void confirm()

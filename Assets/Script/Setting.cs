@@ -23,14 +23,12 @@ public class Setting : MonoBehaviour
         if (!data.music)
         {
             music.GetComponent<Image>().sprite = musicOn;
-            music.GetComponent<Image>().color = new Color(0, 255, 0);
             listMusic.volume = 1f;
             data.music = true;
         }
         else if (data.music)
         {
             music.GetComponent<Image>().sprite = musicOff;
-            music.GetComponent<Image>().color = new Color(255, 0, 0);
             listMusic.volume = 0f;
             data.music = false;
         }
@@ -43,14 +41,12 @@ public class Setting : MonoBehaviour
         if (!data.sfx)
         {
             sfx.GetComponent<Image>().sprite = sfxOn;
-            sfx.GetComponent<Image>().color = new Color(0, 255, 0);
             listSfx.volume = 1f;
             data.sfx = true;
         }
         else if (data.sfx)
         {
             sfx.GetComponent<Image>().sprite = sfxOff;
-            sfx.GetComponent<Image>().color = new Color(255, 0, 0);
             listSfx.volume = 0f;
             data.sfx = false;
         }

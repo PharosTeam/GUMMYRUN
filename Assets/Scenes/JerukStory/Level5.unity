@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 170076734}
-  m_IndirectSpecularColor: {r: 0.4491837, g: 0.49925542, b: 0.57571167, a: 1}
+  m_IndirectSpecularColor: {r: 0.449184, g: 0.49925584, b: 0.5757126, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -563,6 +563,16 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 22
       objectReference: {fileID: 0}
+    - target: {fileID: 6399802300900075993, guid: b75f6e53ba06c524dbdf7bfb8990b8fa,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.62999725
+      objectReference: {fileID: 0}
+    - target: {fileID: 6399802300900075993, guid: b75f6e53ba06c524dbdf7bfb8990b8fa,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 1.5200195
+      objectReference: {fileID: 0}
     - target: {fileID: 6399802298953505662, guid: b75f6e53ba06c524dbdf7bfb8990b8fa,
         type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -577,16 +587,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_StaticEditorFlags
       value: 22
-      objectReference: {fileID: 0}
-    - target: {fileID: 6399802300900075993, guid: b75f6e53ba06c524dbdf7bfb8990b8fa,
-        type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: -0.6299968
-      objectReference: {fileID: 0}
-    - target: {fileID: 6399802300900075993, guid: b75f6e53ba06c524dbdf7bfb8990b8fa,
-        type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 1.5200195
       objectReference: {fileID: 0}
     - target: {fileID: 6399802300645979492, guid: b75f6e53ba06c524dbdf7bfb8990b8fa,
         type: 3}
@@ -5298,6 +5298,8 @@ MonoBehaviour:
   speed: 150
   rb: {fileID: 534669906}
   stop: 0
+  dif: 27.15
+  bg: {fileID: 0}
 --- !u!82 &534669908
 AudioSource:
   m_ObjectHideFlags: 0
@@ -6943,10 +6945,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scoreCount: 0
-  level: 0
-  get1: 3
-  get2: 5
-  get3: 10
+  level: 4
+  get1: 10
+  get2: 15
+  get3: 20
   score: {fileID: 1441663418}
   tutorial: {fileID: 767929266}
   victory: {fileID: 1196495516}
@@ -6998,6 +7000,7 @@ MonoBehaviour:
   buton: []
   locked: []
   number: []
+  star: []
   bar: {fileID: 683575047}
   percen: {fileID: 136183528}
   data: {fileID: 534669909}
@@ -8882,7 +8885,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.25}
   m_AnchorMax: {x: 1, y: 0.75}
-  m_AnchoredPosition: {x: -5.000002, y: 0}
+  m_AnchoredPosition: {x: -5, y: 0}
   m_SizeDelta: {x: -20, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!82 &1041998797 stripped
@@ -10228,7 +10231,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.124749325, y: 0.16777778}
   m_AnchorMax: {x: 0.87500006, y: 0.82666665}
-  m_AnchoredPosition: {x: -5.800171, y: -43.00002}
+  m_AnchoredPosition: {x: -5.800171, y: -43.000008}
   m_SizeDelta: {x: -719.1, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1196495516
@@ -12521,7 +12524,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.124749325, y: 0.16777778}
   m_AnchorMax: {x: 0.87500006, y: 0.82666665}
-  m_AnchoredPosition: {x: -5.800171, y: -43.00002}
+  m_AnchoredPosition: {x: -5.800171, y: -43.000008}
   m_SizeDelta: {x: -719.1, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1541382472
@@ -15408,7 +15411,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.124749325, y: 0.16777778}
   m_AnchorMax: {x: 0.87500006, y: 0.82666665}
-  m_AnchoredPosition: {x: -5.800171, y: -43.00002}
+  m_AnchoredPosition: {x: -5.800171, y: -43.000008}
   m_SizeDelta: {x: -719.1, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1929678493
