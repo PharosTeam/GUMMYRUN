@@ -17,6 +17,10 @@ public class MenuManager : MonoBehaviour
     public bool pop;
     public GameObject exit;
     public Button a, b, c;
+    public Button[] buton;
+    public GameObject[] locked;
+    public GameObject[] number;
+    public GameObject[] star;
 
     private void Awake()
     {
@@ -97,6 +101,36 @@ public class MenuManager : MonoBehaviour
 
     private void Update()
     {
+        for (int i = 0; i < locked.Length; i++)
+        {
+            if (data.stage[i] == false)
+            {
+                buton[i].interactable = false;
+                locked[i].SetActive(true);
+                number[i].SetActive(false);
+            }
+            else if (data.stage[i] == true)
+            {
+                buton[i].interactable = true;
+                locked[i].SetActive(false);
+                number[i].SetActive(true);
+                if (data.star[i] == 1)
+                {
+                    star[i + (2 * i)].SetActive(true);
+                }
+                else if (data.star[i] == 2)
+                {
+                    star[i + (2 * i)].SetActive(true);
+                    star[i + (2 * i) + 1].SetActive(true);
+                }
+                else if (data.star[i] == 3)
+                {
+                    star[i + (2 * i)].SetActive(true);
+                    star[i + (2 * i) + 1].SetActive(true);
+                    star[i + (2 * i) + 2].SetActive(true);
+                }
+            }
+        }
         if (Input.GetKeyDown(KeyCode.Escape))
         {
             switch (scene)

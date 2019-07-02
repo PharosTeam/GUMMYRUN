@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657844, g: 0.49641222, b: 0.57481694, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -9636,6 +9636,37 @@ MonoBehaviour:
   a: {fileID: 825311028}
   b: {fileID: 81192270}
   c: {fileID: 639523856}
+  buton:
+  - {fileID: 1794556429}
+  - {fileID: 656745957}
+  - {fileID: 908556566}
+  - {fileID: 370184361}
+  locked:
+  - {fileID: 1963360856}
+  - {fileID: 866353345}
+  - {fileID: 2105608645}
+  - {fileID: 1278103703}
+  number:
+  - {fileID: 487319848}
+  - {fileID: 1978833793}
+  - {fileID: 140566128}
+  - {fileID: 1294739618}
+  star:
+  - {fileID: 1648050318}
+  - {fileID: 194940258}
+  - {fileID: 364412856}
+  - {fileID: 96931270}
+  - {fileID: 1261219651}
+  - {fileID: 1422298430}
+  - {fileID: 1004224662}
+  - {fileID: 895254330}
+  - {fileID: 1762426500}
+  - {fileID: 2136066658}
+  - {fileID: 331263150}
+  - {fileID: 389151797}
+  - {fileID: 1167704638}
+  - {fileID: 1157365697}
+  - {fileID: 455946280}
 --- !u!4 &2008720654
 Transform:
   m_ObjectHideFlags: 0
@@ -9663,37 +9694,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   loadingScreen: {fileID: 806213869}
-  buton:
-  - {fileID: 1794556429}
-  - {fileID: 656745957}
-  - {fileID: 908556566}
-  - {fileID: 370184361}
-  locked:
-  - {fileID: 1963360856}
-  - {fileID: 866353345}
-  - {fileID: 2105608645}
-  - {fileID: 1278103703}
-  number:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  star:
-  - {fileID: 1648050318}
-  - {fileID: 194940258}
-  - {fileID: 364412856}
-  - {fileID: 96931270}
-  - {fileID: 1261219651}
-  - {fileID: 1422298430}
-  - {fileID: 1004224662}
-  - {fileID: 895254330}
-  - {fileID: 1762426500}
-  - {fileID: 2136066658}
-  - {fileID: 331263150}
-  - {fileID: 389151797}
-  - {fileID: 1167704638}
-  - {fileID: 1157365697}
-  - {fileID: 455946280}
   bar: {fileID: 1600976630}
   percen: {fileID: 6399802298940211539}
   data: {fileID: 1017638709}
@@ -10971,11 +10971,6 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0.5
       objectReference: {fileID: 0}
-    - target: {fileID: 6399802298940211539, guid: b75f6e53ba06c524dbdf7bfb8990b8fa,
-        type: 3}
-      propertyPath: m_FontData.m_FontSize
-      value: 60
-      objectReference: {fileID: 0}
     - target: {fileID: 6399802299935080483, guid: b75f6e53ba06c524dbdf7bfb8990b8fa,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -11005,6 +11000,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: -0.27000427
+      objectReference: {fileID: 0}
+    - target: {fileID: 6399802298940211539, guid: b75f6e53ba06c524dbdf7bfb8990b8fa,
+        type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 60
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b75f6e53ba06c524dbdf7bfb8990b8fa, type: 3}
