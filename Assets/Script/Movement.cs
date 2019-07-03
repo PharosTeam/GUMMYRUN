@@ -91,7 +91,7 @@ public class Movement : MonoBehaviour
                 {
                     if (hit.transform.gameObject.tag == "ground")
                     {
-                        if (grounded && !jumping && !gameOver)
+                        if (grounded && !jumping && !gameOver && rb.velocity.y < 1)
                         {
                             if (animator.GetInteger("Animation") == 3)
                             {
@@ -222,7 +222,7 @@ public class Movement : MonoBehaviour
                     {
                         stop = true;
                         kamera.stop = true;
-                        manager.tutorial.text = "Jangan sentuh Kaktus, Lompat sekarang!";
+                        manager.tutorial.text = "Jangan sentuh Kayu Tajam, Lompat sekarang!";
                         manager.gray.gameObject.SetActive(true);
                         manager.tutorial.gameObject.SetActive(true);
                         jump.gameObject.SetActive(true);
@@ -301,8 +301,7 @@ public class Movement : MonoBehaviour
                     {
                         stop = true;
                         kamera.stop = true;
-                        manager.tutorial.text = "Jika mengambil buah yang berbeda dengan jenis karaktermu, maka poinmu akan berkurang." +
-                            "Sekarang mainkanlah sendiri!";
+                        manager.tutorial.text = "Jika mengambil buah yang berbeda dengan jenis karaktermu, maka poinmu akan berkurang. Sekarang mainkanlah sendiri!";
                         manager.gray.gameObject.SetActive(true);
                         manager.tutorial.gameObject.SetActive(true);
                         jump.gameObject.SetActive(true);
