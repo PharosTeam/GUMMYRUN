@@ -139,11 +139,17 @@ public class MenuManager : MonoBehaviour
                         {
                             pop = true;
                             exit.SetActive(true);
+                            a.interactable = false;
+                            b.interactable = false;
+                            c.interactable = false;
                         }
                         else if (pop)
                         {
                             pop = false;
                             exit.SetActive(false);
+                            a.interactable = false;
+                            b.interactable = false;
+                            c.interactable = false;
                         }
                         break;
                 case 1: ChapterToMenu(); break;

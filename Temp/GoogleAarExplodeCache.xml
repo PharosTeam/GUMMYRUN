@@ -27,7 +27,7 @@
   </explodeData>
   <explodeData>
     <aar>android.arch.lifecycle.runtime-1.0.0</aar>
-    <modificationTime>2019-06-27T10:52:41.8814227+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.0986222+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/android.arch.lifecycle.runtime-1.0.0.aar</path>
@@ -53,7 +53,7 @@
   </explodeData>
   <explodeData>
     <aar>com.android.support.support-compat-26.1.0</aar>
-    <modificationTime>2019-06-27T10:52:42.3995796+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.1066121+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.android.support.support-compat-26.1.0.aar</path>
@@ -66,7 +66,7 @@
   </explodeData>
   <explodeData>
     <aar>com.android.support.support-core-ui-26.1.0</aar>
-    <modificationTime>2019-06-27T10:52:42.5588344+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.1106452+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.android.support.support-core-ui-26.1.0.aar</path>
@@ -79,7 +79,7 @@
   </explodeData>
   <explodeData>
     <aar>com.android.support.support-core-utils-26.1.0</aar>
-    <modificationTime>2019-06-27T10:52:42.6180627+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.1146406+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.android.support.support-core-utils-26.1.0.aar</path>
@@ -92,7 +92,7 @@
   </explodeData>
   <explodeData>
     <aar>com.android.support.support-fragment-26.1.0</aar>
-    <modificationTime>2019-06-27T10:52:42.7303323+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.1185924+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.android.support.support-fragment-26.1.0.aar</path>
@@ -105,7 +105,7 @@
   </explodeData>
   <explodeData>
     <aar>com.android.support.support-media-compat-26.1.0</aar>
-    <modificationTime>2019-06-27T10:52:42.7979197+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.1225873+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.android.support.support-media-compat-26.1.0.aar</path>
@@ -118,7 +118,7 @@
   </explodeData>
   <explodeData>
     <aar>com.android.support.support-v4-26.1.0</aar>
-    <modificationTime>2019-06-27T10:52:42.8549017+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.1225873+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.android.support.support-v4-26.1.0.aar</path>
@@ -131,7 +131,7 @@
   </explodeData>
   <explodeData>
     <aar>com.crashlytics.sdk.android.answers-1.4.7</aar>
-    <modificationTime>2019-06-27T10:52:42.9270579+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.126625+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.crashlytics.sdk.android.answers-1.4.7.aar</path>
@@ -144,7 +144,7 @@
   </explodeData>
   <explodeData>
     <aar>com.crashlytics.sdk.android.beta-1.2.10</aar>
-    <modificationTime>2019-06-27T10:52:43.0200039+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.126625+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.crashlytics.sdk.android.beta-1.2.10.aar</path>
@@ -170,7 +170,7 @@
   </explodeData>
   <explodeData>
     <aar>com.crashlytics.sdk.android.crashlytics-core-2.6.8</aar>
-    <modificationTime>2019-06-27T10:52:43.1359371+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.1385664+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.crashlytics.sdk.android.crashlytics-core-2.6.8.aar</path>
@@ -183,7 +183,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.android.gms.play-services-ads-identifier-16.0.0</aar>
-    <modificationTime>2019-06-27T10:52:43.2029583+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.1385664+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.google.android.gms.play-services-ads-identifier-16.0.0.aar</path>
@@ -196,7 +196,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.android.gms.play-services-auth-16.0.1</aar>
-    <modificationTime>2019-06-28T11:09:59.333944+07:00</modificationTime>
+    <modificationTime>2019-06-27T16:10:09.017764+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.google.android.gms.play-services-auth-16.0.1.aar</path>
@@ -209,7 +209,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.android.gms.play-services-auth-api-phone-16.0.0</aar>
-    <modificationTime>2019-06-28T11:09:59.3459338+07:00</modificationTime>
+    <modificationTime>2019-06-27T16:10:09.0187613+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.google.android.gms.play-services-auth-api-phone-16.0.0.aar</path>
@@ -222,7 +222,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.android.gms.play-services-auth-base-16.0.0</aar>
-    <modificationTime>2019-06-28T11:09:59.3559284+07:00</modificationTime>
+    <modificationTime>2019-06-27T16:10:09.0197588+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.google.android.gms.play-services-auth-base-16.0.0.aar</path>
@@ -235,7 +235,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.android.gms.play-services-base-16.0.1</aar>
-    <modificationTime>2019-06-27T10:52:43.5768922+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.1426036+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.google.android.gms.play-services-base-16.0.1.aar</path>
@@ -248,7 +248,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.android.gms.play-services-basement-16.2.0</aar>
-    <modificationTime>2019-06-27T10:52:43.7794088+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.1465986+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.google.android.gms.play-services-basement-16.2.0.aar</path>
@@ -261,7 +261,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.android.gms.play-services-drive-16.0.0</aar>
-    <modificationTime>2019-06-28T11:09:59.362924+07:00</modificationTime>
+    <modificationTime>2019-06-27T16:10:09.0217534+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.google.android.gms.play-services-drive-16.0.0.aar</path>
@@ -274,7 +274,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.android.gms.play-services-flags-16.0.1</aar>
-    <modificationTime>2019-06-27T10:52:43.8853492+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.1505933+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.google.android.gms.play-services-flags-16.0.1.aar</path>
@@ -287,7 +287,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.android.gms.play-services-games-17.0.0</aar>
-    <modificationTime>2019-06-28T11:09:59.3669216+07:00</modificationTime>
+    <modificationTime>2019-06-27T16:10:09.0237483+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.google.android.gms.play-services-games-17.0.0.aar</path>
@@ -300,7 +300,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.android.gms.play-services-measurement-16.5.0</aar>
-    <modificationTime>2019-06-27T10:52:43.9533856+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.1545452+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.google.android.gms.play-services-measurement-16.5.0.aar</path>
@@ -313,7 +313,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.android.gms.play-services-measurement-api-16.5.0</aar>
-    <modificationTime>2019-06-27T10:52:43.9723889+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.1545452+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.google.android.gms.play-services-measurement-api-16.5.0.aar</path>
@@ -326,7 +326,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.android.gms.play-services-measurement-base-16.5.0</aar>
-    <modificationTime>2019-06-27T10:52:43.9985315+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.1585397+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.google.android.gms.play-services-measurement-base-16.5.0.aar</path>
@@ -339,7 +339,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.android.gms.play-services-measurement-impl-16.5.0</aar>
-    <modificationTime>2019-06-27T10:52:44.0314994+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.162578+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.google.android.gms.play-services-measurement-impl-16.5.0.aar</path>
@@ -352,7 +352,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.android.gms.play-services-measurement-sdk-16.5.0</aar>
-    <modificationTime>2019-06-27T10:52:44.0624885+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.162578+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.google.android.gms.play-services-measurement-sdk-16.5.0.aar</path>
@@ -365,7 +365,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.android.gms.play-services-measurement-sdk-api-16.5.0</aar>
-    <modificationTime>2019-06-27T10:52:44.1006333+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.1665706+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.google.android.gms.play-services-measurement-sdk-api-16.5.0.aar</path>
@@ -378,7 +378,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.android.gms.play-services-nearby-16.0.0</aar>
-    <modificationTime>2019-06-28T11:09:59.3689208+07:00</modificationTime>
+    <modificationTime>2019-06-27T16:10:09.0247458+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.google.android.gms.play-services-nearby-16.0.0.aar</path>
@@ -391,7 +391,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.android.gms.play-services-stats-16.0.1</aar>
-    <modificationTime>2019-06-27T10:52:44.1585995+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.1665706+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.google.android.gms.play-services-stats-16.0.1.aar</path>
@@ -404,7 +404,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.android.gms.play-services-tasks-16.0.1</aar>
-    <modificationTime>2019-06-27T10:52:44.1925663+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.1705608+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.google.android.gms.play-services-tasks-16.0.1.aar</path>
@@ -430,7 +430,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.firebase.firebase-abt-17.1.1</aar>
-    <modificationTime>2019-06-27T10:52:44.3749506+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.1745216+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.google.firebase.firebase-abt-17.1.1.aar</path>
@@ -443,7 +443,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.firebase.firebase-analytics-16.5.0</aar>
-    <modificationTime>2019-06-27T10:52:44.4520459+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.1745216+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.google.firebase.firebase-analytics-16.5.0.aar</path>
@@ -482,7 +482,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.firebase.firebase-auth-17.0.0</aar>
-    <modificationTime>2019-06-27T10:52:44.6521409+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.2823833+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.google.firebase.firebase-auth-17.0.0.aar</path>
@@ -495,7 +495,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.firebase.firebase-auth-interop-17.0.0</aar>
-    <modificationTime>2019-06-27T10:52:44.6861163+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.2823833+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.google.firebase.firebase-auth-interop-17.0.0.aar</path>
@@ -534,7 +534,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.firebase.firebase-config-17.0.0</aar>
-    <modificationTime>2019-06-27T10:52:44.7900717+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.3263244+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.google.firebase.firebase-config-17.0.0.aar</path>
@@ -573,7 +573,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.firebase.firebase-iid-18.0.0</aar>
-    <modificationTime>2019-06-27T10:52:44.8659992+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.3668443+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.google.firebase.firebase-iid-18.0.0.aar</path>
@@ -586,7 +586,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.firebase.firebase-iid-interop-16.0.1</aar>
-    <modificationTime>2019-06-27T10:52:44.897981+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.3708161+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.google.firebase.firebase-iid-interop-16.0.1.aar</path>
@@ -599,7 +599,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.firebase.firebase-measurement-connector-17.0.1</aar>
-    <modificationTime>2019-06-27T10:52:44.9089745+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.3708161+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.google.firebase.firebase-measurement-connector-17.0.1.aar</path>
@@ -612,7 +612,7 @@
   </explodeData>
   <explodeData>
     <aar>com.google.firebase.firebase-messaging-18.0.0</aar>
-    <modificationTime>2019-06-27T10:52:44.9379594+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.3748048+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/com.google.firebase.firebase-messaging-18.0.0.aar</path>
@@ -651,7 +651,7 @@
   </explodeData>
   <explodeData>
     <aar>io.fabric.sdk.android.fabric-1.4.8</aar>
-    <modificationTime>2019-06-27T10:52:45.0489124+07:00</modificationTime>
+    <modificationTime>2019-06-25T11:01:44.3948384+07:00</modificationTime>
     <explode>false</explode>
     <bundleId>com.PharosGame.GummyRun</bundleId>
     <path>Assets/Plugins/Android/io.fabric.sdk.android.fabric-1.4.8.aar</path>
