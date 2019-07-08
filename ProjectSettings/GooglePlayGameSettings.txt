@@ -1,2 +1,9 @@
 lastUpgrade=00964
 proj.pluginVersion=0.9.64
+proj.AppId=792807873232
+and.BundleId=com.PharosGame.GummyRun
+proj.classDir=Assets
+proj.ConstantsClassName=RPGPS
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e792807873232%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.PharosGame.GummyRun%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=
+android.SetupDone=true

@@ -5,6 +5,8 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using TMPro;
 using System.IO;
+using GooglePlayGames;
+using Google;
 
 public class MenuManager : MonoBehaviour
 {
@@ -21,6 +23,9 @@ public class MenuManager : MonoBehaviour
     public GameObject[] locked;
     public GameObject[] number;
     public GameObject[] star;
+
+    //Google Play Services Menu
+    public GameObject ConnectedGP;
 
     private void Awake()
     {
@@ -98,6 +103,10 @@ public class MenuManager : MonoBehaviour
         }
         totalStar.text = "x " + data.totalStar;
         totalJeruk.text = "x " + data.totalJeruk;
+
+        //Google Play Service
+        PlayGamesPlatform.Activate();
+        OnConnectionRespone(PlayGamesPlatform.Instance.localUser.authenticated);
     }
 
     private void Update()
@@ -332,5 +341,25 @@ public class MenuManager : MonoBehaviour
         seting.listSfx.PlayOneShot(seting.click);
         exit.SetActive(false);
         pop = false;
+    }
+
+    public void OnConnectClick()
+    {
+        Social.localUser.Authenticate((bool success) =>
+        {
+            OnConnectionRespone(success);
+        });
+    }
+
+    private void OnConnectionRespone(bool authenticated)
+    {
+        if (authenticated)
+        {
+            ConnectedGP.GetComponent<Image>().color = new Color32(255, 255, 225, 100);
+        }
+        else
+        {
+            ConnectedGP.GetComponent<Image>().color = new Color32(0, 255, 0, 100);
+        }
     }
 }

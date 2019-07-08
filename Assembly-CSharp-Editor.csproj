@@ -77,13 +77,17 @@
     <None Include="Assets\GooglePlayGames\Editor\template-AndroidManifest.txt" />
     <None Include="Assets\GooglePlayGames\Editor\m2repository\com\google\games\gpgs-plugin-support\maven-metadata.xml" />
     <None Include="Assets\Firebase\Editor\AppDependencies.xml" />
+    <None Include="Assets\GoogleSignIn\Editor\GoogleSignInSupportDependencies.xml" />
+    <None Include="Assets\GoogleSignIn\Editor\m2repository\com\google\signin\google-signin-support\maven-metadata.xml" />
     <None Include="Assets\Firebase\Editor\CrashlyticsDependencies.xml" />
     <None Include="Assets\GooglePlayGames\Editor\GooglePlayGamesPlugin_v0.9.64.txt" />
     <None Include="Assets\Firebase\Editor\AnalyticsDependencies.xml" />
     <None Include="Assets\Firebase\Editor\RemoteConfigDependencies.xml" />
     <None Include="Assets\Firebase\Editor\AuthDependencies.xml" />
+    <None Include="Assets\GoogleSignIn\Editor\GoogleSignInDependencies.xml" />
     <None Include="Assets\Firebase\Editor\FirebaseAuth_version-6.1.1_manifest.txt" />
     <None Include="Assets\GooglePlayGames\Editor\template-Constants.txt" />
+    <None Include="Assets\GoogleSignIn\Editor\google-signin-plugin_v1.0.4.txt" />
     <None Include="Assets\Firebase\Editor\FirebaseRemoteConfig_version-6.1.1_manifest.txt" />
     <None Include="Assets\Firebase\Editor\MessagingDependencies.xml" />
     <Reference Include="Unity.TextMeshPro.Editor">
