@@ -109,6 +109,10 @@ public class GameManager : MonoBehaviour
                     data.star[level] = 1;
                 }
             }
+            if(karakter.karakter == "jeruk")
+            {
+                data.totalJeruk += scoreCount;
+            }
             data.stage[level] = true;
             data.saveData();
             done = true;

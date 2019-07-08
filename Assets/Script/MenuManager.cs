@@ -9,7 +9,7 @@ using System.IO;
 public class MenuManager : MonoBehaviour
 {
     public Animator menu, chapter, stage1, stage2, stage3, setting;
-    public TextMeshPro total, chapter1, chapter2, chapter3;
+    public TextMeshPro totalStar, totalJeruk, chapter1, chapter2, chapter3;
     public Image bintang;
     public Data data;
     public int scene, chap1, chap2, chap3;
@@ -32,17 +32,17 @@ public class MenuManager : MonoBehaviour
         if (File.Exists(path))
         {
             data.loadData();
-            for (int i = 0; i < 4; i++)
+            for (int i = 0; i < 5; i++)
             {
                 chap1 += data.star[i];
             }
             chapter1.text = chap1 + "/15";
-            for (int i = 5; i < 9; i++)
+            for (int i = 5; i < 10; i++)
             {
                 chap2 += data.star[i];
             }
             chapter2.text = chap2 + "/15";
-            for (int i = 10; i < 14; i++)
+            for (int i = 10; i < 15; i++)
             {
                 chap3 += data.star[i];
             }
@@ -96,7 +96,8 @@ public class MenuManager : MonoBehaviour
             data.control = true;
             data.saveData();
         }
-        total.text = "x " + data.totalStar;
+        totalStar.text = "x " + data.totalStar;
+        totalJeruk.text = "x " + data.totalJeruk;
     }
 
     private void Update()

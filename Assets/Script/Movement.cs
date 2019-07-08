@@ -7,7 +7,7 @@ public class Movement : MonoBehaviour
     public float speed = 150f;
     public Rigidbody rb;
     public float jump1 = 6, jump2 = 4;
-    public bool doubleJump = false, grounded = false, tapped = false, stop = false, jumping = false, gameOver = false, finish = false, wait = true, start = false, tutor = false, done = false, sliding = false;
+    public bool doubleJump = false, grounded = false, tapped = false, stop = false, jumping = false, gameOver = false, finish = false, wait = true, start = false, done = false, sliding = false;
     public Button jump, slide, pause;
     public Image jumps, slides;
     public AudioClip up, doubleUp, down, plus, minus, clear, dead, click; 
@@ -16,9 +16,12 @@ public class Movement : MonoBehaviour
     public GameManager manager;
     public CameraMovement kamera;
     public Menu menu;
+    public Data data;
+    public string karakter;
 
     private void Awake()
     {
+        karakter = "jeruk";
         kamera.stop = true;
         jump.gameObject.SetActive(false);
         slide.gameObject.SetActive(false);
@@ -48,7 +51,7 @@ public class Movement : MonoBehaviour
                     jump.gameObject.SetActive(false);
                     slide.gameObject.SetActive(false);
                 }
-                if (tutor)
+                if (!data.tutor1)
                 {
                     manager.gray.gameObject.SetActive(true);
                     manager.tutorial.gameObject.SetActive(true);
@@ -61,7 +64,7 @@ public class Movement : MonoBehaviour
             {
                 animator.SetInteger("Animation", 2);
                 kamera.stop = false;
-                if (tutor)
+                if (!data.tutor1)
                 {
                     manager.gray.gameObject.SetActive(false);
                     manager.tutorial.gameObject.SetActive(false);
@@ -105,7 +108,7 @@ public class Movement : MonoBehaviour
                         grounded = true;
                         doubleJump = true;
                         jumping = false;
-                        if (tutor && done)
+                        if (!data.tutor1 && done)
                         {
                             if (manager.tutor6 && !finish && !gameOver && !sliding)
                             {
@@ -158,7 +161,7 @@ public class Movement : MonoBehaviour
                 speed = 150f;
             }
 
-            if (tutor)
+            if (!data.tutor1)
             {
                 if (transform.position.x >= 12.3f && manager.tutor1 == false)
                 {
@@ -315,6 +318,8 @@ public class Movement : MonoBehaviour
                         manager.tutorial.gameObject.SetActive(false);
                         tapped = false;
                         manager.tutor6 = true;
+                        data.tutor1 = true;
+                        data.saveData();
                     }
                 }
             }

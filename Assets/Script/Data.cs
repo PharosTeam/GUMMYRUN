@@ -5,9 +5,9 @@ using UnityEngine;
 public class Data : MonoBehaviour
 {
     public bool[] stage;
-    public int totalStar;
+    public int totalStar, totalJeruk;
     public int[] star;
-    public bool music, sfx, control;
+    public bool music, sfx, control, tutor1;
     
     public void saveData()
     {
@@ -32,5 +32,7 @@ public class Data : MonoBehaviour
         music = save.music;
         sfx = save.sfx;
         control = save.control;
+        tutor1 = save.tutor1;
+        totalJeruk = save.totalJeruk;
     }
 }

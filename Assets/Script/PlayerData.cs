@@ -6,9 +6,9 @@ using UnityEngine;
 public class PlayerData
 {
     public bool[] stage;
-    public int totalStar;
+    public int totalStar, totalJeruk;
     public int[] star;
-    public bool music, sfx, control;
+    public bool music, sfx, control, tutor1;
 
     public PlayerData (Data player)
     {
@@ -23,5 +23,7 @@ public class PlayerData
         music = player.music;
         sfx = player.sfx;
         control = player.control;
+        tutor1 = player.tutor1;
+        totalJeruk = player.totalJeruk;
     }
 }
