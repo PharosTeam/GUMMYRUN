@@ -246,10 +246,12 @@
     <Compile Include="Assets\GoogleSignIn\Impl\GoogleSignInImpl.cs" />
     <Compile Include="Assets\GoogleSignIn\Impl\NativeFuture.cs" />
     <Compile Include="Assets\GoogleSignIn\Impl\SignInHelperObject.cs" />
+    <Compile Include="Assets\Script\Achievement.cs" />
     <Compile Include="Assets\Script\Animations.cs" />
     <Compile Include="Assets\Script\CameraMovement.cs" />
     <Compile Include="Assets\Script\CameraRescaleWidth.cs" />
     <Compile Include="Assets\Script\CameraResolution.cs" />
+    <Compile Include="Assets\Script\Connect.cs" />
     <Compile Include="Assets\Script\Data.cs" />
     <Compile Include="Assets\Script\GameManager.cs" />
     <Compile Include="Assets\Script\LevelBar.cs" />

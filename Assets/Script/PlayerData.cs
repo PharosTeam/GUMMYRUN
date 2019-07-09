@@ -8,7 +8,7 @@ public class PlayerData
     public bool[] stage;
     public int totalStar, totalJeruk;
     public int[] star;
-    public bool music, sfx, control, tutor1;
+    public bool music, sfx, control, tutor1, gp, century;
 
     public PlayerData (Data player)
     {
@@ -25,5 +25,7 @@ public class PlayerData
         control = player.control;
         tutor1 = player.tutor1;
         totalJeruk = player.totalJeruk;
+        gp = player.gp;
+        century = player.century;
     }
 }

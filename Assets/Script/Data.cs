@@ -7,7 +7,7 @@ public class Data : MonoBehaviour
     public bool[] stage;
     public int totalStar, totalJeruk;
     public int[] star;
-    public bool music, sfx, control, tutor1;
+    public bool music, sfx, control, tutor1, gp, century;
     
     public void saveData()
     {
@@ -34,5 +34,7 @@ public class Data : MonoBehaviour
         control = save.control;
         tutor1 = save.tutor1;
         totalJeruk = save.totalJeruk;
+        gp = save.gp;
+        century = save.century;
     }
 }

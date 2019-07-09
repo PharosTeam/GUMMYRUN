@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-07-09T11:50:57.708+07:00
-  initializedAtString: 2019-07-09T10:59:10.344+07:00
+  lastUpdatedAtString: 2019-07-09T16:11:01.717+07:00
+  initializedAtString: 2019-07-09T13:58:04.219+07:00
   entries:
   - path: .vs\GUMMYRUN\v15\.suo
     fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\.vs\GUMMYRUN\v15\.suo
@@ -46,21 +46,45 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assembly-CSharp-Editor.csproj
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assembly-CSharp-Editor.csproj
-    projectPath: Assembly-CSharp-Editor.csproj
+  - path: Assets\Animation\Account.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Animation\Account.meta
+    projectPath: Assets\Animation\Account.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assembly-CSharp-Editor-firstpass.csproj
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assembly-CSharp-Editor-firstpass.csproj
-    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animation\Account\ConnectAccount.controller
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Animation\Account\ConnectAccount.controller
+    projectPath: Assets\Animation\Account\ConnectAccount.controller
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Asset\Logo\century.png
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Logo\century.png
-    projectPath: Assets\Asset\Logo\century.png
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animation\Account\ConnectAccount.controller.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Animation\Account\ConnectAccount.controller.meta
+    projectPath: Assets\Animation\Account\ConnectAccount.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animation\Account\popIn.anim
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Animation\Account\popIn.anim
+    projectPath: Assets\Animation\Account\popIn.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animation\Account\popIn.anim.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Animation\Account\popIn.anim.meta
+    projectPath: Assets\Animation\Account\popIn.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animation\Account\popOut.anim
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Animation\Account\popOut.anim
+    projectPath: Assets\Animation\Account\popOut.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animation\Account\popOut.anim.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Animation\Account\popOut.anim.meta
+    projectPath: Assets\Animation\Account\popOut.anim.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -68,11 +92,17 @@ MonoBehaviour:
     fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Logo\century.png.meta
     projectPath: Assets\Asset\Logo\century.png.meta
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Asset\Logo\centurydark.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Logo\centurydark.png
+    projectPath: Assets\Asset\Logo\centurydark.png
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Asset\Logo\googlePlayyGames.png
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Logo\googlePlayyGames.png
-    projectPath: Assets\Asset\Logo\googlePlayyGames.png
+  - path: Assets\Asset\Logo\centurydark.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Logo\centurydark.png.meta
+    projectPath: Assets\Asset\Logo\centurydark.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -80,140 +110,116 @@ MonoBehaviour:
     fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Logo\googlePlayyGames.png.meta
     projectPath: Assets\Asset\Logo\googlePlayyGames.png.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Asset\Maps\Forest\LogDestroyer.prefab
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Maps\Forest\LogDestroyer.prefab
-    projectPath: Assets\Asset\Maps\Forest\LogDestroyer.prefab
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Asset\TextNumbers\account.png
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\TextNumbers\account.png
-    projectPath: Assets\Asset\TextNumbers\account.png
+  - path: Assets\Asset\Logo\googlePlayyGamesDark.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Logo\googlePlayyGamesDark.png
+    projectPath: Assets\Asset\Logo\googlePlayyGamesDark.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Asset\TextNumbers\account.png.meta
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\TextNumbers\account.png.meta
-    projectPath: Assets\Asset\TextNumbers\account.png.meta
+  - path: Assets\Asset\Logo\googlePlayyGamesDark.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\Logo\googlePlayyGamesDark.png.meta
+    projectPath: Assets\Asset\Logo\googlePlayyGamesDark.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Asset\TextNumbers\achievement 1.png
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\TextNumbers\achievement
+  - path: Assets\Asset\TextNumbers\c.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\TextNumbers\c.png
+    projectPath: Assets\Asset\TextNumbers\c.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\TextNumbers\c.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\TextNumbers\c.png.meta
+    projectPath: Assets\Asset\TextNumbers\c.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\TextNumbers\control.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\TextNumbers\control.png
+    projectPath: Assets\Asset\TextNumbers\control.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\TextNumbers\control.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\TextNumbers\control.png.meta
+    projectPath: Assets\Asset\TextNumbers\control.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\TextNumbers\gp.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\TextNumbers\gp.png
+    projectPath: Assets\Asset\TextNumbers\gp.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\TextNumbers\gp.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\TextNumbers\gp.png.meta
+    projectPath: Assets\Asset\TextNumbers\gp.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Asset\TextNumbers\music 1.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\TextNumbers\music
       1.png
-    projectPath: Assets\Asset\TextNumbers\achievement 1.png
+    projectPath: Assets\Asset\TextNumbers\music 1.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Asset\TextNumbers\achievement 1.png.meta
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\TextNumbers\achievement
+  - path: Assets\Asset\TextNumbers\music 1.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\TextNumbers\music
       1.png.meta
-    projectPath: Assets\Asset\TextNumbers\achievement 1.png.meta
+    projectPath: Assets\Asset\TextNumbers\music 1.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Asset\TextNumbers\Setting.png
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\TextNumbers\Setting.png
-    projectPath: Assets\Asset\TextNumbers\Setting.png
+  - path: Assets\Asset\TextNumbers\sfx.png
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\TextNumbers\sfx.png
+    projectPath: Assets\Asset\TextNumbers\sfx.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Asset\TextNumbers\Setting.png.meta
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\TextNumbers\Setting.png.meta
-    projectPath: Assets\Asset\TextNumbers\Setting.png.meta
+  - path: Assets\Asset\TextNumbers\sfx.png.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Asset\TextNumbers\sfx.png.meta
+    projectPath: Assets\Asset\TextNumbers\sfx.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Firebase\Plugins\link.xml
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Firebase\Plugins\link.xml
-    projectPath: Assets\Firebase\Plugins\link.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Firebase\Plugins\link.xml.meta
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Firebase\Plugins\link.xml.meta
-    projectPath: Assets\Firebase\Plugins\link.xml.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Firebase\Plugins\link.xml_DISABLED
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Firebase\Plugins\link.xml_DISABLED
-    projectPath: Assets\Firebase\Plugins\link.xml_DISABLED
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Firebase\Plugins\link.xml_DISABLED.meta
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Firebase\Plugins\link.xml_DISABLED.meta
-    projectPath: Assets\Firebase\Plugins\link.xml_DISABLED.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scenes\JerukStory\Level1.unity
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Scenes\JerukStory\Level1.unity
-    projectPath: Assets\Scenes\JerukStory\Level1.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scenes\JerukStory\Level2.unity
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Scenes\JerukStory\Level2.unity
-    projectPath: Assets\Scenes\JerukStory\Level2.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scenes\JerukStory\Level3.unity
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Scenes\JerukStory\Level3.unity
-    projectPath: Assets\Scenes\JerukStory\Level3.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scenes\JerukStory\Level4.unity
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Scenes\JerukStory\Level4.unity
-    projectPath: Assets\Scenes\JerukStory\Level4.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scenes\JerukStory\Level4X.unity
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Scenes\JerukStory\Level4X.unity
-    projectPath: Assets\Scenes\JerukStory\Level4X.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scenes\JerukStory\Level4X.unity.meta
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Scenes\JerukStory\Level4X.unity.meta
-    projectPath: Assets\Scenes\JerukStory\Level4X.unity.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scenes\JerukStory\Level5.unity
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Scenes\JerukStory\Level5.unity
-    projectPath: Assets\Scenes\JerukStory\Level5.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scenes\JerukStory\Level5.unity.meta
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Scenes\JerukStory\Level5.unity.meta
-    projectPath: Assets\Scenes\JerukStory\Level5.unity.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scenes\JerukStory\Level5X.unity
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Scenes\JerukStory\Level5X.unity
-    projectPath: Assets\Scenes\JerukStory\Level5X.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scenes\JerukStory\Level5X.unity.meta
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Scenes\JerukStory\Level5X.unity.meta
-    projectPath: Assets\Scenes\JerukStory\Level5X.unity.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Assets\Scenes\Main Menu.unity
     fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Scenes\Main
       Menu.unity
     projectPath: Assets\Scenes\Main Menu.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Script\Achievement.cs
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Script\Achievement.cs
+    projectPath: Assets\Script\Achievement.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Script\Achievement.cs.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Script\Achievement.cs.meta
+    projectPath: Assets\Script\Achievement.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Script\Connect.cs
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Script\Connect.cs
+    projectPath: Assets\Script\Connect.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Script\Connect.cs.meta
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Script\Connect.cs.meta
+    projectPath: Assets\Script\Connect.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Script\Data.cs
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Script\Data.cs
+    projectPath: Assets\Script\Data.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -223,15 +229,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\assetDatabase3
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\assetDatabase3
-    projectPath: Library\assetDatabase3
+  - path: Assets\Script\PlayerData.cs
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Assets\Script\PlayerData.cs
+    projectPath: Assets\Script\PlayerData.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\AssetImportState
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\AssetImportState
-    projectPath: Library\AssetImportState
+  - path: Library\assetDatabase3
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -247,12 +253,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\EditorUserBuildSettings.asset
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\EditorUserBuildSettings.asset
-    projectPath: Library\EditorUserBuildSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
@@ -277,2475 +277,207 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\metadata\00\008a5e76206e49f9b06d8ba144aabb38
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\00\008a5e76206e49f9b06d8ba144aabb38
-    projectPath: Library\metadata\00\008a5e76206e49f9b06d8ba144aabb38
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\metadata\00\008a5e76206e49f9b06d8ba144aabb38.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\00\008a5e76206e49f9b06d8ba144aabb38.info
-    projectPath: Library\metadata\00\008a5e76206e49f9b06d8ba144aabb38.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\01\01e02995805eb483690380a911a657e2
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\01\01e02995805eb483690380a911a657e2
-    projectPath: Library\metadata\01\01e02995805eb483690380a911a657e2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\01\01e02995805eb483690380a911a657e2.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\01\01e02995805eb483690380a911a657e2.info
-    projectPath: Library\metadata\01\01e02995805eb483690380a911a657e2.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\04\0437a48bf40733b42b5197eb321fdf34
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\04\0437a48bf40733b42b5197eb321fdf34
-    projectPath: Library\metadata\04\0437a48bf40733b42b5197eb321fdf34
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\metadata\04\0437a48bf40733b42b5197eb321fdf34.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\04\0437a48bf40733b42b5197eb321fdf34.info
-    projectPath: Library\metadata\04\0437a48bf40733b42b5197eb321fdf34.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\metadata\05\059c51ef19f925b428ba9e557c40208a
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\05\059c51ef19f925b428ba9e557c40208a
-    projectPath: Library\metadata\05\059c51ef19f925b428ba9e557c40208a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\05\059c51ef19f925b428ba9e557c40208a.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\05\059c51ef19f925b428ba9e557c40208a.info
-    projectPath: Library\metadata\05\059c51ef19f925b428ba9e557c40208a.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\06\06ab663dc45fbda4a9c97769b924a4cb
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\06\06ab663dc45fbda4a9c97769b924a4cb
-    projectPath: Library\metadata\06\06ab663dc45fbda4a9c97769b924a4cb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\06\06ab663dc45fbda4a9c97769b924a4cb.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\06\06ab663dc45fbda4a9c97769b924a4cb.info
-    projectPath: Library\metadata\06\06ab663dc45fbda4a9c97769b924a4cb.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\0a\0ad9ef5fff5524355a9670c90a99cbba
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\0a\0ad9ef5fff5524355a9670c90a99cbba
-    projectPath: Library\metadata\0a\0ad9ef5fff5524355a9670c90a99cbba
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\0a\0ad9ef5fff5524355a9670c90a99cbba.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\0a\0ad9ef5fff5524355a9670c90a99cbba.info
-    projectPath: Library\metadata\0a\0ad9ef5fff5524355a9670c90a99cbba.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\0f\0f84686966161a64bb451ba79c8ba4c7
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\0f\0f84686966161a64bb451ba79c8ba4c7
-    projectPath: Library\metadata\0f\0f84686966161a64bb451ba79c8ba4c7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\0f\0f84686966161a64bb451ba79c8ba4c7.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\0f\0f84686966161a64bb451ba79c8ba4c7.info
-    projectPath: Library\metadata\0f\0f84686966161a64bb451ba79c8ba4c7.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\10\108141a9cefef4870a3b2423d504d7fc
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\10\108141a9cefef4870a3b2423d504d7fc
-    projectPath: Library\metadata\10\108141a9cefef4870a3b2423d504d7fc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\10\108141a9cefef4870a3b2423d504d7fc.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\10\108141a9cefef4870a3b2423d504d7fc.info
-    projectPath: Library\metadata\10\108141a9cefef4870a3b2423d504d7fc.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\10\10c5f25aef1220b459b75c561d1cf258
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\10\10c5f25aef1220b459b75c561d1cf258
-    projectPath: Library\metadata\10\10c5f25aef1220b459b75c561d1cf258
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\10\10c5f25aef1220b459b75c561d1cf258.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\10\10c5f25aef1220b459b75c561d1cf258.info
-    projectPath: Library\metadata\10\10c5f25aef1220b459b75c561d1cf258.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\15\152b5b1189c96d942b4f1b5eb509f18f
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\15\152b5b1189c96d942b4f1b5eb509f18f
-    projectPath: Library\metadata\15\152b5b1189c96d942b4f1b5eb509f18f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\15\152b5b1189c96d942b4f1b5eb509f18f.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\15\152b5b1189c96d942b4f1b5eb509f18f.info
-    projectPath: Library\metadata\15\152b5b1189c96d942b4f1b5eb509f18f.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\15\15434dd6012464b48bbaf21f5c9b694f
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\15\15434dd6012464b48bbaf21f5c9b694f
-    projectPath: Library\metadata\15\15434dd6012464b48bbaf21f5c9b694f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\15\15434dd6012464b48bbaf21f5c9b694f.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\15\15434dd6012464b48bbaf21f5c9b694f.info
-    projectPath: Library\metadata\15\15434dd6012464b48bbaf21f5c9b694f.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\16\16e32bf1bfd01d445a71d13ec69d5b58
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\16\16e32bf1bfd01d445a71d13ec69d5b58
-    projectPath: Library\metadata\16\16e32bf1bfd01d445a71d13ec69d5b58
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\16\16e32bf1bfd01d445a71d13ec69d5b58.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\16\16e32bf1bfd01d445a71d13ec69d5b58.info
-    projectPath: Library\metadata\16\16e32bf1bfd01d445a71d13ec69d5b58.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\17\17f8661beb4c1a34f91b241e14ec8cf7
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\17\17f8661beb4c1a34f91b241e14ec8cf7
-    projectPath: Library\metadata\17\17f8661beb4c1a34f91b241e14ec8cf7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\17\17f8661beb4c1a34f91b241e14ec8cf7.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\17\17f8661beb4c1a34f91b241e14ec8cf7.info
-    projectPath: Library\metadata\17\17f8661beb4c1a34f91b241e14ec8cf7.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\18\1895b8dba3b717c468e04467695d9ea7
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\18\1895b8dba3b717c468e04467695d9ea7
-    projectPath: Library\metadata\18\1895b8dba3b717c468e04467695d9ea7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\18\1895b8dba3b717c468e04467695d9ea7.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\18\1895b8dba3b717c468e04467695d9ea7.info
-    projectPath: Library\metadata\18\1895b8dba3b717c468e04467695d9ea7.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\1a\1a151680c4f379d46bc4547d4a0456b4
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1a\1a151680c4f379d46bc4547d4a0456b4
-    projectPath: Library\metadata\1a\1a151680c4f379d46bc4547d4a0456b4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\1a\1a151680c4f379d46bc4547d4a0456b4.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1a\1a151680c4f379d46bc4547d4a0456b4.info
-    projectPath: Library\metadata\1a\1a151680c4f379d46bc4547d4a0456b4.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\1a\1a2366f6fbe06b0418874046a5e79c08
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1a\1a2366f6fbe06b0418874046a5e79c08
-    projectPath: Library\metadata\1a\1a2366f6fbe06b0418874046a5e79c08
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\1a\1a2366f6fbe06b0418874046a5e79c08.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1a\1a2366f6fbe06b0418874046a5e79c08.info
-    projectPath: Library\metadata\1a\1a2366f6fbe06b0418874046a5e79c08.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\1c\1c509b0ffe3b3a34a89849f50ae05265
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1c\1c509b0ffe3b3a34a89849f50ae05265
-    projectPath: Library\metadata\1c\1c509b0ffe3b3a34a89849f50ae05265
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\1c\1c509b0ffe3b3a34a89849f50ae05265.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1c\1c509b0ffe3b3a34a89849f50ae05265.info
-    projectPath: Library\metadata\1c\1c509b0ffe3b3a34a89849f50ae05265.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\1c\1c6fd2d7b7f374f41b82d69782f08bdc
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1c\1c6fd2d7b7f374f41b82d69782f08bdc
-    projectPath: Library\metadata\1c\1c6fd2d7b7f374f41b82d69782f08bdc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\1c\1c6fd2d7b7f374f41b82d69782f08bdc.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1c\1c6fd2d7b7f374f41b82d69782f08bdc.info
-    projectPath: Library\metadata\1c\1c6fd2d7b7f374f41b82d69782f08bdc.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\1c\1cae2e6ad8be5744bbe2a43e620b7c2d
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1c\1cae2e6ad8be5744bbe2a43e620b7c2d
-    projectPath: Library\metadata\1c\1cae2e6ad8be5744bbe2a43e620b7c2d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\1c\1cae2e6ad8be5744bbe2a43e620b7c2d.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1c\1cae2e6ad8be5744bbe2a43e620b7c2d.info
-    projectPath: Library\metadata\1c\1cae2e6ad8be5744bbe2a43e620b7c2d.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\1d\1daf02dfc0a5cba42a7b747da1a475f1
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1d\1daf02dfc0a5cba42a7b747da1a475f1
-    projectPath: Library\metadata\1d\1daf02dfc0a5cba42a7b747da1a475f1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\1d\1daf02dfc0a5cba42a7b747da1a475f1.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1d\1daf02dfc0a5cba42a7b747da1a475f1.info
-    projectPath: Library\metadata\1d\1daf02dfc0a5cba42a7b747da1a475f1.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\1f\1f2aaf6fa1dbddf419a2df864bc9b7b0
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1f\1f2aaf6fa1dbddf419a2df864bc9b7b0
-    projectPath: Library\metadata\1f\1f2aaf6fa1dbddf419a2df864bc9b7b0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\metadata\1f\1f2aaf6fa1dbddf419a2df864bc9b7b0.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1f\1f2aaf6fa1dbddf419a2df864bc9b7b0.info
-    projectPath: Library\metadata\1f\1f2aaf6fa1dbddf419a2df864bc9b7b0.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\metadata\1f\1f3fd327a87df25419de7830b32a0272
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1f\1f3fd327a87df25419de7830b32a0272
-    projectPath: Library\metadata\1f\1f3fd327a87df25419de7830b32a0272
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\1f\1f3fd327a87df25419de7830b32a0272.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1f\1f3fd327a87df25419de7830b32a0272.info
-    projectPath: Library\metadata\1f\1f3fd327a87df25419de7830b32a0272.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\1f\1f9cc7c5bff14d142813e36fd5b7bb6b
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1f\1f9cc7c5bff14d142813e36fd5b7bb6b
-    projectPath: Library\metadata\1f\1f9cc7c5bff14d142813e36fd5b7bb6b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\1f\1f9cc7c5bff14d142813e36fd5b7bb6b.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1f\1f9cc7c5bff14d142813e36fd5b7bb6b.info
-    projectPath: Library\metadata\1f\1f9cc7c5bff14d142813e36fd5b7bb6b.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\1f\1ff3013afe4baf1469c38ce8abeb822f
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1f\1ff3013afe4baf1469c38ce8abeb822f
-    projectPath: Library\metadata\1f\1ff3013afe4baf1469c38ce8abeb822f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\1f\1ff3013afe4baf1469c38ce8abeb822f.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1f\1ff3013afe4baf1469c38ce8abeb822f.info
-    projectPath: Library\metadata\1f\1ff3013afe4baf1469c38ce8abeb822f.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\1f\1ffb74e8cb5e8d14a82f7ea87335c1f8
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1f\1ffb74e8cb5e8d14a82f7ea87335c1f8
-    projectPath: Library\metadata\1f\1ffb74e8cb5e8d14a82f7ea87335c1f8
+  - path: Library\metadata\07\079d6e50ef9f2a24e9f60c0ae5b3d849
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\07\079d6e50ef9f2a24e9f60c0ae5b3d849
+    projectPath: Library\metadata\07\079d6e50ef9f2a24e9f60c0ae5b3d849
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\1f\1ffb74e8cb5e8d14a82f7ea87335c1f8.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\1f\1ffb74e8cb5e8d14a82f7ea87335c1f8.info
-    projectPath: Library\metadata\1f\1ffb74e8cb5e8d14a82f7ea87335c1f8.info
+  - path: Library\metadata\07\079d6e50ef9f2a24e9f60c0ae5b3d849.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\07\079d6e50ef9f2a24e9f60c0ae5b3d849.info
+    projectPath: Library\metadata\07\079d6e50ef9f2a24e9f60c0ae5b3d849.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\20\20c5b8a1f82cb4aadb77ca20683d2a6e
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\20\20c5b8a1f82cb4aadb77ca20683d2a6e
-    projectPath: Library\metadata\20\20c5b8a1f82cb4aadb77ca20683d2a6e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\20\20c5b8a1f82cb4aadb77ca20683d2a6e.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\20\20c5b8a1f82cb4aadb77ca20683d2a6e.info
-    projectPath: Library\metadata\20\20c5b8a1f82cb4aadb77ca20683d2a6e.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\21\212a2395c3497744ba1bbf1dd6c27336
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\21\212a2395c3497744ba1bbf1dd6c27336
-    projectPath: Library\metadata\21\212a2395c3497744ba1bbf1dd6c27336
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\21\212a2395c3497744ba1bbf1dd6c27336.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\21\212a2395c3497744ba1bbf1dd6c27336.info
-    projectPath: Library\metadata\21\212a2395c3497744ba1bbf1dd6c27336.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\21\214009068900439da4a9cded17d58090
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\21\214009068900439da4a9cded17d58090
-    projectPath: Library\metadata\21\214009068900439da4a9cded17d58090
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\21\214009068900439da4a9cded17d58090.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\21\214009068900439da4a9cded17d58090.info
-    projectPath: Library\metadata\21\214009068900439da4a9cded17d58090.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\22\22081888b49dd45ac82e26f12d25f670
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\22\22081888b49dd45ac82e26f12d25f670
-    projectPath: Library\metadata\22\22081888b49dd45ac82e26f12d25f670
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\22\22081888b49dd45ac82e26f12d25f670.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\22\22081888b49dd45ac82e26f12d25f670.info
-    projectPath: Library\metadata\22\22081888b49dd45ac82e26f12d25f670.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\22\2258824af6d6afb47808b505792b549d
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\22\2258824af6d6afb47808b505792b549d
-    projectPath: Library\metadata\22\2258824af6d6afb47808b505792b549d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\22\2258824af6d6afb47808b505792b549d.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\22\2258824af6d6afb47808b505792b549d.info
-    projectPath: Library\metadata\22\2258824af6d6afb47808b505792b549d.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\23\23618d3649ec0c147a52344362232625
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\23\23618d3649ec0c147a52344362232625
-    projectPath: Library\metadata\23\23618d3649ec0c147a52344362232625
+  - path: Library\metadata\0c\0cb4b18b82871294c8ad20c98f77d019
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\0c\0cb4b18b82871294c8ad20c98f77d019
+    projectPath: Library\metadata\0c\0cb4b18b82871294c8ad20c98f77d019
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\23\23618d3649ec0c147a52344362232625.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\23\23618d3649ec0c147a52344362232625.info
-    projectPath: Library\metadata\23\23618d3649ec0c147a52344362232625.info
+  - path: Library\metadata\0c\0cb4b18b82871294c8ad20c98f77d019.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\0c\0cb4b18b82871294c8ad20c98f77d019.info
+    projectPath: Library\metadata\0c\0cb4b18b82871294c8ad20c98f77d019.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\24\242a14dae0398c34f97daa252ab66163
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\24\242a14dae0398c34f97daa252ab66163
-    projectPath: Library\metadata\24\242a14dae0398c34f97daa252ab66163
+  - path: Library\metadata\14\14b20da8a1e9e6945b5752e684787338
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\14\14b20da8a1e9e6945b5752e684787338
+    projectPath: Library\metadata\14\14b20da8a1e9e6945b5752e684787338
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\24\242a14dae0398c34f97daa252ab66163.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\24\242a14dae0398c34f97daa252ab66163.info
-    projectPath: Library\metadata\24\242a14dae0398c34f97daa252ab66163.info
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\14\14b20da8a1e9e6945b5752e684787338.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\14\14b20da8a1e9e6945b5752e684787338.info
+    projectPath: Library\metadata\14\14b20da8a1e9e6945b5752e684787338.info
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\24\2446689ccf2f1b54a94c8f6faa833fab
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\24\2446689ccf2f1b54a94c8f6faa833fab
-    projectPath: Library\metadata\24\2446689ccf2f1b54a94c8f6faa833fab
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\19\1916c0f6d733ff3439b79e9ff85404dc
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\19\1916c0f6d733ff3439b79e9ff85404dc
+    projectPath: Library\metadata\19\1916c0f6d733ff3439b79e9ff85404dc
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\24\2446689ccf2f1b54a94c8f6faa833fab.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\24\2446689ccf2f1b54a94c8f6faa833fab.info
-    projectPath: Library\metadata\24\2446689ccf2f1b54a94c8f6faa833fab.info
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\19\1916c0f6d733ff3439b79e9ff85404dc.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\19\1916c0f6d733ff3439b79e9ff85404dc.info
+    projectPath: Library\metadata\19\1916c0f6d733ff3439b79e9ff85404dc.info
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\29\2955864b938094f579ea9902b65ac10c
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\29\2955864b938094f579ea9902b65ac10c
-    projectPath: Library\metadata\29\2955864b938094f579ea9902b65ac10c
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\28\28e640a23694b794a82ac200f433d563
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\28\28e640a23694b794a82ac200f433d563
+    projectPath: Library\metadata\28\28e640a23694b794a82ac200f433d563
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\29\2955864b938094f579ea9902b65ac10c.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\29\2955864b938094f579ea9902b65ac10c.info
-    projectPath: Library\metadata\29\2955864b938094f579ea9902b65ac10c.info
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\28\28e640a23694b794a82ac200f433d563.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\28\28e640a23694b794a82ac200f433d563.info
+    projectPath: Library\metadata\28\28e640a23694b794a82ac200f433d563.info
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\29\29d7a339581e74426a3977cebc1f25d4
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\29\29d7a339581e74426a3977cebc1f25d4
-    projectPath: Library\metadata\29\29d7a339581e74426a3977cebc1f25d4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\29\29d7a339581e74426a3977cebc1f25d4.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\29\29d7a339581e74426a3977cebc1f25d4.info
-    projectPath: Library\metadata\29\29d7a339581e74426a3977cebc1f25d4.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\2a\2a66be2761200404195a456e020871b0
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\2a\2a66be2761200404195a456e020871b0
-    projectPath: Library\metadata\2a\2a66be2761200404195a456e020871b0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\2a\2a66be2761200404195a456e020871b0.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\2a\2a66be2761200404195a456e020871b0.info
-    projectPath: Library\metadata\2a\2a66be2761200404195a456e020871b0.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\2b\2b330ca5423eca64690758d010430924
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\2b\2b330ca5423eca64690758d010430924
-    projectPath: Library\metadata\2b\2b330ca5423eca64690758d010430924
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\2b\2b330ca5423eca64690758d010430924.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\2b\2b330ca5423eca64690758d010430924.info
-    projectPath: Library\metadata\2b\2b330ca5423eca64690758d010430924.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\2b\2bea9df11f4c4844fb1ffbd239a37642
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\2b\2bea9df11f4c4844fb1ffbd239a37642
-    projectPath: Library\metadata\2b\2bea9df11f4c4844fb1ffbd239a37642
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\2b\2bea9df11f4c4844fb1ffbd239a37642.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\2b\2bea9df11f4c4844fb1ffbd239a37642.info
-    projectPath: Library\metadata\2b\2bea9df11f4c4844fb1ffbd239a37642.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\2d\2d483bfe39872a34bbb00c04ded94fbc
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\2d\2d483bfe39872a34bbb00c04ded94fbc
-    projectPath: Library\metadata\2d\2d483bfe39872a34bbb00c04ded94fbc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\2d\2d483bfe39872a34bbb00c04ded94fbc.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\2d\2d483bfe39872a34bbb00c04ded94fbc.info
-    projectPath: Library\metadata\2d\2d483bfe39872a34bbb00c04ded94fbc.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\2d\2df57002c3e6b21408a639c78433c5ee
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\2d\2df57002c3e6b21408a639c78433c5ee
-    projectPath: Library\metadata\2d\2df57002c3e6b21408a639c78433c5ee
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\2d\2df57002c3e6b21408a639c78433c5ee.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\2d\2df57002c3e6b21408a639c78433c5ee.info
-    projectPath: Library\metadata\2d\2df57002c3e6b21408a639c78433c5ee.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\30\3009796249e5fef4b9507bb328e59f40
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\30\3009796249e5fef4b9507bb328e59f40
-    projectPath: Library\metadata\30\3009796249e5fef4b9507bb328e59f40
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\30\3009796249e5fef4b9507bb328e59f40.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\30\3009796249e5fef4b9507bb328e59f40.info
-    projectPath: Library\metadata\30\3009796249e5fef4b9507bb328e59f40.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\30\30f4d0eb77704ba68bf8dede64390643
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\30\30f4d0eb77704ba68bf8dede64390643
-    projectPath: Library\metadata\30\30f4d0eb77704ba68bf8dede64390643
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\30\30f4d0eb77704ba68bf8dede64390643.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\30\30f4d0eb77704ba68bf8dede64390643.info
-    projectPath: Library\metadata\30\30f4d0eb77704ba68bf8dede64390643.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\31\31061276a3da2344ca34c13ebbcd7ff9
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\31\31061276a3da2344ca34c13ebbcd7ff9
-    projectPath: Library\metadata\31\31061276a3da2344ca34c13ebbcd7ff9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\31\31061276a3da2344ca34c13ebbcd7ff9.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\31\31061276a3da2344ca34c13ebbcd7ff9.info
-    projectPath: Library\metadata\31\31061276a3da2344ca34c13ebbcd7ff9.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\31\313f43eed5bc14c409b9cb9daeb56bd9
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\31\313f43eed5bc14c409b9cb9daeb56bd9
-    projectPath: Library\metadata\31\313f43eed5bc14c409b9cb9daeb56bd9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\31\313f43eed5bc14c409b9cb9daeb56bd9.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\31\313f43eed5bc14c409b9cb9daeb56bd9.info
-    projectPath: Library\metadata\31\313f43eed5bc14c409b9cb9daeb56bd9.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\31\319ccee5fd5b63f4b9644f1e94f542ad
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\31\319ccee5fd5b63f4b9644f1e94f542ad
-    projectPath: Library\metadata\31\319ccee5fd5b63f4b9644f1e94f542ad
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\31\319ccee5fd5b63f4b9644f1e94f542ad.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\31\319ccee5fd5b63f4b9644f1e94f542ad.info
-    projectPath: Library\metadata\31\319ccee5fd5b63f4b9644f1e94f542ad.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\32\32c6df947bc0ab74581a398758dd86c6
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\32\32c6df947bc0ab74581a398758dd86c6
-    projectPath: Library\metadata\32\32c6df947bc0ab74581a398758dd86c6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\32\32c6df947bc0ab74581a398758dd86c6.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\32\32c6df947bc0ab74581a398758dd86c6.info
-    projectPath: Library\metadata\32\32c6df947bc0ab74581a398758dd86c6.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\33\33911ae0256281a43bc198c5ffafe496
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\33\33911ae0256281a43bc198c5ffafe496
-    projectPath: Library\metadata\33\33911ae0256281a43bc198c5ffafe496
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\33\33911ae0256281a43bc198c5ffafe496.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\33\33911ae0256281a43bc198c5ffafe496.info
-    projectPath: Library\metadata\33\33911ae0256281a43bc198c5ffafe496.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\35\359b2b58a46fd14409f6a812318a9db7
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\35\359b2b58a46fd14409f6a812318a9db7
-    projectPath: Library\metadata\35\359b2b58a46fd14409f6a812318a9db7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\35\359b2b58a46fd14409f6a812318a9db7.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\35\359b2b58a46fd14409f6a812318a9db7.info
-    projectPath: Library\metadata\35\359b2b58a46fd14409f6a812318a9db7.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\36\363fbe57fc9cc4cda852991821556174
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\36\363fbe57fc9cc4cda852991821556174
-    projectPath: Library\metadata\36\363fbe57fc9cc4cda852991821556174
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\36\363fbe57fc9cc4cda852991821556174.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\36\363fbe57fc9cc4cda852991821556174.info
-    projectPath: Library\metadata\36\363fbe57fc9cc4cda852991821556174.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\37\37fa037489979ba48bd8324b55375511
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\37\37fa037489979ba48bd8324b55375511
-    projectPath: Library\metadata\37\37fa037489979ba48bd8324b55375511
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\37\37fa037489979ba48bd8324b55375511.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\37\37fa037489979ba48bd8324b55375511.info
-    projectPath: Library\metadata\37\37fa037489979ba48bd8324b55375511.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\38\38a1fad7abad96c42ba0c7bc7b91fb89
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\38\38a1fad7abad96c42ba0c7bc7b91fb89
-    projectPath: Library\metadata\38\38a1fad7abad96c42ba0c7bc7b91fb89
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\38\38a1fad7abad96c42ba0c7bc7b91fb89.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\38\38a1fad7abad96c42ba0c7bc7b91fb89.info
-    projectPath: Library\metadata\38\38a1fad7abad96c42ba0c7bc7b91fb89.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\39\39342b79cb3985a43bde720abfde6b2f
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\39\39342b79cb3985a43bde720abfde6b2f
-    projectPath: Library\metadata\39\39342b79cb3985a43bde720abfde6b2f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\39\39342b79cb3985a43bde720abfde6b2f.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\39\39342b79cb3985a43bde720abfde6b2f.info
-    projectPath: Library\metadata\39\39342b79cb3985a43bde720abfde6b2f.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\39\394b3ec4d60c24476a12e4ba696d9e5d
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\39\394b3ec4d60c24476a12e4ba696d9e5d
-    projectPath: Library\metadata\39\394b3ec4d60c24476a12e4ba696d9e5d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\39\394b3ec4d60c24476a12e4ba696d9e5d.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\39\394b3ec4d60c24476a12e4ba696d9e5d.info
-    projectPath: Library\metadata\39\394b3ec4d60c24476a12e4ba696d9e5d.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\metadata\3a\3a0b1f713f64c224195084282d5b6eaf
     fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\3a\3a0b1f713f64c224195084282d5b6eaf
     projectPath: Library\metadata\3a\3a0b1f713f64c224195084282d5b6eaf
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\metadata\3a\3a0b1f713f64c224195084282d5b6eaf.info
     fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\3a\3a0b1f713f64c224195084282d5b6eaf.info
     projectPath: Library\metadata\3a\3a0b1f713f64c224195084282d5b6eaf.info
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\3a\3a9e1ef6287664c389bb09e2ac1b23b7
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\3a\3a9e1ef6287664c389bb09e2ac1b23b7
-    projectPath: Library\metadata\3a\3a9e1ef6287664c389bb09e2ac1b23b7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\3a\3a9e1ef6287664c389bb09e2ac1b23b7.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\3a\3a9e1ef6287664c389bb09e2ac1b23b7.info
-    projectPath: Library\metadata\3a\3a9e1ef6287664c389bb09e2ac1b23b7.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\3a\3affcdd78ff5fe446a0e78a4166240aa
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\3a\3affcdd78ff5fe446a0e78a4166240aa
-    projectPath: Library\metadata\3a\3affcdd78ff5fe446a0e78a4166240aa
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\3a\3affcdd78ff5fe446a0e78a4166240aa.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\3a\3affcdd78ff5fe446a0e78a4166240aa.info
-    projectPath: Library\metadata\3a\3affcdd78ff5fe446a0e78a4166240aa.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\3b\3bdab51ff79691845b45977b0435f362
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\3b\3bdab51ff79691845b45977b0435f362
-    projectPath: Library\metadata\3b\3bdab51ff79691845b45977b0435f362
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\3b\3bdab51ff79691845b45977b0435f362.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\3b\3bdab51ff79691845b45977b0435f362.info
-    projectPath: Library\metadata\3b\3bdab51ff79691845b45977b0435f362.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\3c\3cf132d4fa07f4f0cb2883499c5c7dd0
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\3c\3cf132d4fa07f4f0cb2883499c5c7dd0
-    projectPath: Library\metadata\3c\3cf132d4fa07f4f0cb2883499c5c7dd0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\3c\3cf132d4fa07f4f0cb2883499c5c7dd0.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\3c\3cf132d4fa07f4f0cb2883499c5c7dd0.info
-    projectPath: Library\metadata\3c\3cf132d4fa07f4f0cb2883499c5c7dd0.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\3d\3dd1f9d60bd100a43b9d6e756123cb9b
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\3d\3dd1f9d60bd100a43b9d6e756123cb9b
-    projectPath: Library\metadata\3d\3dd1f9d60bd100a43b9d6e756123cb9b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\3d\3dd1f9d60bd100a43b9d6e756123cb9b.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\3d\3dd1f9d60bd100a43b9d6e756123cb9b.info
-    projectPath: Library\metadata\3d\3dd1f9d60bd100a43b9d6e756123cb9b.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\3e\3eea7b558c67b48e18acf3c278392e3d
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\3e\3eea7b558c67b48e18acf3c278392e3d
-    projectPath: Library\metadata\3e\3eea7b558c67b48e18acf3c278392e3d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\3f\3fe57c585d31b314dad569500da4ac1f
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\3f\3fe57c585d31b314dad569500da4ac1f
-    projectPath: Library\metadata\3f\3fe57c585d31b314dad569500da4ac1f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\3f\3fe57c585d31b314dad569500da4ac1f.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\3f\3fe57c585d31b314dad569500da4ac1f.info
-    projectPath: Library\metadata\3f\3fe57c585d31b314dad569500da4ac1f.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\40\40095689081269445b82f774ff86d5ea
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\40\40095689081269445b82f774ff86d5ea
-    projectPath: Library\metadata\40\40095689081269445b82f774ff86d5ea
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\40\40095689081269445b82f774ff86d5ea.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\40\40095689081269445b82f774ff86d5ea.info
-    projectPath: Library\metadata\40\40095689081269445b82f774ff86d5ea.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\40\40f5efe7bf68fa94db41d8eddf0c7588
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\40\40f5efe7bf68fa94db41d8eddf0c7588
-    projectPath: Library\metadata\40\40f5efe7bf68fa94db41d8eddf0c7588
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\40\40f5efe7bf68fa94db41d8eddf0c7588.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\40\40f5efe7bf68fa94db41d8eddf0c7588.info
-    projectPath: Library\metadata\40\40f5efe7bf68fa94db41d8eddf0c7588.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\41\415eaec414af14d11955222a282aca08
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\41\415eaec414af14d11955222a282aca08
-    projectPath: Library\metadata\41\415eaec414af14d11955222a282aca08
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\41\415eaec414af14d11955222a282aca08.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\41\415eaec414af14d11955222a282aca08.info
-    projectPath: Library\metadata\41\415eaec414af14d11955222a282aca08.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\41\41ed0b43afbc29e44aa05dc01d5f0b62
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\41\41ed0b43afbc29e44aa05dc01d5f0b62
-    projectPath: Library\metadata\41\41ed0b43afbc29e44aa05dc01d5f0b62
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\41\41ed0b43afbc29e44aa05dc01d5f0b62.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\41\41ed0b43afbc29e44aa05dc01d5f0b62.info
-    projectPath: Library\metadata\41\41ed0b43afbc29e44aa05dc01d5f0b62.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\44\44f920a68f417264eb4e0409f8a6853e
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\44\44f920a68f417264eb4e0409f8a6853e
-    projectPath: Library\metadata\44\44f920a68f417264eb4e0409f8a6853e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\44\44f920a68f417264eb4e0409f8a6853e.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\44\44f920a68f417264eb4e0409f8a6853e.info
-    projectPath: Library\metadata\44\44f920a68f417264eb4e0409f8a6853e.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\46\4684af8341ef3dd42aa23897174336cc
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\46\4684af8341ef3dd42aa23897174336cc
-    projectPath: Library\metadata\46\4684af8341ef3dd42aa23897174336cc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\46\4684af8341ef3dd42aa23897174336cc.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\46\4684af8341ef3dd42aa23897174336cc.info
-    projectPath: Library\metadata\46\4684af8341ef3dd42aa23897174336cc.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\46\46ad3d67d44869144bb04498934b75e9
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\46\46ad3d67d44869144bb04498934b75e9
-    projectPath: Library\metadata\46\46ad3d67d44869144bb04498934b75e9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\46\46ad3d67d44869144bb04498934b75e9.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\46\46ad3d67d44869144bb04498934b75e9.info
-    projectPath: Library\metadata\46\46ad3d67d44869144bb04498934b75e9.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\48\485fc3d100c2e594592f450d4541c4b3
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\48\485fc3d100c2e594592f450d4541c4b3
-    projectPath: Library\metadata\48\485fc3d100c2e594592f450d4541c4b3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\48\485fc3d100c2e594592f450d4541c4b3.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\48\485fc3d100c2e594592f450d4541c4b3.info
-    projectPath: Library\metadata\48\485fc3d100c2e594592f450d4541c4b3.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\48\48aeb623d9f7148ac89bcbc17bb636fa
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\48\48aeb623d9f7148ac89bcbc17bb636fa
-    projectPath: Library\metadata\48\48aeb623d9f7148ac89bcbc17bb636fa
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\48\48aeb623d9f7148ac89bcbc17bb636fa.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\48\48aeb623d9f7148ac89bcbc17bb636fa.info
-    projectPath: Library\metadata\48\48aeb623d9f7148ac89bcbc17bb636fa.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\48\48b446d0527e994429fce28223a330fe
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\48\48b446d0527e994429fce28223a330fe
-    projectPath: Library\metadata\48\48b446d0527e994429fce28223a330fe
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\48\48b446d0527e994429fce28223a330fe.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\48\48b446d0527e994429fce28223a330fe.info
-    projectPath: Library\metadata\48\48b446d0527e994429fce28223a330fe.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\49\49a43d4ccb188d64eb738d0d75ff6370
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\49\49a43d4ccb188d64eb738d0d75ff6370
-    projectPath: Library\metadata\49\49a43d4ccb188d64eb738d0d75ff6370
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\49\49a43d4ccb188d64eb738d0d75ff6370.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\49\49a43d4ccb188d64eb738d0d75ff6370.info
-    projectPath: Library\metadata\49\49a43d4ccb188d64eb738d0d75ff6370.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\4c\4c433abcdb28444ebb7bd395ba5c76fc
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\4c\4c433abcdb28444ebb7bd395ba5c76fc
-    projectPath: Library\metadata\4c\4c433abcdb28444ebb7bd395ba5c76fc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\4c\4c433abcdb28444ebb7bd395ba5c76fc.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\4c\4c433abcdb28444ebb7bd395ba5c76fc.info
-    projectPath: Library\metadata\4c\4c433abcdb28444ebb7bd395ba5c76fc.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\4c\4cbb15c082665164e9b9fb6cc92295fc
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\4c\4cbb15c082665164e9b9fb6cc92295fc
-    projectPath: Library\metadata\4c\4cbb15c082665164e9b9fb6cc92295fc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\4c\4cbb15c082665164e9b9fb6cc92295fc.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\4c\4cbb15c082665164e9b9fb6cc92295fc.info
-    projectPath: Library\metadata\4c\4cbb15c082665164e9b9fb6cc92295fc.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6
-    projectPath: Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6.info
-    projectPath: Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\52\523b95b11c51cb24481cfc8c657fcb38
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\52\523b95b11c51cb24481cfc8c657fcb38
-    projectPath: Library\metadata\52\523b95b11c51cb24481cfc8c657fcb38
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\52\523b95b11c51cb24481cfc8c657fcb38.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\52\523b95b11c51cb24481cfc8c657fcb38.info
-    projectPath: Library\metadata\52\523b95b11c51cb24481cfc8c657fcb38.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\52\526858a23fc664165818f582e864851a
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\52\526858a23fc664165818f582e864851a
-    projectPath: Library\metadata\52\526858a23fc664165818f582e864851a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\52\526858a23fc664165818f582e864851a.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\52\526858a23fc664165818f582e864851a.info
-    projectPath: Library\metadata\52\526858a23fc664165818f582e864851a.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\55\5582c6050ec6e6d40a73804d1f6695e1
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\55\5582c6050ec6e6d40a73804d1f6695e1
-    projectPath: Library\metadata\55\5582c6050ec6e6d40a73804d1f6695e1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\55\5582c6050ec6e6d40a73804d1f6695e1.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\55\5582c6050ec6e6d40a73804d1f6695e1.info
-    projectPath: Library\metadata\55\5582c6050ec6e6d40a73804d1f6695e1.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\57\573eb851c99f948f4bf2de49322bfd53
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\57\573eb851c99f948f4bf2de49322bfd53
-    projectPath: Library\metadata\57\573eb851c99f948f4bf2de49322bfd53
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\57\5758f17e99b775143848bea4649b05e7
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\57\5758f17e99b775143848bea4649b05e7
-    projectPath: Library\metadata\57\5758f17e99b775143848bea4649b05e7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\57\5758f17e99b775143848bea4649b05e7.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\57\5758f17e99b775143848bea4649b05e7.info
-    projectPath: Library\metadata\57\5758f17e99b775143848bea4649b05e7.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\57\57db93f1e3042ca47bd7ff59db88253f
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\57\57db93f1e3042ca47bd7ff59db88253f
-    projectPath: Library\metadata\57\57db93f1e3042ca47bd7ff59db88253f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\57\57db93f1e3042ca47bd7ff59db88253f.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\57\57db93f1e3042ca47bd7ff59db88253f.info
-    projectPath: Library\metadata\57\57db93f1e3042ca47bd7ff59db88253f.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\5a\5a60eb782f4b84c8c888b97a70b3d23f
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\5a\5a60eb782f4b84c8c888b97a70b3d23f
-    projectPath: Library\metadata\5a\5a60eb782f4b84c8c888b97a70b3d23f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\5a\5a60eb782f4b84c8c888b97a70b3d23f.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\5a\5a60eb782f4b84c8c888b97a70b3d23f.info
-    projectPath: Library\metadata\5a\5a60eb782f4b84c8c888b97a70b3d23f.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\5c\5cff1ffb9a606f84d911d1cb3397ce46
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\5c\5cff1ffb9a606f84d911d1cb3397ce46
-    projectPath: Library\metadata\5c\5cff1ffb9a606f84d911d1cb3397ce46
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\5c\5cff1ffb9a606f84d911d1cb3397ce46.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\5c\5cff1ffb9a606f84d911d1cb3397ce46.info
-    projectPath: Library\metadata\5c\5cff1ffb9a606f84d911d1cb3397ce46.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\5e\5ef6b96e909d7d240bc77acce2009dc5
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\5e\5ef6b96e909d7d240bc77acce2009dc5
-    projectPath: Library\metadata\5e\5ef6b96e909d7d240bc77acce2009dc5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\5e\5ef6b96e909d7d240bc77acce2009dc5.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\5e\5ef6b96e909d7d240bc77acce2009dc5.info
-    projectPath: Library\metadata\5e\5ef6b96e909d7d240bc77acce2009dc5.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\5f\5f09c4038d8a60f44a133ceda80ed906
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\5f\5f09c4038d8a60f44a133ceda80ed906
-    projectPath: Library\metadata\5f\5f09c4038d8a60f44a133ceda80ed906
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\5f\5f09c4038d8a60f44a133ceda80ed906.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\5f\5f09c4038d8a60f44a133ceda80ed906.info
-    projectPath: Library\metadata\5f\5f09c4038d8a60f44a133ceda80ed906.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\5f\5fd926464b25c4c069f2884d832d76a5
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\5f\5fd926464b25c4c069f2884d832d76a5
-    projectPath: Library\metadata\5f\5fd926464b25c4c069f2884d832d76a5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\5f\5fd926464b25c4c069f2884d832d76a5.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\5f\5fd926464b25c4c069f2884d832d76a5.info
-    projectPath: Library\metadata\5f\5fd926464b25c4c069f2884d832d76a5.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\5f\5ff1f38fa2c6cb746ae672abc2c5fd59
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\5f\5ff1f38fa2c6cb746ae672abc2c5fd59
-    projectPath: Library\metadata\5f\5ff1f38fa2c6cb746ae672abc2c5fd59
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\5f\5ff1f38fa2c6cb746ae672abc2c5fd59.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\5f\5ff1f38fa2c6cb746ae672abc2c5fd59.info
-    projectPath: Library\metadata\5f\5ff1f38fa2c6cb746ae672abc2c5fd59.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\69\695deaec38bb331479ae8885d747229d
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\69\695deaec38bb331479ae8885d747229d
-    projectPath: Library\metadata\69\695deaec38bb331479ae8885d747229d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\69\695deaec38bb331479ae8885d747229d.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\69\695deaec38bb331479ae8885d747229d.info
-    projectPath: Library\metadata\69\695deaec38bb331479ae8885d747229d.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\69\69e3c4a8c478e884c86ce05ffddefc3f
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\69\69e3c4a8c478e884c86ce05ffddefc3f
-    projectPath: Library\metadata\69\69e3c4a8c478e884c86ce05ffddefc3f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\69\69e3c4a8c478e884c86ce05ffddefc3f.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\69\69e3c4a8c478e884c86ce05ffddefc3f.info
-    projectPath: Library\metadata\69\69e3c4a8c478e884c86ce05ffddefc3f.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\6a\6a086c9dab01b4c75b3442638f431d9d
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\6a\6a086c9dab01b4c75b3442638f431d9d
-    projectPath: Library\metadata\6a\6a086c9dab01b4c75b3442638f431d9d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\6a\6a086c9dab01b4c75b3442638f431d9d.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\6a\6a086c9dab01b4c75b3442638f431d9d.info
-    projectPath: Library\metadata\6a\6a086c9dab01b4c75b3442638f431d9d.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\6a\6a4bbee12f3f04eb483556dd91bf00d1
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\6a\6a4bbee12f3f04eb483556dd91bf00d1
-    projectPath: Library\metadata\6a\6a4bbee12f3f04eb483556dd91bf00d1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\6a\6a4bbee12f3f04eb483556dd91bf00d1.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\6a\6a4bbee12f3f04eb483556dd91bf00d1.info
-    projectPath: Library\metadata\6a\6a4bbee12f3f04eb483556dd91bf00d1.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\6a\6a9ca98e61c2499478b4bdc30159fdd6
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\6a\6a9ca98e61c2499478b4bdc30159fdd6
-    projectPath: Library\metadata\6a\6a9ca98e61c2499478b4bdc30159fdd6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\6a\6a9ca98e61c2499478b4bdc30159fdd6.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\6a\6a9ca98e61c2499478b4bdc30159fdd6.info
-    projectPath: Library\metadata\6a\6a9ca98e61c2499478b4bdc30159fdd6.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\6a\6ab26d706a802b14b82b6cff003511d4
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\6a\6ab26d706a802b14b82b6cff003511d4
-    projectPath: Library\metadata\6a\6ab26d706a802b14b82b6cff003511d4
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\metadata\6a\6ab26d706a802b14b82b6cff003511d4.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\6a\6ab26d706a802b14b82b6cff003511d4.info
-    projectPath: Library\metadata\6a\6ab26d706a802b14b82b6cff003511d4.info
+  - path: Library\metadata\58\580b352a314feac4385ebfb4597127b3
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\58\580b352a314feac4385ebfb4597127b3
+    projectPath: Library\metadata\58\580b352a314feac4385ebfb4597127b3
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\metadata\6c\6ca5a4cf9b8360146b17210026b6c9ce
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\6c\6ca5a4cf9b8360146b17210026b6c9ce
-    projectPath: Library\metadata\6c\6ca5a4cf9b8360146b17210026b6c9ce
+  - path: Library\metadata\5d\5d5f127d9cce4704c897a38335505167
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\5d\5d5f127d9cce4704c897a38335505167
+    projectPath: Library\metadata\5d\5d5f127d9cce4704c897a38335505167
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\6c\6ca5a4cf9b8360146b17210026b6c9ce.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\6c\6ca5a4cf9b8360146b17210026b6c9ce.info
-    projectPath: Library\metadata\6c\6ca5a4cf9b8360146b17210026b6c9ce.info
+  - path: Library\metadata\5d\5d5f127d9cce4704c897a38335505167.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\5d\5d5f127d9cce4704c897a38335505167.info
+    projectPath: Library\metadata\5d\5d5f127d9cce4704c897a38335505167.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\6d\6d15aa4d92dd9d34ea6feb66a321e6f1
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\6d\6d15aa4d92dd9d34ea6feb66a321e6f1
-    projectPath: Library\metadata\6d\6d15aa4d92dd9d34ea6feb66a321e6f1
+  - path: Library\metadata\7c\7c788c42f8fec504582d59761b13580a
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\7c\7c788c42f8fec504582d59761b13580a
+    projectPath: Library\metadata\7c\7c788c42f8fec504582d59761b13580a
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\6d\6d15aa4d92dd9d34ea6feb66a321e6f1.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\6d\6d15aa4d92dd9d34ea6feb66a321e6f1.info
-    projectPath: Library\metadata\6d\6d15aa4d92dd9d34ea6feb66a321e6f1.info
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\7c\7c788c42f8fec504582d59761b13580a.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\7c\7c788c42f8fec504582d59761b13580a.info
+    projectPath: Library\metadata\7c\7c788c42f8fec504582d59761b13580a.info
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\6d\6dd43992189b2614094b90863a65e463
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\6d\6dd43992189b2614094b90863a65e463
-    projectPath: Library\metadata\6d\6dd43992189b2614094b90863a65e463
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\6d\6dd43992189b2614094b90863a65e463.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\6d\6dd43992189b2614094b90863a65e463.info
-    projectPath: Library\metadata\6d\6dd43992189b2614094b90863a65e463.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\6d\6dea76d6265cdc04a9355dc68be06600
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\6d\6dea76d6265cdc04a9355dc68be06600
-    projectPath: Library\metadata\6d\6dea76d6265cdc04a9355dc68be06600
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\6d\6dea76d6265cdc04a9355dc68be06600.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\6d\6dea76d6265cdc04a9355dc68be06600.info
-    projectPath: Library\metadata\6d\6dea76d6265cdc04a9355dc68be06600.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\6e\6e4b6579dbdf4744cb0c59d67e167110
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\6e\6e4b6579dbdf4744cb0c59d67e167110
-    projectPath: Library\metadata\6e\6e4b6579dbdf4744cb0c59d67e167110
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\6e\6e4b6579dbdf4744cb0c59d67e167110.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\6e\6e4b6579dbdf4744cb0c59d67e167110.info
-    projectPath: Library\metadata\6e\6e4b6579dbdf4744cb0c59d67e167110.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\6f\6f3ba54e103594446894d0ec7c4d6c89
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\6f\6f3ba54e103594446894d0ec7c4d6c89
-    projectPath: Library\metadata\6f\6f3ba54e103594446894d0ec7c4d6c89
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\6f\6f3ba54e103594446894d0ec7c4d6c89.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\6f\6f3ba54e103594446894d0ec7c4d6c89.info
-    projectPath: Library\metadata\6f\6f3ba54e103594446894d0ec7c4d6c89.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\70\70ba477ce4cbce94a8728a41f25b71c1
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\70\70ba477ce4cbce94a8728a41f25b71c1
-    projectPath: Library\metadata\70\70ba477ce4cbce94a8728a41f25b71c1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\70\70ba477ce4cbce94a8728a41f25b71c1.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\70\70ba477ce4cbce94a8728a41f25b71c1.info
-    projectPath: Library\metadata\70\70ba477ce4cbce94a8728a41f25b71c1.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\72\72c28ab547fefc14382fb1a032522070
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\72\72c28ab547fefc14382fb1a032522070
-    projectPath: Library\metadata\72\72c28ab547fefc14382fb1a032522070
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\72\72c28ab547fefc14382fb1a032522070.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\72\72c28ab547fefc14382fb1a032522070.info
-    projectPath: Library\metadata\72\72c28ab547fefc14382fb1a032522070.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\74\74aafd267aaeb403fb1bb9d3c7f4fae8
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\74\74aafd267aaeb403fb1bb9d3c7f4fae8
-    projectPath: Library\metadata\74\74aafd267aaeb403fb1bb9d3c7f4fae8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\74\74aafd267aaeb403fb1bb9d3c7f4fae8.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\74\74aafd267aaeb403fb1bb9d3c7f4fae8.info
-    projectPath: Library\metadata\74\74aafd267aaeb403fb1bb9d3c7f4fae8.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\75\75a3317466d97324696404ad0b2609cd
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\75\75a3317466d97324696404ad0b2609cd
-    projectPath: Library\metadata\75\75a3317466d97324696404ad0b2609cd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\75\75a3317466d97324696404ad0b2609cd.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\75\75a3317466d97324696404ad0b2609cd.info
-    projectPath: Library\metadata\75\75a3317466d97324696404ad0b2609cd.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\77\77bc8938bd024c4409578e5e6b487042
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\77\77bc8938bd024c4409578e5e6b487042
-    projectPath: Library\metadata\77\77bc8938bd024c4409578e5e6b487042
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\77\77bc8938bd024c4409578e5e6b487042.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\77\77bc8938bd024c4409578e5e6b487042.info
-    projectPath: Library\metadata\77\77bc8938bd024c4409578e5e6b487042.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\79\799815641d166c144866f03aeac9cb04
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\79\799815641d166c144866f03aeac9cb04
-    projectPath: Library\metadata\79\799815641d166c144866f03aeac9cb04
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\79\799815641d166c144866f03aeac9cb04.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\79\799815641d166c144866f03aeac9cb04.info
-    projectPath: Library\metadata\79\799815641d166c144866f03aeac9cb04.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\7c\7c907bb45e17c974390d685d75ddba68
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\7c\7c907bb45e17c974390d685d75ddba68
-    projectPath: Library\metadata\7c\7c907bb45e17c974390d685d75ddba68
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\7c\7c907bb45e17c974390d685d75ddba68.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\7c\7c907bb45e17c974390d685d75ddba68.info
-    projectPath: Library\metadata\7c\7c907bb45e17c974390d685d75ddba68.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\7c\7c94856f926e440c89fe674e2a3e51d3
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\7c\7c94856f926e440c89fe674e2a3e51d3
-    projectPath: Library\metadata\7c\7c94856f926e440c89fe674e2a3e51d3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\7c\7c94856f926e440c89fe674e2a3e51d3.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\7c\7c94856f926e440c89fe674e2a3e51d3.info
-    projectPath: Library\metadata\7c\7c94856f926e440c89fe674e2a3e51d3.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\metadata\7d\7d0e00fba35fcbc44b9a4e867d3b6630
     fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\7d\7d0e00fba35fcbc44b9a4e867d3b6630
     projectPath: Library\metadata\7d\7d0e00fba35fcbc44b9a4e867d3b6630
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\metadata\7e\7e2892f0299cd354ebb26b564c0a76f3
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\7e\7e2892f0299cd354ebb26b564c0a76f3
-    projectPath: Library\metadata\7e\7e2892f0299cd354ebb26b564c0a76f3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\7e\7e2892f0299cd354ebb26b564c0a76f3.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\7e\7e2892f0299cd354ebb26b564c0a76f3.info
-    projectPath: Library\metadata\7e\7e2892f0299cd354ebb26b564c0a76f3.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\7f\7ff2a321440ee1247bcc236a6510bb2c
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\7f\7ff2a321440ee1247bcc236a6510bb2c
-    projectPath: Library\metadata\7f\7ff2a321440ee1247bcc236a6510bb2c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\7f\7ff2a321440ee1247bcc236a6510bb2c.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\7f\7ff2a321440ee1247bcc236a6510bb2c.info
-    projectPath: Library\metadata\7f\7ff2a321440ee1247bcc236a6510bb2c.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\81\81abd1a0d4344534384d7e11e3620418
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\81\81abd1a0d4344534384d7e11e3620418
-    projectPath: Library\metadata\81\81abd1a0d4344534384d7e11e3620418
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\81\81abd1a0d4344534384d7e11e3620418.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\81\81abd1a0d4344534384d7e11e3620418.info
-    projectPath: Library\metadata\81\81abd1a0d4344534384d7e11e3620418.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\83\837e8e1f35e334e81931d0857680cebf
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\83\837e8e1f35e334e81931d0857680cebf
-    projectPath: Library\metadata\83\837e8e1f35e334e81931d0857680cebf
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\83\837e8e1f35e334e81931d0857680cebf.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\83\837e8e1f35e334e81931d0857680cebf.info
-    projectPath: Library\metadata\83\837e8e1f35e334e81931d0857680cebf.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\85\852d9b33875c8754eb22a9c98e63a906
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\85\852d9b33875c8754eb22a9c98e63a906
-    projectPath: Library\metadata\85\852d9b33875c8754eb22a9c98e63a906
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\85\852d9b33875c8754eb22a9c98e63a906.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\85\852d9b33875c8754eb22a9c98e63a906.info
-    projectPath: Library\metadata\85\852d9b33875c8754eb22a9c98e63a906.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\85\8539101e1c8d2084fa1d78c92dc323f6
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\85\8539101e1c8d2084fa1d78c92dc323f6
-    projectPath: Library\metadata\85\8539101e1c8d2084fa1d78c92dc323f6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\85\8539101e1c8d2084fa1d78c92dc323f6.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\85\8539101e1c8d2084fa1d78c92dc323f6.info
-    projectPath: Library\metadata\85\8539101e1c8d2084fa1d78c92dc323f6.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\85\85b26993acf5d8d47970144c82360134
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\85\85b26993acf5d8d47970144c82360134
-    projectPath: Library\metadata\85\85b26993acf5d8d47970144c82360134
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\85\85b26993acf5d8d47970144c82360134.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\85\85b26993acf5d8d47970144c82360134.info
-    projectPath: Library\metadata\85\85b26993acf5d8d47970144c82360134.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\86\8660500d5c192fa4b9e86164396f3cb1
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\86\8660500d5c192fa4b9e86164396f3cb1
-    projectPath: Library\metadata\86\8660500d5c192fa4b9e86164396f3cb1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\86\8660500d5c192fa4b9e86164396f3cb1.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\86\8660500d5c192fa4b9e86164396f3cb1.info
-    projectPath: Library\metadata\86\8660500d5c192fa4b9e86164396f3cb1.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\87\872ebf03c4cbf494da23d3695116849c
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\87\872ebf03c4cbf494da23d3695116849c
-    projectPath: Library\metadata\87\872ebf03c4cbf494da23d3695116849c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\87\872ebf03c4cbf494da23d3695116849c.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\87\872ebf03c4cbf494da23d3695116849c.info
-    projectPath: Library\metadata\87\872ebf03c4cbf494da23d3695116849c.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\87\87d8852933af88b42b578fb031e104f5
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\87\87d8852933af88b42b578fb031e104f5
-    projectPath: Library\metadata\87\87d8852933af88b42b578fb031e104f5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\87\87d8852933af88b42b578fb031e104f5.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\87\87d8852933af88b42b578fb031e104f5.info
-    projectPath: Library\metadata\87\87d8852933af88b42b578fb031e104f5.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\88\88903e569af863d4d8eb0e1700eea5cb
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\88\88903e569af863d4d8eb0e1700eea5cb
-    projectPath: Library\metadata\88\88903e569af863d4d8eb0e1700eea5cb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\88\88903e569af863d4d8eb0e1700eea5cb.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\88\88903e569af863d4d8eb0e1700eea5cb.info
-    projectPath: Library\metadata\88\88903e569af863d4d8eb0e1700eea5cb.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\89\89649d8b29292b34dab3f189e126996e
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\89\89649d8b29292b34dab3f189e126996e
-    projectPath: Library\metadata\89\89649d8b29292b34dab3f189e126996e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\89\89649d8b29292b34dab3f189e126996e.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\89\89649d8b29292b34dab3f189e126996e.info
-    projectPath: Library\metadata\89\89649d8b29292b34dab3f189e126996e.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\89\8995688a41d219f4391a10824225a9bd
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\89\8995688a41d219f4391a10824225a9bd
-    projectPath: Library\metadata\89\8995688a41d219f4391a10824225a9bd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\89\8995688a41d219f4391a10824225a9bd.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\89\8995688a41d219f4391a10824225a9bd.info
-    projectPath: Library\metadata\89\8995688a41d219f4391a10824225a9bd.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\8b\8bc7a9c3c6ac36c47aad22e97b7bbe62
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\8b\8bc7a9c3c6ac36c47aad22e97b7bbe62
-    projectPath: Library\metadata\8b\8bc7a9c3c6ac36c47aad22e97b7bbe62
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\8b\8bc7a9c3c6ac36c47aad22e97b7bbe62.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\8b\8bc7a9c3c6ac36c47aad22e97b7bbe62.info
-    projectPath: Library\metadata\8b\8bc7a9c3c6ac36c47aad22e97b7bbe62.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\8f\8f8c812211fb74e44babd25d5282997b
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\8f\8f8c812211fb74e44babd25d5282997b
-    projectPath: Library\metadata\8f\8f8c812211fb74e44babd25d5282997b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\8f\8f8c812211fb74e44babd25d5282997b.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\8f\8f8c812211fb74e44babd25d5282997b.info
-    projectPath: Library\metadata\8f\8f8c812211fb74e44babd25d5282997b.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\91\916093530a79c2e47808ca0dbcc5b3d8
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\91\916093530a79c2e47808ca0dbcc5b3d8
-    projectPath: Library\metadata\91\916093530a79c2e47808ca0dbcc5b3d8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\91\916093530a79c2e47808ca0dbcc5b3d8.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\91\916093530a79c2e47808ca0dbcc5b3d8.info
-    projectPath: Library\metadata\91\916093530a79c2e47808ca0dbcc5b3d8.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\93\9355a4671cfe4eef90879863318d1a4b
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\93\9355a4671cfe4eef90879863318d1a4b
-    projectPath: Library\metadata\93\9355a4671cfe4eef90879863318d1a4b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\93\9355a4671cfe4eef90879863318d1a4b.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\93\9355a4671cfe4eef90879863318d1a4b.info
-    projectPath: Library\metadata\93\9355a4671cfe4eef90879863318d1a4b.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\95\953367231f9e3e22e70e5d1c91a40fe5
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\95\953367231f9e3e22e70e5d1c91a40fe5
-    projectPath: Library\metadata\95\953367231f9e3e22e70e5d1c91a40fe5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\95\953367231f9e3e22e70e5d1c91a40fe5.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\95\953367231f9e3e22e70e5d1c91a40fe5.info
-    projectPath: Library\metadata\95\953367231f9e3e22e70e5d1c91a40fe5.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\96\961765c8b067a184fa02ee8723f921c5
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\96\961765c8b067a184fa02ee8723f921c5
-    projectPath: Library\metadata\96\961765c8b067a184fa02ee8723f921c5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\96\961765c8b067a184fa02ee8723f921c5.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\96\961765c8b067a184fa02ee8723f921c5.info
-    projectPath: Library\metadata\96\961765c8b067a184fa02ee8723f921c5.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\96\96470fb42cd348242a35de4c9dd9d480
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\96\96470fb42cd348242a35de4c9dd9d480
-    projectPath: Library\metadata\96\96470fb42cd348242a35de4c9dd9d480
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\96\96470fb42cd348242a35de4c9dd9d480.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\96\96470fb42cd348242a35de4c9dd9d480.info
-    projectPath: Library\metadata\96\96470fb42cd348242a35de4c9dd9d480.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\96\96f6d604de4e7c74fa4998c4f41b76da
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\96\96f6d604de4e7c74fa4998c4f41b76da
-    projectPath: Library\metadata\96\96f6d604de4e7c74fa4998c4f41b76da
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\96\96f6d604de4e7c74fa4998c4f41b76da.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\96\96f6d604de4e7c74fa4998c4f41b76da.info
-    projectPath: Library\metadata\96\96f6d604de4e7c74fa4998c4f41b76da.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\9b\9b6a38cb7a8884249b93a7d004321b72
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\9b\9b6a38cb7a8884249b93a7d004321b72
-    projectPath: Library\metadata\9b\9b6a38cb7a8884249b93a7d004321b72
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\9b\9b6a38cb7a8884249b93a7d004321b72.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\9b\9b6a38cb7a8884249b93a7d004321b72.info
-    projectPath: Library\metadata\9b\9b6a38cb7a8884249b93a7d004321b72.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\9b\9bbaa2331ea891241819dc7afbdaac7f
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\9b\9bbaa2331ea891241819dc7afbdaac7f
-    projectPath: Library\metadata\9b\9bbaa2331ea891241819dc7afbdaac7f
+  - path: Library\metadata\88\88c02db3310de9f44b860fd00020659a
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\88\88c02db3310de9f44b860fd00020659a
+    projectPath: Library\metadata\88\88c02db3310de9f44b860fd00020659a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\9b\9bbaa2331ea891241819dc7afbdaac7f.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\9b\9bbaa2331ea891241819dc7afbdaac7f.info
-    projectPath: Library\metadata\9b\9bbaa2331ea891241819dc7afbdaac7f.info
+  - path: Library\metadata\88\88c02db3310de9f44b860fd00020659a.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\88\88c02db3310de9f44b860fd00020659a.info
+    projectPath: Library\metadata\88\88c02db3310de9f44b860fd00020659a.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\9c\9c3bb0538ec3ef344826f15c08b68435
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\9c\9c3bb0538ec3ef344826f15c08b68435
-    projectPath: Library\metadata\9c\9c3bb0538ec3ef344826f15c08b68435
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\9c\9c3bb0538ec3ef344826f15c08b68435.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\9c\9c3bb0538ec3ef344826f15c08b68435.info
-    projectPath: Library\metadata\9c\9c3bb0538ec3ef344826f15c08b68435.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\9c\9cd6fb95a1970ca46b36c7b5fc457562
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\9c\9cd6fb95a1970ca46b36c7b5fc457562
-    projectPath: Library\metadata\9c\9cd6fb95a1970ca46b36c7b5fc457562
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\9c\9cd6fb95a1970ca46b36c7b5fc457562.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\9c\9cd6fb95a1970ca46b36c7b5fc457562.info
-    projectPath: Library\metadata\9c\9cd6fb95a1970ca46b36c7b5fc457562.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\9d\9d292bccb57820545820735939e9d7b6
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\9d\9d292bccb57820545820735939e9d7b6
-    projectPath: Library\metadata\9d\9d292bccb57820545820735939e9d7b6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\9d\9d292bccb57820545820735939e9d7b6.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\9d\9d292bccb57820545820735939e9d7b6.info
-    projectPath: Library\metadata\9d\9d292bccb57820545820735939e9d7b6.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\9f\9f058f25e8e2d47cfb894951d4d7e48a
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\9f\9f058f25e8e2d47cfb894951d4d7e48a
-    projectPath: Library\metadata\9f\9f058f25e8e2d47cfb894951d4d7e48a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\9f\9f058f25e8e2d47cfb894951d4d7e48a.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\9f\9f058f25e8e2d47cfb894951d4d7e48a.info
-    projectPath: Library\metadata\9f\9f058f25e8e2d47cfb894951d4d7e48a.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\9f\9f6bfa9d8aefb40dc92461c372c73b0f
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\9f\9f6bfa9d8aefb40dc92461c372c73b0f
-    projectPath: Library\metadata\9f\9f6bfa9d8aefb40dc92461c372c73b0f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\9f\9f6bfa9d8aefb40dc92461c372c73b0f.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\9f\9f6bfa9d8aefb40dc92461c372c73b0f.info
-    projectPath: Library\metadata\9f\9f6bfa9d8aefb40dc92461c372c73b0f.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\9f\9fe4b3bd3b7d2477dac92fb7429d1d1b
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\9f\9fe4b3bd3b7d2477dac92fb7429d1d1b
-    projectPath: Library\metadata\9f\9fe4b3bd3b7d2477dac92fb7429d1d1b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\9f\9fe4b3bd3b7d2477dac92fb7429d1d1b.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\9f\9fe4b3bd3b7d2477dac92fb7429d1d1b.info
-    projectPath: Library\metadata\9f\9fe4b3bd3b7d2477dac92fb7429d1d1b.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\a1\a11f2392cd42d504a8358ce737ff10d4
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\a1\a11f2392cd42d504a8358ce737ff10d4
-    projectPath: Library\metadata\a1\a11f2392cd42d504a8358ce737ff10d4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\a1\a11f2392cd42d504a8358ce737ff10d4.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\a1\a11f2392cd42d504a8358ce737ff10d4.info
-    projectPath: Library\metadata\a1\a11f2392cd42d504a8358ce737ff10d4.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\a7\a70ad27a48ecac745b8d1fee53a29958
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\a7\a70ad27a48ecac745b8d1fee53a29958
-    projectPath: Library\metadata\a7\a70ad27a48ecac745b8d1fee53a29958
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\a7\a70ad27a48ecac745b8d1fee53a29958.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\a7\a70ad27a48ecac745b8d1fee53a29958.info
-    projectPath: Library\metadata\a7\a70ad27a48ecac745b8d1fee53a29958.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\a7\a7ae70447bb413c4fbb4d330fff9d500
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\a7\a7ae70447bb413c4fbb4d330fff9d500
-    projectPath: Library\metadata\a7\a7ae70447bb413c4fbb4d330fff9d500
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\a7\a7ae70447bb413c4fbb4d330fff9d500.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\a7\a7ae70447bb413c4fbb4d330fff9d500.info
-    projectPath: Library\metadata\a7\a7ae70447bb413c4fbb4d330fff9d500.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\ac\acc34040a66fe4170bc8885268860cfe
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\ac\acc34040a66fe4170bc8885268860cfe
-    projectPath: Library\metadata\ac\acc34040a66fe4170bc8885268860cfe
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\ac\acc34040a66fe4170bc8885268860cfe.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\ac\acc34040a66fe4170bc8885268860cfe.info
-    projectPath: Library\metadata\ac\acc34040a66fe4170bc8885268860cfe.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\ae\ae739032c8940454ba2737a3c3ce276a
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\ae\ae739032c8940454ba2737a3c3ce276a
-    projectPath: Library\metadata\ae\ae739032c8940454ba2737a3c3ce276a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\ae\ae739032c8940454ba2737a3c3ce276a.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\ae\ae739032c8940454ba2737a3c3ce276a.info
-    projectPath: Library\metadata\ae\ae739032c8940454ba2737a3c3ce276a.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\ae\aec282fc804ec4ba4807720028df1019
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\ae\aec282fc804ec4ba4807720028df1019
-    projectPath: Library\metadata\ae\aec282fc804ec4ba4807720028df1019
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\ae\aec282fc804ec4ba4807720028df1019.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\ae\aec282fc804ec4ba4807720028df1019.info
-    projectPath: Library\metadata\ae\aec282fc804ec4ba4807720028df1019.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\ae\aeed3d67456102040b85b1a7adf98662
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\ae\aeed3d67456102040b85b1a7adf98662
-    projectPath: Library\metadata\ae\aeed3d67456102040b85b1a7adf98662
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\ae\aeed3d67456102040b85b1a7adf98662.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\ae\aeed3d67456102040b85b1a7adf98662.info
-    projectPath: Library\metadata\ae\aeed3d67456102040b85b1a7adf98662.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\af\afd1c021d7e7df44d93d70a8bc989789
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\af\afd1c021d7e7df44d93d70a8bc989789
-    projectPath: Library\metadata\af\afd1c021d7e7df44d93d70a8bc989789
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\af\afd1c021d7e7df44d93d70a8bc989789.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\af\afd1c021d7e7df44d93d70a8bc989789.info
-    projectPath: Library\metadata\af\afd1c021d7e7df44d93d70a8bc989789.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\b1\b10ac7f13c12e494c8fee9b0cab96119
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\b1\b10ac7f13c12e494c8fee9b0cab96119
-    projectPath: Library\metadata\b1\b10ac7f13c12e494c8fee9b0cab96119
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\b1\b10ac7f13c12e494c8fee9b0cab96119.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\b1\b10ac7f13c12e494c8fee9b0cab96119.info
-    projectPath: Library\metadata\b1\b10ac7f13c12e494c8fee9b0cab96119.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\b2\b26e96d95cbfa0446a0eb736011f375c
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\b2\b26e96d95cbfa0446a0eb736011f375c
-    projectPath: Library\metadata\b2\b26e96d95cbfa0446a0eb736011f375c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\b2\b26e96d95cbfa0446a0eb736011f375c.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\b2\b26e96d95cbfa0446a0eb736011f375c.info
-    projectPath: Library\metadata\b2\b26e96d95cbfa0446a0eb736011f375c.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\b3\b34381c9f41dc874abc21be9e11d0064
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\b3\b34381c9f41dc874abc21be9e11d0064
-    projectPath: Library\metadata\b3\b34381c9f41dc874abc21be9e11d0064
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\b3\b34381c9f41dc874abc21be9e11d0064.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\b3\b34381c9f41dc874abc21be9e11d0064.info
-    projectPath: Library\metadata\b3\b34381c9f41dc874abc21be9e11d0064.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\b3\b3659958fc4f74d4ba7ce2f7610bc80f
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\b3\b3659958fc4f74d4ba7ce2f7610bc80f
-    projectPath: Library\metadata\b3\b3659958fc4f74d4ba7ce2f7610bc80f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\b3\b3659958fc4f74d4ba7ce2f7610bc80f.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\b3\b3659958fc4f74d4ba7ce2f7610bc80f.info
-    projectPath: Library\metadata\b3\b3659958fc4f74d4ba7ce2f7610bc80f.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\b5\b5aa3e4f7432e1c5698417cc13f85271
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\b5\b5aa3e4f7432e1c5698417cc13f85271
-    projectPath: Library\metadata\b5\b5aa3e4f7432e1c5698417cc13f85271
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\b5\b5aa3e4f7432e1c5698417cc13f85271.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\b5\b5aa3e4f7432e1c5698417cc13f85271.info
-    projectPath: Library\metadata\b5\b5aa3e4f7432e1c5698417cc13f85271.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\b6\b6ce89fc55364e1478340cf9cffcf137
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\b6\b6ce89fc55364e1478340cf9cffcf137
-    projectPath: Library\metadata\b6\b6ce89fc55364e1478340cf9cffcf137
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\metadata\b6\b6ce89fc55364e1478340cf9cffcf137.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\b6\b6ce89fc55364e1478340cf9cffcf137.info
-    projectPath: Library\metadata\b6\b6ce89fc55364e1478340cf9cffcf137.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\metadata\b7\b7f25b48ed948634095cab7b235a53cd
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\b7\b7f25b48ed948634095cab7b235a53cd
-    projectPath: Library\metadata\b7\b7f25b48ed948634095cab7b235a53cd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\b7\b7f25b48ed948634095cab7b235a53cd.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\b7\b7f25b48ed948634095cab7b235a53cd.info
-    projectPath: Library\metadata\b7\b7f25b48ed948634095cab7b235a53cd.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\b8\b8a0ca42daae0734a907feec6c0ebc6b
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\b8\b8a0ca42daae0734a907feec6c0ebc6b
-    projectPath: Library\metadata\b8\b8a0ca42daae0734a907feec6c0ebc6b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\b8\b8a0ca42daae0734a907feec6c0ebc6b.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\b8\b8a0ca42daae0734a907feec6c0ebc6b.info
-    projectPath: Library\metadata\b8\b8a0ca42daae0734a907feec6c0ebc6b.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\b9\b93330fc8ea08407dbc514b5101afa14
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\b9\b93330fc8ea08407dbc514b5101afa14
-    projectPath: Library\metadata\b9\b93330fc8ea08407dbc514b5101afa14
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\b9\b93330fc8ea08407dbc514b5101afa14.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\b9\b93330fc8ea08407dbc514b5101afa14.info
-    projectPath: Library\metadata\b9\b93330fc8ea08407dbc514b5101afa14.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\b9\b9b3fc519158d4495b726a15472068df
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\b9\b9b3fc519158d4495b726a15472068df
-    projectPath: Library\metadata\b9\b9b3fc519158d4495b726a15472068df
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\b9\b9b3fc519158d4495b726a15472068df.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\b9\b9b3fc519158d4495b726a15472068df.info
-    projectPath: Library\metadata\b9\b9b3fc519158d4495b726a15472068df.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\b9\b9bd7c976ea7f144e9a4bd7ec5936a5b
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\b9\b9bd7c976ea7f144e9a4bd7ec5936a5b
-    projectPath: Library\metadata\b9\b9bd7c976ea7f144e9a4bd7ec5936a5b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\b9\b9bd7c976ea7f144e9a4bd7ec5936a5b.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\b9\b9bd7c976ea7f144e9a4bd7ec5936a5b.info
-    projectPath: Library\metadata\b9\b9bd7c976ea7f144e9a4bd7ec5936a5b.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\b9\b9df0aeaf5231344c887d9c7a5b8d23a
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\b9\b9df0aeaf5231344c887d9c7a5b8d23a
-    projectPath: Library\metadata\b9\b9df0aeaf5231344c887d9c7a5b8d23a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\b9\b9df0aeaf5231344c887d9c7a5b8d23a.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\b9\b9df0aeaf5231344c887d9c7a5b8d23a.info
-    projectPath: Library\metadata\b9\b9df0aeaf5231344c887d9c7a5b8d23a.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\ba\ba0bb1823907deb4a8101f6fdeb775ab
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\ba\ba0bb1823907deb4a8101f6fdeb775ab
-    projectPath: Library\metadata\ba\ba0bb1823907deb4a8101f6fdeb775ab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\ba\ba0bb1823907deb4a8101f6fdeb775ab.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\ba\ba0bb1823907deb4a8101f6fdeb775ab.info
-    projectPath: Library\metadata\ba\ba0bb1823907deb4a8101f6fdeb775ab.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\c1\c17c75c82446d4f5dbd42e26294ecd12
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\c1\c17c75c82446d4f5dbd42e26294ecd12
-    projectPath: Library\metadata\c1\c17c75c82446d4f5dbd42e26294ecd12
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\c1\c17c75c82446d4f5dbd42e26294ecd12.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\c1\c17c75c82446d4f5dbd42e26294ecd12.info
-    projectPath: Library\metadata\c1\c17c75c82446d4f5dbd42e26294ecd12.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\c2\c27bec71d00782643aed9a1825574fbf
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\c2\c27bec71d00782643aed9a1825574fbf
-    projectPath: Library\metadata\c2\c27bec71d00782643aed9a1825574fbf
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\c2\c27bec71d00782643aed9a1825574fbf.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\c2\c27bec71d00782643aed9a1825574fbf.info
-    projectPath: Library\metadata\c2\c27bec71d00782643aed9a1825574fbf.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\c2\c2c6902ceb0ffe44481b8b74cd98e1bd
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\c2\c2c6902ceb0ffe44481b8b74cd98e1bd
-    projectPath: Library\metadata\c2\c2c6902ceb0ffe44481b8b74cd98e1bd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\c2\c2c6902ceb0ffe44481b8b74cd98e1bd.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\c2\c2c6902ceb0ffe44481b8b74cd98e1bd.info
-    projectPath: Library\metadata\c2\c2c6902ceb0ffe44481b8b74cd98e1bd.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\c3\c34f689a3a08be649b9d8ad807dee880
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\c3\c34f689a3a08be649b9d8ad807dee880
-    projectPath: Library\metadata\c3\c34f689a3a08be649b9d8ad807dee880
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\c3\c34f689a3a08be649b9d8ad807dee880.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\c3\c34f689a3a08be649b9d8ad807dee880.info
-    projectPath: Library\metadata\c3\c34f689a3a08be649b9d8ad807dee880.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\c3\c3d76b721449251419f83dd52cb63d6e
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\c3\c3d76b721449251419f83dd52cb63d6e
-    projectPath: Library\metadata\c3\c3d76b721449251419f83dd52cb63d6e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\c3\c3d76b721449251419f83dd52cb63d6e.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\c3\c3d76b721449251419f83dd52cb63d6e.info
-    projectPath: Library\metadata\c3\c3d76b721449251419f83dd52cb63d6e.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\c6\c6301ab56699d98458a42342273d272f
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\c6\c6301ab56699d98458a42342273d272f
-    projectPath: Library\metadata\c6\c6301ab56699d98458a42342273d272f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\c6\c6301ab56699d98458a42342273d272f.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\c6\c6301ab56699d98458a42342273d272f.info
-    projectPath: Library\metadata\c6\c6301ab56699d98458a42342273d272f.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\ca\cad2c0d2a9ff2794eacd4b4a21079bc7
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\ca\cad2c0d2a9ff2794eacd4b4a21079bc7
-    projectPath: Library\metadata\ca\cad2c0d2a9ff2794eacd4b4a21079bc7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\ca\cad2c0d2a9ff2794eacd4b4a21079bc7.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\ca\cad2c0d2a9ff2794eacd4b4a21079bc7.info
-    projectPath: Library\metadata\ca\cad2c0d2a9ff2794eacd4b4a21079bc7.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\cc\ccf27169e549d5c49ad09da3a5fe410e
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\cc\ccf27169e549d5c49ad09da3a5fe410e
-    projectPath: Library\metadata\cc\ccf27169e549d5c49ad09da3a5fe410e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\cd\cd14dfb5a9fe19c46ba762049b5b37f7
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\cd\cd14dfb5a9fe19c46ba762049b5b37f7
-    projectPath: Library\metadata\cd\cd14dfb5a9fe19c46ba762049b5b37f7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\cd\cd14dfb5a9fe19c46ba762049b5b37f7.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\cd\cd14dfb5a9fe19c46ba762049b5b37f7.info
-    projectPath: Library\metadata\cd\cd14dfb5a9fe19c46ba762049b5b37f7.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\cf\cfb438032cb939c4abd0f07611feb2cb
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\cf\cfb438032cb939c4abd0f07611feb2cb
-    projectPath: Library\metadata\cf\cfb438032cb939c4abd0f07611feb2cb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\cf\cfb438032cb939c4abd0f07611feb2cb.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\cf\cfb438032cb939c4abd0f07611feb2cb.info
-    projectPath: Library\metadata\cf\cfb438032cb939c4abd0f07611feb2cb.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\d2\d20eac871a6b62d429e81a8b2f839ac3
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\d2\d20eac871a6b62d429e81a8b2f839ac3
-    projectPath: Library\metadata\d2\d20eac871a6b62d429e81a8b2f839ac3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\d2\d20eac871a6b62d429e81a8b2f839ac3.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\d2\d20eac871a6b62d429e81a8b2f839ac3.info
-    projectPath: Library\metadata\d2\d20eac871a6b62d429e81a8b2f839ac3.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\d3\d3747dabb5e254d62a81416bc3949986
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\d3\d3747dabb5e254d62a81416bc3949986
-    projectPath: Library\metadata\d3\d3747dabb5e254d62a81416bc3949986
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\d3\d3747dabb5e254d62a81416bc3949986.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\d3\d3747dabb5e254d62a81416bc3949986.info
-    projectPath: Library\metadata\d3\d3747dabb5e254d62a81416bc3949986.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\d4\d49ff9df95943d74fad0c4aae889ce7f
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\d4\d49ff9df95943d74fad0c4aae889ce7f
-    projectPath: Library\metadata\d4\d49ff9df95943d74fad0c4aae889ce7f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\d4\d49ff9df95943d74fad0c4aae889ce7f.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\d4\d49ff9df95943d74fad0c4aae889ce7f.info
-    projectPath: Library\metadata\d4\d49ff9df95943d74fad0c4aae889ce7f.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\d5\d59adda98a020bf4dacb7a6c2542aa8c
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\d5\d59adda98a020bf4dacb7a6c2542aa8c
-    projectPath: Library\metadata\d5\d59adda98a020bf4dacb7a6c2542aa8c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\d5\d59adda98a020bf4dacb7a6c2542aa8c.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\d5\d59adda98a020bf4dacb7a6c2542aa8c.info
-    projectPath: Library\metadata\d5\d59adda98a020bf4dacb7a6c2542aa8c.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\d5\d5d45e95992374048a6b492532f0350a
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\d5\d5d45e95992374048a6b492532f0350a
-    projectPath: Library\metadata\d5\d5d45e95992374048a6b492532f0350a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\d5\d5d45e95992374048a6b492532f0350a.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\d5\d5d45e95992374048a6b492532f0350a.info
-    projectPath: Library\metadata\d5\d5d45e95992374048a6b492532f0350a.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\d6\d688914dc056d4630992780681a223b6
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\d6\d688914dc056d4630992780681a223b6
-    projectPath: Library\metadata\d6\d688914dc056d4630992780681a223b6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\d6\d688914dc056d4630992780681a223b6.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\d6\d688914dc056d4630992780681a223b6.info
-    projectPath: Library\metadata\d6\d688914dc056d4630992780681a223b6.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\d7\d75b8966e9bf9294684c1411d218e0e0
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\d7\d75b8966e9bf9294684c1411d218e0e0
-    projectPath: Library\metadata\d7\d75b8966e9bf9294684c1411d218e0e0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\d7\d75b8966e9bf9294684c1411d218e0e0.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\d7\d75b8966e9bf9294684c1411d218e0e0.info
-    projectPath: Library\metadata\d7\d75b8966e9bf9294684c1411d218e0e0.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\d9\d9d23259439f44557bb0397383ffdad1
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\d9\d9d23259439f44557bb0397383ffdad1
-    projectPath: Library\metadata\d9\d9d23259439f44557bb0397383ffdad1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\d9\d9d23259439f44557bb0397383ffdad1.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\d9\d9d23259439f44557bb0397383ffdad1.info
-    projectPath: Library\metadata\d9\d9d23259439f44557bb0397383ffdad1.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\dc\dc218b335b1d14cd5ae532f65042d829
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\dc\dc218b335b1d14cd5ae532f65042d829
-    projectPath: Library\metadata\dc\dc218b335b1d14cd5ae532f65042d829
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\dc\dc218b335b1d14cd5ae532f65042d829.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\dc\dc218b335b1d14cd5ae532f65042d829.info
-    projectPath: Library\metadata\dc\dc218b335b1d14cd5ae532f65042d829.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\dc\dc3fabb1101cca14f8c789349bdf4a53
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\dc\dc3fabb1101cca14f8c789349bdf4a53
-    projectPath: Library\metadata\dc\dc3fabb1101cca14f8c789349bdf4a53
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\dc\dc3fabb1101cca14f8c789349bdf4a53.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\dc\dc3fabb1101cca14f8c789349bdf4a53.info
-    projectPath: Library\metadata\dc\dc3fabb1101cca14f8c789349bdf4a53.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\dc\dc9e3f67e6b067c408f9d915c8d2a65e
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\dc\dc9e3f67e6b067c408f9d915c8d2a65e
-    projectPath: Library\metadata\dc\dc9e3f67e6b067c408f9d915c8d2a65e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\dc\dc9e3f67e6b067c408f9d915c8d2a65e.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\dc\dc9e3f67e6b067c408f9d915c8d2a65e.info
-    projectPath: Library\metadata\dc\dc9e3f67e6b067c408f9d915c8d2a65e.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\dc\dcdac9d39f51b214db664cd01132fdff
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\dc\dcdac9d39f51b214db664cd01132fdff
-    projectPath: Library\metadata\dc\dcdac9d39f51b214db664cd01132fdff
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\dc\dcdac9d39f51b214db664cd01132fdff.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\dc\dcdac9d39f51b214db664cd01132fdff.info
-    projectPath: Library\metadata\dc\dcdac9d39f51b214db664cd01132fdff.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\df\df6f219c396f4ad9b5048bae6944cb8e
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\df\df6f219c396f4ad9b5048bae6944cb8e
-    projectPath: Library\metadata\df\df6f219c396f4ad9b5048bae6944cb8e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\df\df6f219c396f4ad9b5048bae6944cb8e.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\df\df6f219c396f4ad9b5048bae6944cb8e.info
-    projectPath: Library\metadata\df\df6f219c396f4ad9b5048bae6944cb8e.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\df\dffef66376be4fa480fb02b19edbe903
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\df\dffef66376be4fa480fb02b19edbe903
-    projectPath: Library\metadata\df\dffef66376be4fa480fb02b19edbe903
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\df\dffef66376be4fa480fb02b19edbe903.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\df\dffef66376be4fa480fb02b19edbe903.info
-    projectPath: Library\metadata\df\dffef66376be4fa480fb02b19edbe903.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\e1\e14437c03dd5e1e47a85f1c275114429
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\e1\e14437c03dd5e1e47a85f1c275114429
-    projectPath: Library\metadata\e1\e14437c03dd5e1e47a85f1c275114429
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\e1\e14437c03dd5e1e47a85f1c275114429.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\e1\e14437c03dd5e1e47a85f1c275114429.info
-    projectPath: Library\metadata\e1\e14437c03dd5e1e47a85f1c275114429.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\e2\e217893f8e4953b4f85a313edb1deb84
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\e2\e217893f8e4953b4f85a313edb1deb84
-    projectPath: Library\metadata\e2\e217893f8e4953b4f85a313edb1deb84
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\e2\e217893f8e4953b4f85a313edb1deb84.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\e2\e217893f8e4953b4f85a313edb1deb84.info
-    projectPath: Library\metadata\e2\e217893f8e4953b4f85a313edb1deb84.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\e2\e25851b0a6a2e1945be066a2a1a72535
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\e2\e25851b0a6a2e1945be066a2a1a72535
-    projectPath: Library\metadata\e2\e25851b0a6a2e1945be066a2a1a72535
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\e2\e25851b0a6a2e1945be066a2a1a72535.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\e2\e25851b0a6a2e1945be066a2a1a72535.info
-    projectPath: Library\metadata\e2\e25851b0a6a2e1945be066a2a1a72535.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\e4\e41de0d4f9a286a429206ed3707de47a
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\e4\e41de0d4f9a286a429206ed3707de47a
-    projectPath: Library\metadata\e4\e41de0d4f9a286a429206ed3707de47a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\e4\e41de0d4f9a286a429206ed3707de47a.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\e4\e41de0d4f9a286a429206ed3707de47a.info
-    projectPath: Library\metadata\e4\e41de0d4f9a286a429206ed3707de47a.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\e4\e48262e18ea0d4c4889aab96a7a25705
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\e4\e48262e18ea0d4c4889aab96a7a25705
-    projectPath: Library\metadata\e4\e48262e18ea0d4c4889aab96a7a25705
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\e4\e48262e18ea0d4c4889aab96a7a25705.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\e4\e48262e18ea0d4c4889aab96a7a25705.info
-    projectPath: Library\metadata\e4\e48262e18ea0d4c4889aab96a7a25705.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\e5\e58ad56556de2457297d7ccdd9e1299b
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\e5\e58ad56556de2457297d7ccdd9e1299b
-    projectPath: Library\metadata\e5\e58ad56556de2457297d7ccdd9e1299b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\e5\e58ad56556de2457297d7ccdd9e1299b.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\e5\e58ad56556de2457297d7ccdd9e1299b.info
-    projectPath: Library\metadata\e5\e58ad56556de2457297d7ccdd9e1299b.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\e6\e6223877108b35e45a602367b4f7b6d1
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\e6\e6223877108b35e45a602367b4f7b6d1
-    projectPath: Library\metadata\e6\e6223877108b35e45a602367b4f7b6d1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\e6\e6223877108b35e45a602367b4f7b6d1.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\e6\e6223877108b35e45a602367b4f7b6d1.info
-    projectPath: Library\metadata\e6\e6223877108b35e45a602367b4f7b6d1.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\e7\e7eac902b63cad740b2d1195d30a49ca
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\e7\e7eac902b63cad740b2d1195d30a49ca
-    projectPath: Library\metadata\e7\e7eac902b63cad740b2d1195d30a49ca
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\e7\e7eac902b63cad740b2d1195d30a49ca.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\e7\e7eac902b63cad740b2d1195d30a49ca.info
-    projectPath: Library\metadata\e7\e7eac902b63cad740b2d1195d30a49ca.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\e8\e842dc0f35bb54a4cb6f95bd759e80cf
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\e8\e842dc0f35bb54a4cb6f95bd759e80cf
-    projectPath: Library\metadata\e8\e842dc0f35bb54a4cb6f95bd759e80cf
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\e8\e842dc0f35bb54a4cb6f95bd759e80cf.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\e8\e842dc0f35bb54a4cb6f95bd759e80cf.info
-    projectPath: Library\metadata\e8\e842dc0f35bb54a4cb6f95bd759e80cf.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\e9\e941f6938f578b54183a5b0e87500594
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\e9\e941f6938f578b54183a5b0e87500594
-    projectPath: Library\metadata\e9\e941f6938f578b54183a5b0e87500594
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\e9\e941f6938f578b54183a5b0e87500594.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\e9\e941f6938f578b54183a5b0e87500594.info
-    projectPath: Library\metadata\e9\e941f6938f578b54183a5b0e87500594.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\e9\e94c8f9df88429d489e82de15d393f00
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\e9\e94c8f9df88429d489e82de15d393f00
-    projectPath: Library\metadata\e9\e94c8f9df88429d489e82de15d393f00
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\e9\e94c8f9df88429d489e82de15d393f00.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\e9\e94c8f9df88429d489e82de15d393f00.info
-    projectPath: Library\metadata\e9\e94c8f9df88429d489e82de15d393f00.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\eb\eb511e1ab0ad8064cbe430191a25133d
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\eb\eb511e1ab0ad8064cbe430191a25133d
-    projectPath: Library\metadata\eb\eb511e1ab0ad8064cbe430191a25133d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\eb\eb511e1ab0ad8064cbe430191a25133d.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\eb\eb511e1ab0ad8064cbe430191a25133d.info
-    projectPath: Library\metadata\eb\eb511e1ab0ad8064cbe430191a25133d.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\f1\f199a6029a5c414429fb20d848f8c821
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\f1\f199a6029a5c414429fb20d848f8c821
-    projectPath: Library\metadata\f1\f199a6029a5c414429fb20d848f8c821
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\f1\f199a6029a5c414429fb20d848f8c821.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\f1\f199a6029a5c414429fb20d848f8c821.info
-    projectPath: Library\metadata\f1\f199a6029a5c414429fb20d848f8c821.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\f3\f3a6897dac297ac4186a675cb79a48de
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\f3\f3a6897dac297ac4186a675cb79a48de
-    projectPath: Library\metadata\f3\f3a6897dac297ac4186a675cb79a48de
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\f3\f3a6897dac297ac4186a675cb79a48de.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\f3\f3a6897dac297ac4186a675cb79a48de.info
-    projectPath: Library\metadata\f3\f3a6897dac297ac4186a675cb79a48de.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\f5\f5709a5e43cf6e643bfd83ed67c4328c
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\f5\f5709a5e43cf6e643bfd83ed67c4328c
-    projectPath: Library\metadata\f5\f5709a5e43cf6e643bfd83ed67c4328c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\f5\f5709a5e43cf6e643bfd83ed67c4328c.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\f5\f5709a5e43cf6e643bfd83ed67c4328c.info
-    projectPath: Library\metadata\f5\f5709a5e43cf6e643bfd83ed67c4328c.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\f6\f6ba2e73d8456442497c8232ab08c8f1
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\f6\f6ba2e73d8456442497c8232ab08c8f1
-    projectPath: Library\metadata\f6\f6ba2e73d8456442497c8232ab08c8f1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\f6\f6ba2e73d8456442497c8232ab08c8f1.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\f6\f6ba2e73d8456442497c8232ab08c8f1.info
-    projectPath: Library\metadata\f6\f6ba2e73d8456442497c8232ab08c8f1.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\f6\f6cb7dbe4dd62794c982ce2e9100f021
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\f6\f6cb7dbe4dd62794c982ce2e9100f021
-    projectPath: Library\metadata\f6\f6cb7dbe4dd62794c982ce2e9100f021
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\f6\f6cb7dbe4dd62794c982ce2e9100f021.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\f6\f6cb7dbe4dd62794c982ce2e9100f021.info
-    projectPath: Library\metadata\f6\f6cb7dbe4dd62794c982ce2e9100f021.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\f7\f7a66f1bbcdff254dbfdb51140bd19b8
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\f7\f7a66f1bbcdff254dbfdb51140bd19b8
-    projectPath: Library\metadata\f7\f7a66f1bbcdff254dbfdb51140bd19b8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\f7\f7a66f1bbcdff254dbfdb51140bd19b8.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\f7\f7a66f1bbcdff254dbfdb51140bd19b8.info
-    projectPath: Library\metadata\f7\f7a66f1bbcdff254dbfdb51140bd19b8.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
-    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
-    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\f8\f8290c2b087004c4ca9c0f150651b350
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\f8\f8290c2b087004c4ca9c0f150651b350
-    projectPath: Library\metadata\f8\f8290c2b087004c4ca9c0f150651b350
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\f8\f8290c2b087004c4ca9c0f150651b350.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\f8\f8290c2b087004c4ca9c0f150651b350.info
-    projectPath: Library\metadata\f8\f8290c2b087004c4ca9c0f150651b350.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f
-    projectPath: Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f.info
-    projectPath: Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+  - path: Library\metadata\ab\ab374e44bc5bbb04db780467eb028aaa
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\ab\ab374e44bc5bbb04db780467eb028aaa
+    projectPath: Library\metadata\ab\ab374e44bc5bbb04db780467eb028aaa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ab\ab374e44bc5bbb04db780467eb028aaa.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\ab\ab374e44bc5bbb04db780467eb028aaa.info
+    projectPath: Library\metadata\ab\ab374e44bc5bbb04db780467eb028aaa.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ba\ba24d067575c20e4ea3080a52232109a
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\ba\ba24d067575c20e4ea3080a52232109a
+    projectPath: Library\metadata\ba\ba24d067575c20e4ea3080a52232109a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ba\ba24d067575c20e4ea3080a52232109a.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\ba\ba24d067575c20e4ea3080a52232109a.info
+    projectPath: Library\metadata\ba\ba24d067575c20e4ea3080a52232109a.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\bc\bc20dd708fdedb440ab2ae8f98805613
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\bc\bc20dd708fdedb440ab2ae8f98805613
+    projectPath: Library\metadata\bc\bc20dd708fdedb440ab2ae8f98805613
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\d8\d8dc2af1a6fc80e458d3c4cf28d9d162
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\d8\d8dc2af1a6fc80e458d3c4cf28d9d162
+    projectPath: Library\metadata\d8\d8dc2af1a6fc80e458d3c4cf28d9d162
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\d8\d8dc2af1a6fc80e458d3c4cf28d9d162.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\d8\d8dc2af1a6fc80e458d3c4cf28d9d162.info
+    projectPath: Library\metadata\d8\d8dc2af1a6fc80e458d3c4cf28d9d162.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\e1\e105ed4b63e63024fb3a8790f277d64e
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\e1\e105ed4b63e63024fb3a8790f277d64e
+    projectPath: Library\metadata\e1\e105ed4b63e63024fb3a8790f277d64e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\e1\e105ed4b63e63024fb3a8790f277d64e.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\e1\e105ed4b63e63024fb3a8790f277d64e.info
+    projectPath: Library\metadata\e1\e105ed4b63e63024fb3a8790f277d64e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\e4\e4bb35e91b81fc549a717d9eaeb5b279
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\e4\e4bb35e91b81fc549a717d9eaeb5b279
+    projectPath: Library\metadata\e4\e4bb35e91b81fc549a717d9eaeb5b279
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\e4\e4bb35e91b81fc549a717d9eaeb5b279.info
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\e4\e4bb35e91b81fc549a717d9eaeb5b279.info
+    projectPath: Library\metadata\e4\e4bb35e91b81fc549a717d9eaeb5b279.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\metadata\f9\f9483220fb47ce74db73a6ff3f1a0b1b
     fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\f9\f9483220fb47ce74db73a6ff3f1a0b1b
     projectPath: Library\metadata\f9\f9483220fb47ce74db73a6ff3f1a0b1b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\metadata\f9\f9483220fb47ce74db73a6ff3f1a0b1b.info
     fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\f9\f9483220fb47ce74db73a6ff3f1a0b1b.info
     projectPath: Library\metadata\f9\f9483220fb47ce74db73a6ff3f1a0b1b.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\fb\fb08fb6462aa94142ac62140a1677f86
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\fb\fb08fb6462aa94142ac62140a1677f86
-    projectPath: Library\metadata\fb\fb08fb6462aa94142ac62140a1677f86
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\fb\fb08fb6462aa94142ac62140a1677f86.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\fb\fb08fb6462aa94142ac62140a1677f86.info
-    projectPath: Library\metadata\fb\fb08fb6462aa94142ac62140a1677f86.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\fb\fb7bce033d77209428cd2c19594dc451
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\fb\fb7bce033d77209428cd2c19594dc451
-    projectPath: Library\metadata\fb\fb7bce033d77209428cd2c19594dc451
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\fb\fb7bce033d77209428cd2c19594dc451.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\fb\fb7bce033d77209428cd2c19594dc451.info
-    projectPath: Library\metadata\fb\fb7bce033d77209428cd2c19594dc451.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\fc\fcfa75866b7ff754b843566622994521
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\fc\fcfa75866b7ff754b843566622994521
-    projectPath: Library\metadata\fc\fcfa75866b7ff754b843566622994521
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\fc\fcfa75866b7ff754b843566622994521.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\fc\fcfa75866b7ff754b843566622994521.info
-    projectPath: Library\metadata\fc\fcfa75866b7ff754b843566622994521.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\ff\ffcbdb7fdd26e2c46a3bddf1a508818c
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\ff\ffcbdb7fdd26e2c46a3bddf1a508818c
-    projectPath: Library\metadata\ff\ffcbdb7fdd26e2c46a3bddf1a508818c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\ff\ffcbdb7fdd26e2c46a3bddf1a508818c.info
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\metadata\ff\ffcbdb7fdd26e2c46a3bddf1a508818c.info
-    projectPath: Library\metadata\ff\ffcbdb7fdd26e2c46a3bddf1a508818c.info
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -2767,72 +499,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\StateCache\Hierarchy\bb1422-15434dd6012464b48b.json
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\StateCache\Hierarchy\bb1422-15434dd6012464b48b.json
-    projectPath: Library\StateCache\Hierarchy\bb1422-15434dd6012464b48b.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\StateCache\Hierarchy\bb1422-mainStage.json
     fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\StateCache\Hierarchy\bb1422-mainStage.json
     projectPath: Library\StateCache\Hierarchy\bb1422-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\StateCache\SceneView\e3b140-15434dd6012464b48b.json
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\StateCache\SceneView\e3b140-15434dd6012464b48b.json
-    projectPath: Library\StateCache\SceneView\e3b140-15434dd6012464b48b.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\StateCache\SceneView\e3b140-mainStage.json
     fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Library\StateCache\SceneView\e3b140-mainStage.json
     projectPath: Library\StateCache\SceneView\e3b140-mainStage.json
@@ -2845,21 +523,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
     fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
     projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\EditorBuildSettings.asset
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\ProjectSettings\EditorBuildSettings.asset
-    projectPath: ProjectSettings\EditorBuildSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -2887,147 +553,183 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-1b861f6d19d3f7e46ba59c41b10b754d
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-1b861f6d19d3f7e46ba59c41b10b754d
-    projectPath: Temp\UnityTempFile-1b861f6d19d3f7e46ba59c41b10b754d
+  - path: Temp\UnityTempFile-07e55cef6a690e642b752590e98b6681
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-07e55cef6a690e642b752590e98b6681
+    projectPath: Temp\UnityTempFile-07e55cef6a690e642b752590e98b6681
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-1d37d64c8a88f314d807437c8725617c
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-1d37d64c8a88f314d807437c8725617c
-    projectPath: Temp\UnityTempFile-1d37d64c8a88f314d807437c8725617c
+  - path: Temp\UnityTempFile-0dc860e20da7c1343ab175551aa6f97b
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-0dc860e20da7c1343ab175551aa6f97b
+    projectPath: Temp\UnityTempFile-0dc860e20da7c1343ab175551aa6f97b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-2a7fba9f2f8c1964894d8a297166bec8
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-2a7fba9f2f8c1964894d8a297166bec8
-    projectPath: Temp\UnityTempFile-2a7fba9f2f8c1964894d8a297166bec8
+  - path: Temp\UnityTempFile-119d3ac23a6b3544e89a8a3300bdc728
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-119d3ac23a6b3544e89a8a3300bdc728
+    projectPath: Temp\UnityTempFile-119d3ac23a6b3544e89a8a3300bdc728
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-487fe31d4a7ca8b4eae5df5333d169e9
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-487fe31d4a7ca8b4eae5df5333d169e9
-    projectPath: Temp\UnityTempFile-487fe31d4a7ca8b4eae5df5333d169e9
+  - path: Temp\UnityTempFile-14428076893dc054092f490aa00cf6ad
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-14428076893dc054092f490aa00cf6ad
+    projectPath: Temp\UnityTempFile-14428076893dc054092f490aa00cf6ad
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-571b43c6a61e3424691502749d658481
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-571b43c6a61e3424691502749d658481
-    projectPath: Temp\UnityTempFile-571b43c6a61e3424691502749d658481
+  - path: Temp\UnityTempFile-19d60be195f995a479b9ae9c0c5515d0
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-19d60be195f995a479b9ae9c0c5515d0
+    projectPath: Temp\UnityTempFile-19d60be195f995a479b9ae9c0c5515d0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-61cf81b4b4226b14a97bb511791fb579
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-61cf81b4b4226b14a97bb511791fb579
-    projectPath: Temp\UnityTempFile-61cf81b4b4226b14a97bb511791fb579
+  - path: Temp\UnityTempFile-248f8faaef9288243a7401d2e3fe8e45
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-248f8faaef9288243a7401d2e3fe8e45
+    projectPath: Temp\UnityTempFile-248f8faaef9288243a7401d2e3fe8e45
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-621ff9cfd6acc17428ebfb82b93def6f
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-621ff9cfd6acc17428ebfb82b93def6f
-    projectPath: Temp\UnityTempFile-621ff9cfd6acc17428ebfb82b93def6f
+  - path: Temp\UnityTempFile-267f08242aa9bae45954a45c8da237a3
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-267f08242aa9bae45954a45c8da237a3
+    projectPath: Temp\UnityTempFile-267f08242aa9bae45954a45c8da237a3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-65b628d359fba5e44b14dc5545bdc7aa
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-65b628d359fba5e44b14dc5545bdc7aa
-    projectPath: Temp\UnityTempFile-65b628d359fba5e44b14dc5545bdc7aa
+  - path: Temp\UnityTempFile-2a80a10329232c5438cf52f64de60184
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-2a80a10329232c5438cf52f64de60184
+    projectPath: Temp\UnityTempFile-2a80a10329232c5438cf52f64de60184
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-664d6a26bcb0c2f41a98ff05667f2e62
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-664d6a26bcb0c2f41a98ff05667f2e62
-    projectPath: Temp\UnityTempFile-664d6a26bcb0c2f41a98ff05667f2e62
+  - path: Temp\UnityTempFile-2f0079091973b9f418137f1403632f24
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-2f0079091973b9f418137f1403632f24
+    projectPath: Temp\UnityTempFile-2f0079091973b9f418137f1403632f24
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-6d197dfc5009c3a4c91270ae4e4ee20e
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-6d197dfc5009c3a4c91270ae4e4ee20e
-    projectPath: Temp\UnityTempFile-6d197dfc5009c3a4c91270ae4e4ee20e
+  - path: Temp\UnityTempFile-42346886633bbca4cb3efe8fa0e358f6
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-42346886633bbca4cb3efe8fa0e358f6
+    projectPath: Temp\UnityTempFile-42346886633bbca4cb3efe8fa0e358f6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-95644c6af582dd54882e0e8bba1e3814
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-95644c6af582dd54882e0e8bba1e3814
-    projectPath: Temp\UnityTempFile-95644c6af582dd54882e0e8bba1e3814
+  - path: Temp\UnityTempFile-5dc9391d0e726e14e88b1f1d3434e6b2
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-5dc9391d0e726e14e88b1f1d3434e6b2
+    projectPath: Temp\UnityTempFile-5dc9391d0e726e14e88b1f1d3434e6b2
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-a21a5b79aad0a0c43892bcfadbcb01fa
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-a21a5b79aad0a0c43892bcfadbcb01fa
-    projectPath: Temp\UnityTempFile-a21a5b79aad0a0c43892bcfadbcb01fa
+  - path: Temp\UnityTempFile-60eb93d5a257b6b439ed72cc4ad3818e
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-60eb93d5a257b6b439ed72cc4ad3818e
+    projectPath: Temp\UnityTempFile-60eb93d5a257b6b439ed72cc4ad3818e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-a391dc6663359ed4785b417795de918b
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-a391dc6663359ed4785b417795de918b
-    projectPath: Temp\UnityTempFile-a391dc6663359ed4785b417795de918b
+  - path: Temp\UnityTempFile-67c1284914e416044970632fb24b25f0
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-67c1284914e416044970632fb24b25f0
+    projectPath: Temp\UnityTempFile-67c1284914e416044970632fb24b25f0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-b20a09a457d25db48bc5deaf4cd95447
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-b20a09a457d25db48bc5deaf4cd95447
-    projectPath: Temp\UnityTempFile-b20a09a457d25db48bc5deaf4cd95447
+  - path: Temp\UnityTempFile-688fea95dad5736479d4fa531ae9822c
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-688fea95dad5736479d4fa531ae9822c
+    projectPath: Temp\UnityTempFile-688fea95dad5736479d4fa531ae9822c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-c02083b4896a3b142b352adcc5abf782
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-c02083b4896a3b142b352adcc5abf782
-    projectPath: Temp\UnityTempFile-c02083b4896a3b142b352adcc5abf782
+  - path: Temp\UnityTempFile-7745a06fc4af75b408d1a954827e95a4
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-7745a06fc4af75b408d1a954827e95a4
+    projectPath: Temp\UnityTempFile-7745a06fc4af75b408d1a954827e95a4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-c8736be2662766146baf862f9fc2ae42
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-c8736be2662766146baf862f9fc2ae42
-    projectPath: Temp\UnityTempFile-c8736be2662766146baf862f9fc2ae42
+  - path: Temp\UnityTempFile-7e3c7b1a54961cf4d8db74c151de5109
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-7e3c7b1a54961cf4d8db74c151de5109
+    projectPath: Temp\UnityTempFile-7e3c7b1a54961cf4d8db74c151de5109
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-cd0509836789d9d419db59cb4d0fd7c3
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-cd0509836789d9d419db59cb4d0fd7c3
-    projectPath: Temp\UnityTempFile-cd0509836789d9d419db59cb4d0fd7c3
+  - path: Temp\UnityTempFile-87871172ae0901444a9f2ebb7e4b5e30
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-87871172ae0901444a9f2ebb7e4b5e30
+    projectPath: Temp\UnityTempFile-87871172ae0901444a9f2ebb7e4b5e30
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-d183bac07d219da4cabd9c7da3731b6d
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-d183bac07d219da4cabd9c7da3731b6d
-    projectPath: Temp\UnityTempFile-d183bac07d219da4cabd9c7da3731b6d
+  - path: Temp\UnityTempFile-8b4fc37dbec1efe408fe2f84e32609d0
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-8b4fc37dbec1efe408fe2f84e32609d0
+    projectPath: Temp\UnityTempFile-8b4fc37dbec1efe408fe2f84e32609d0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-d764610cd9245004aba8a41462017f20
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-d764610cd9245004aba8a41462017f20
-    projectPath: Temp\UnityTempFile-d764610cd9245004aba8a41462017f20
+  - path: Temp\UnityTempFile-9a5fdf564f5079d44922e7a101c043eb
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-9a5fdf564f5079d44922e7a101c043eb
+    projectPath: Temp\UnityTempFile-9a5fdf564f5079d44922e7a101c043eb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-d7784b3663b696d4eb33531a12937fdc
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-d7784b3663b696d4eb33531a12937fdc
-    projectPath: Temp\UnityTempFile-d7784b3663b696d4eb33531a12937fdc
+  - path: Temp\UnityTempFile-a1a038d78d607b745872b6a6f41287a1
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-a1a038d78d607b745872b6a6f41287a1
+    projectPath: Temp\UnityTempFile-a1a038d78d607b745872b6a6f41287a1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-d92a7ced3a1680f4c944b8c70ae0757b
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-d92a7ced3a1680f4c944b8c70ae0757b
-    projectPath: Temp\UnityTempFile-d92a7ced3a1680f4c944b8c70ae0757b
+  - path: Temp\UnityTempFile-ab1b59361416aa24cbb85c8c79c81b45
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-ab1b59361416aa24cbb85c8c79c81b45
+    projectPath: Temp\UnityTempFile-ab1b59361416aa24cbb85c8c79c81b45
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-e6e0e417a81737e45848464f8e69183e
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-e6e0e417a81737e45848464f8e69183e
-    projectPath: Temp\UnityTempFile-e6e0e417a81737e45848464f8e69183e
+  - path: Temp\UnityTempFile-ae0cd0e09f71375489539fa2b044c835
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-ae0cd0e09f71375489539fa2b044c835
+    projectPath: Temp\UnityTempFile-ae0cd0e09f71375489539fa2b044c835
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-fc713b32efea08e43a84421c30e66e6e
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-fc713b32efea08e43a84421c30e66e6e
-    projectPath: Temp\UnityTempFile-fc713b32efea08e43a84421c30e66e6e
+  - path: Temp\UnityTempFile-ae97a0cd9d2764b46a8bd29650d6dfda
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-ae97a0cd9d2764b46a8bd29650d6dfda
+    projectPath: Temp\UnityTempFile-ae97a0cd9d2764b46a8bd29650d6dfda
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-ffe706cb704b7a3409a3ecd8fef1a962
-    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-ffe706cb704b7a3409a3ecd8fef1a962
-    projectPath: Temp\UnityTempFile-ffe706cb704b7a3409a3ecd8fef1a962
+  - path: Temp\UnityTempFile-b9b927fda5c07e04d8d0e225cc076651
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-b9b927fda5c07e04d8d0e225cc076651
+    projectPath: Temp\UnityTempFile-b9b927fda5c07e04d8d0e225cc076651
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-bea1cfbba00a1d84cabe66ddc54800f1
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-bea1cfbba00a1d84cabe66ddc54800f1
+    projectPath: Temp\UnityTempFile-bea1cfbba00a1d84cabe66ddc54800f1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c8d684967dbbe4447a4d62142e35debf
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-c8d684967dbbe4447a4d62142e35debf
+    projectPath: Temp\UnityTempFile-c8d684967dbbe4447a4d62142e35debf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c9e39ecfd9889cd428cc75af6d3cb53a
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-c9e39ecfd9889cd428cc75af6d3cb53a
+    projectPath: Temp\UnityTempFile-c9e39ecfd9889cd428cc75af6d3cb53a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e15d6fad4881da14aab733b043176b3e
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-e15d6fad4881da14aab733b043176b3e
+    projectPath: Temp\UnityTempFile-e15d6fad4881da14aab733b043176b3e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e5ef9ce6be630d34585f3d415e3f414c
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-e5ef9ce6be630d34585f3d415e3f414c
+    projectPath: Temp\UnityTempFile-e5ef9ce6be630d34585f3d415e3f414c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f513703dfd0ffd546b5c9a4bdb89adeb
+    fullPath: C:\Users\Administrator\Documents\GitHub\GUMMYRUN\Temp\UnityTempFile-f513703dfd0ffd546b5c9a4bdb89adeb
+    projectPath: Temp\UnityTempFile-f513703dfd0ffd546b5c9a4bdb89adeb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

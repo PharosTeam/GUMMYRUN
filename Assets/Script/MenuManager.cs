@@ -10,12 +10,14 @@ using Google;
 
 public class MenuManager : MonoBehaviour
 {
-    public Animator menu, chapter, stage1, stage2, stage3, setting;
+    public Animator menu, chapter, stage1, stage2, stage3, setting, connect, achievements;
     public TextMeshPro totalStar, totalJeruk, chapter1, chapter2, chapter3;
     public Image bintang;
     public Data data;
     public int scene, chap1, chap2, chap3;
     public Setting seting;
+    public Connect conect;
+    public Achievement achievement;
     public bool pop;
     public GameObject exit;
     public Button a, b, c;
@@ -173,6 +175,8 @@ public class MenuManager : MonoBehaviour
                 case 3: Stage2ToChapter(); break;
                 case 4: Stage3ToChapter(); break;
                 case -1: SettingIn(); break;
+                case -2: ConnectIn(); break;
+                case -3: AchieveIn(); break;
             }
         }
     }
@@ -331,6 +335,46 @@ public class MenuManager : MonoBehaviour
         scene = 0;
         seting.listSfx.PlayOneShot(seting.click);
         setting.SetInteger("Flow", 2);
+        a.interactable = true;
+        b.interactable = true;
+        c.interactable = true;
+    }
+
+    public void ConnectOut()
+    {
+        scene = -2;
+        seting.listSfx.PlayOneShot(conect.click);
+        connect.SetInteger("Flow", 1);
+        a.interactable = false;
+        b.interactable = false;
+        c.interactable = false;
+    }
+
+    public void ConnectIn()
+    {
+        scene = 0;
+        seting.listSfx.PlayOneShot(conect.click);
+        connect.SetInteger("Flow", 2);
+        a.interactable = true;
+        b.interactable = true;
+        c.interactable = true;
+    }
+
+    public void AchieveOut()
+    {
+        scene = -2;
+        achievement.listSfx.PlayOneShot(achievement.click);
+        achievements.SetInteger("Flow", 1);
+        a.interactable = false;
+        b.interactable = false;
+        c.interactable = false;
+    }
+
+    public void AchieveIn()
+    {
+        scene = 0;
+        achievement.listSfx.PlayOneShot(achievement.click);
+        achievements.SetInteger("Flow", 2);
         a.interactable = true;
         b.interactable = true;
         c.interactable = true;
