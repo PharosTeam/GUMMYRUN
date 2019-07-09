@@ -99,48 +99,54 @@ public class MenuManager : MonoBehaviour
             data.music = true;
             data.sfx = true;
             data.control = true;
+            buton[0].interactable = true;
             data.saveData();
         }
         totalStar.text = "x " + data.totalStar;
         totalJeruk.text = "x " + data.totalJeruk;
 
         //Google Play Service
-        PlayGamesPlatform.Activate();
-        OnConnectionRespone(PlayGamesPlatform.Instance.localUser.authenticated);
+       // PlayGamesPlatform.Activate();
+       // OnConnectionRespone(PlayGamesPlatform.Instance.localUser.authenticated);
     }
 
     private void Update()
     {
+        for (int i = 1; i < locked.Length; i++)
+        {
+            if (data.stage[i - 1] == false)
+            {
+                    buton[i].interactable = false;
+                    locked[i].SetActive(true);
+                    number[i].SetActive(false);
+            }
+            else if (data.stage[i - 1] == true)
+            {
+                    buton[i].interactable = true;
+                    locked[i].SetActive(false);
+                    number[i].SetActive(true);
+            }      
+        }
+
         for (int i = 0; i < locked.Length; i++)
         {
-            if (data.stage[i] == false)
+            if (data.star[i] == 1)
             {
-                buton[i].interactable = false;
-                locked[i].SetActive(true);
-                number[i].SetActive(false);
+                star[i + (2 * i)].SetActive(true);
             }
-            else if (data.stage[i] == true)
+            else if (data.star[i] == 2)
             {
-                buton[i].interactable = true;
-                locked[i].SetActive(false);
-                number[i].SetActive(true);
-                if (data.star[i] == 1)
-                {
-                    star[i + (2 * i)].SetActive(true);
-                }
-                else if (data.star[i] == 2)
-                {
-                    star[i + (2 * i)].SetActive(true);
-                    star[i + (2 * i) + 1].SetActive(true);
-                }
-                else if (data.star[i] == 3)
-                {
-                    star[i + (2 * i)].SetActive(true);
-                    star[i + (2 * i) + 1].SetActive(true);
-                    star[i + (2 * i) + 2].SetActive(true);
-                }
+                star[i + (2 * i)].SetActive(true);
+                star[i + (2 * i) + 1].SetActive(true);
+            }
+            else if (data.star[i] == 3)
+            {
+                star[i + (2 * i)].SetActive(true);
+                star[i + (2 * i) + 1].SetActive(true);
+                star[i + (2 * i) + 2].SetActive(true);
             }
         }
+
         if (Input.GetKeyDown(KeyCode.Escape))
         {
             switch (scene)
